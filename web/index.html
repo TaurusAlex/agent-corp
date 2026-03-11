@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Corp - AI Agent知识图谱</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(180deg, rgba(99,102,241,0.2) 0%, transparent 100%);
+        }
+        
+        .header h1 {
+            font-size: 3.5rem;
+            background: linear-gradient(135deg, #6366f1, #a855f7, #ec4899);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            color: #94a3b8;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .search-box {
+            max-width: 600px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        
+        .search-box input {
+            width: 100%;
+            padding: 16px 24px;
+            font-size: 1.1rem;
+            border: 2px solid rgba(99,102,241,0.3);
+            border-radius: 50px;
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+            outline: none;
+            transition: all 0.3s;
+        }
+        
+        .search-box input:focus {
+            border-color: #6366f1;
+            box-shadow: 0 0 30px rgba(99,102,241,0.3);
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            padding: 30px 20px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #6366f1;
+        }
+        
+        .stat-label {
+            color: #94a3b8;
+            font-size: 0.9rem;
+        }
+        
+        .categories {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .category-tag {
+            padding: 8px 20px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.1);
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 1px solid transparent;
+        }
+        
+        .category-tag:hover, .category-tag.active {
+            background: rgba(99,102,241,0.3);
+            border-color: #6366f1;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .industry-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        
+        .industry-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 24px;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+        
+        .industry-card:hover {
+            transform: translateY(-5px);
+            border-color: #6366f1;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }
+        
+        .industry-name {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #f1f5f9;
+        }
+        
+        .industry-description {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            margin-bottom: 16px;
+        }
+        
+        .agents-preview {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .agent-badge {
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            background: rgba(99,102,241,0.2);
+            color: #a5b4fc;
+        }
+        
+        .skills-count {
+            margin-top: 12px;
+            color: #64748b;
+            font-size: 0.85rem;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        
+        .modal.show {
+            display: block;
+            animation: fadeIn 0.3s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .modal-content {
+            max-width: 900px;
+            margin: 50px auto;
+            background: #1e1e2e;
+            border-radius: 20px;
+            padding: 40px;
+            position: relative;
+        }
+        
+        .close-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 2rem;
+            cursor: pointer;
+            color: #94a3b8;
+        }
+        
+        .modal h2 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: #6366f1;
+        }
+        
+        .modal-subtitle {
+            color: #94a3b8;
+            margin-bottom: 30px;
+        }
+        
+        .agent-section {
+            margin-bottom: 30px;
+        }
+        
+        .agent-title {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .agent-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        
+        .skill-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.3s;
+        }
+        
+        .skill-card:hover {
+            border-color: #a855f7;
+            background: rgba(168,85,247,0.1);
+        }
+        
+        .skill-name {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #e2e8f0;
+        }
+        
+        .skill-desc {
+            font-size: 0.85rem;
+            color: #94a3b8;
+            line-height: 1.5;
+        }
+        
+        .skill-link {
+            margin-top: 10px;
+            font-size: 0.8rem;
+            color: #6366f1;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 40px;
+            color: #64748b;
+        }
+        
+        .footer a {
+            color: #6366f1;
+            text-decoration: none;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 2rem; }
+            .stats { gap: 20px; }
+            .stat-number { font-size: 1.8rem; }
+            .industry-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🤖 Agent Corp</h1>
+        <p>AI Agent知识图谱 - 147个行业 × 3个Agent × 多个Skills</p>
+        
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜索行业、Agent或Skill... (如: video, AI, 营销)">
+        </div>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-number">147</div>
+                <div class="stat-label">行业</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">441</div>
+                <div class="stat-label">Agents</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">1556</div>
+                <div class="stat-label">Skills</div>
+            </div>
+        </div>
+        
+        <div class="categories">
+            <span class="category-tag active" data-category="all">全部</span>
+            <span class="category-tag" data-category="tech">科技</span>
+            <span class="category-tag" data-category="business">商业</span>
+            <span class="category-tag" data-category="health">健康</span>
+            <span class="category-tag" data-category="lifestyle">生活</span>
+            <span class="category-tag" data-category="service">服务</span>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="industry-grid" id="industryGrid">
+            <!-- Industries will be rendered here -->
+        </div>
+    </div>
+    
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modalTitle">Industry</h2>
+            <p class="modal-subtitle" id="modalDesc">Description</p>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>Built with ❤️ by <a href="https://github.com/TaurusAlex/agent-corp" target="_blank">TaurusAlex</a></p>
+    </div>
+
+    <script>
+        const industries = [
+            { name: "Video Marketing", description: "视频营销推广代理", agents: 3, skills: 19, category: "business", path: "video-marketing" },
+            { name: "AI & Machine Learning", description: "AI与机器学习产品/服务", agents: 3, skills: 9, category: "tech", path: "ai-ml" },
+            { name: "SaaS", description: "软件即服务", agents: 3, skills: 6, category: "tech", path: "saas" },
+            { name: "E-commerce", description: "电商零售", agents: 3, skills: 6, category: "business", path: "ecommerce" },
+            { name: "Healthcare", description: "医疗健康服务", agents: 3, skills: 6, category: "health", path: "healthcare" },
+            { name: "EdTech", description: "教育科技", agents: 3, skills: 6, category: "tech", path: "edtech" },
+            { name: "Fintech", description: "金融科技", agents: 3, skills: 6, category: "business", path: "fintech" },
+            { name: "Gaming", description: "游戏开发/发行", agents: 3, skills: 6, category: "lifestyle", path: "gaming" },
+            { name: "Digital Marketing", description: "数字营销服务", agents: 3, skills: 6, category: "business", path: "digital-marketing" },
+            { name: "Food Delivery", description: "外卖配送平台", agents: 3, skills: 6, category: "lifestyle", path: "food-delivery" },
+            { name: "Cybersecurity", description: "网络安全", agents: 3, skills: 6, category: "tech", path: "cybersecurity" },
+            { name: "Blockchain", description: "区块链", agents: 3, skills: 6, category: "tech", path: "blockchain" },
+            { name: "Fitness", description: "健身运动", agents: 3, skills: 6, category: "health", path: "fitness" },
+            { name: "Beauty", description: "美妆个护", agents: 3, skills: 6, category: "lifestyle", path: "beauty" },
+            { name: "Fashion", description: "时尚服饰", agents: 3, skills: 6, category: "lifestyle", path: "fashion" },
+            { name: "Real Estate", description: "房地产", agents: 3, skills: 6, category: "business", path: "real-estate" },
+            { name: "Travel", description: "旅游科技", agents: 3, skills: 6, category: "lifestyle", path: "travel" },
+            { name: "Automotive", description: "汽车科技", agents: 3, skills: 6, category: "tech", path: "automotive" },
+            { name: "Crypto", description: "加密货币", agents: 3, skills: 6, category: "tech", path: "crypto" },
+            { name: "Telehealth", description: "远程医疗", agents: 3, skills: 6, category: "health", path: "telehealth" },
+            { name: "Logistics", description: "物流配送", agents: 3, skills: 6, category: "service", path: "logistics" },
+            { name: "HR Tech", description: "人力资源科技", agents: 3, skills: 6, category: "business", path: "hr-tech" },
+            { name: "Sales Automation", description: "销售自动化", agents: 3, skills: 6, category: "business", path: "sales-automation" },
+            { name: "Email Marketing", description: "邮件营销", agents: 3, skills: 6, category: "business", path: "email-marketing" },
+            { name: "Social Media", description: "社交媒体", agents: 3, skills: 6, category: "tech", path: "social-media" },
+            { name: "Streaming", description: "流媒体平台", agents: 3, skills: 6, category: "lifestyle", path: "streaming" },
+            { name: "Podcast", description: "播客平台", agents: 3, skills: 6, category: "lifestyle", path: "podcast" },
+            { name: "Coworking", description: "联合办公", agents: 3, skills: 6, category: "service", path: "coworking" },
+            { name: "Recruitment", description: "招聘平台", agents: 3, skills: 6, category: "service", path: "recruitment" },
+            { name: "Insurance", description: "保险科技", agents: 3, skills: 6, category: "business", path: "insurance" },
+            { name: "Investment", description: "投资理财", agents: 3, skills: 6, category: "business", path: "investment" },
+            { name: "Security", description: "安防科技", agents: 3, skills: 6, category: "tech", path: "security" },
+            { name: "IoT", description: "物联网", agents: 3, skills: 6, category: "tech", path: "iot" },
+            { name: "AR/VR", description: "增强/虚拟现实", agents: 3, skills: 6, category: "tech", path: "ar-vr" },
+            { name: "Dating", description: "约会交友", agents: 3, skills: 6, category: "lifestyle", path: "dating" },
+            { name: "Pets", description: "宠物用品", agents: 3, skills: 6, category: "lifestyle", path: "pets" },
+            { name: "Sports", description: "体育运动", agents: 3, skills: 6, category: "health", path: "sports" },
+            { name: "Home Living", description: "家居生活", agents: 3, skills: 6, category: "lifestyle", path: "home-living" },
+            { name: "Events", description: "活动科技", agents: 3, skills: 6, category: "service", path: "events" },
+            { name: "Sustainability", description: "可持续发展", agents: 3, skills: 6, category: "tech", path: "sustainability" }
+        ];
+
+        const agentData = {
+            "Creative Director": { icon: "🎬", color: "#6366f1", skills: ["Market Research", "Copywriting", "Brand Strategy", "Product Marketing", "Content Planning"] },
+            "Video Producer": { icon: "🎥", color: "#a855f7", skills: ["Video Editing", "Thumbnail Design", "Motion Graphics", "Audio Editing", "Color Grading"] },
+            "Distribution Officer": { icon: "📱", color: "#ec4899", skills: ["Social Publishing", "Analytics", "Community Management", "Hashtag Strategy", "Influencer Outreach"] }
+        };
+
+        const skillDetails = {
+            "Market Research": "市场调研，竞品分析",
+            "Copywriting": "文案撰写，广告创意",
+            "Brand Strategy": "品牌定位，策略规划",
+            "Product Marketing": "产品营销，推广策略",
+            "Content Planning": "内容规划，日程安排",
+            "Video Editing": "视频剪辑，后期制作",
+            "Thumbnail Design": "封面设计，点击率优化",
+            "Motion Graphics": "动效制作，动画设计",
+            "Audio Editing": "音频编辑，声音处理",
+            "Color Grading": "调色校准，视觉风格",
+            "Social Publishing": "社媒发布，多平台运营",
+            "Analytics": "数据分析，效果追踪",
+            "Community Management": "社群管理，用户运营",
+            "Hashtag Strategy": "标签策略，流量获取",
+            "Influencer Outreach": "红人合作，KOL营销"
+        };
+
+        let currentCategory = 'all';
+        let searchTerm = '';
+
+        function renderIndustries() {
+            const grid = document.getElementById('industryGrid');
+            grid.innerHTML = '';
+            
+            const filtered = industries.filter(ind => {
+                const matchCategory = currentCategory === 'all' || ind.category === currentCategory;
+                const matchSearch = searchTerm === '' || 
+                    ind.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                    ind.description.includes(searchTerm);
+                return matchCategory && matchSearch;
+            });
+            
+            filtered.forEach(ind => {
+                const card = document.createElement('div');
+                card.className = 'industry-card';
+                card.onclick = () => openModal(ind);
+                card.innerHTML = `
+                    <div class="industry-name">${ind.name}</div>
+                    <div class="industry-description">${ind.description}</div>
+                    <div class="agents-preview">
+                        <span class="agent-badge">🎬 Creative Director</span>
+                        <span class="agent-badge">🎥 Producer</span>
+                        <span class="agent-badge">📱 Distribution</span>
+                    </div>
+                    <div class="skills-count">${ind.skills} Skills</div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        function openModal(ind) {
+            document.getElementById('modalTitle').textContent = ind.name;
+            document.getElementById('modalDesc').textContent = ind.description;
+            
+            let html = '';
+            for (const [agent, data] of Object.entries(agentData)) {
+                html += `
+                    <div class="agent-section">
+                        <div class="agent-title">
+                            <span class="agent-icon" style="background: ${data.color}">${data.icon}</span>
+                            <span>${agent}</span>
+                        </div>
+                        <div class="skills-grid">
+                            ${data.skills.map(skill => `
+                                <div class="skill-card">
+                                    <div class="skill-name">${skill}</div>
+                                    <div class="skill-desc">${skillDetails[skill] || 'Skill description'}</div>
+                                    <div class="skill-link">📄 ${ind.path}/${agent.toLowerCase().replace(' ', '-')}/en/skills/</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            document.getElementById('modalBody').html = html;
+            document.getElementById('modal').classList.add('show');
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.remove('show');
+        }
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            searchTerm = e.target.value;
+            renderIndustries();
+        });
+
+        document.querySelectorAll('.category-tag').forEach(tag => {
+            tag.addEventListener('click', () => {
+                document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
+                tag.classList.add('active');
+                currentCategory = tag.dataset.category;
+                renderIndustries();
+            });
+        });
+
+        document.getElementById('modal').addEventListener('click', (e) => {
+            if (e.target.id === 'modal') closeModal();
+        });
+
+        renderIndustries();
+    </script>
+</body>
+</html>
