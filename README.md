@@ -1,154 +1,199 @@
 # 🤖 Agent Corp
 
-> AI Agent知识图谱 - 147个行业 × 3个Agent × 多个Skills
+> AI Agent知识图谱 + 技能市场 | For Humans & Agents
 
-[🌐 在线预览](https://taurusalex.github.io/agent-corp) | [📖 中文文档](./README-ZH.md)
+[🌐 Web Dashboard](https://taurusalex.github.io/agent-corp) | [📦 npm](https://npmjs.com/package/agent-corp) | [💻 GitHub](https://github.com/TaurusAlex/agent-corp)
 
-## 📊 项目概览
+## 📊 Overview
 
-| 指标 | 数量 |
-|------|------|
-| 行业/公司 | 147 |
-| Agents | 441 |
-| Skills | 1556+ |
+Agent Corp 是一个面向 **人类** 和 **AI Agents** 的双端产品：
 
-## 🎯 快速开始
+| 用户类型 | 使用方式 |
+|----------|----------|
+| 👤 人类 | 通过对话描述需求，Agent自动匹配Skills完成任务 |
+| 🤖 Agent | 直接调用Skill API，程序化完成任务 |
 
-```bash
-# Clone项目
-git clone https://github.com/TaurusAlex/agent-corp.git
+## 🏗️ 产品架构
 
-# 本地预览网页
-cd agent-corp/web
-python3 -m http.server 8080
-# 打开 http://localhost:8080
+```
+┌─────────────────────────────────────────────────────┐
+│                   Agent Corp                         │
+├─────────────────────────────────────────────────────┤
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐ │
+│  │   Web UI    │  │   REST API  │  │   CLI Tool  │ │
+│  │  (Dashboard)│  │  (Agent用)  │  │  (人类用)   │ │
+│  └─────────────┘  └─────────────┘  └─────────────┘ │
+├─────────────────────────────────────────────────────┤
+│                    Skills Engine                     │
+│  ┌──────────────────────────────────────────────┐  │
+│  │  Core Skills  │  Industry Skills  │ Utility   │  │
+│  │  - research  │  - video-marketing │ - api    │  │
+│  │  - copywriting│  - ai-ml        │ - automation│  │
+│  │  - code-gen  │  - ecommerce     │ - testing  │  │
+│  │  - analytics │  - healthcare    │ - ...      │  │
+│  └──────────────────────────────────────────────┘  │
+├─────────────────────────────────────────────────────┤
+│                  Industry Templates                   │
+│            147 Industries × 3 Agents                │
+└─────────────────────────────────────────────────────┘
 ```
 
-## 🏗️ 项目结构
+## 📦 Skills (双重模式)
+
+### 人类模式 (Natural Language)
+```
+用户: "帮我写个产品广告"
+Agent: 调用 copywriting skill → 生成文案
+```
+
+### Agent模式 (API调用)
+```python
+# 直接调用Skills
+result = await agent.call_skill("copywriting", {
+    "type": "product_ad",
+    "product": "AI Tool",
+    "audience": "developers"
+})
+```
+
+## 🛠️ 核心Skills (Core)
+
+| Skill | 描述 | 人类用法 | Agent用法 |
+|-------|------|----------|----------|
+| `research` | 调研 | "调研AI趋势" | `call_skill("research", {...})` |
+| `copywriting` | 文案 | "写个广告" | `call_skill("copywriting", {...})` |
+| `code-generation` | 写代码 | "写个爬虫" | `call_skill("code-generation", {...})` |
+| `data-analysis` | 分析 | "分析销售数据" | `call_skill("data-analysis", {...})` |
+| `project-management` | 项目管理 | "规划项目" | `call_skill("project-management", {...})` |
+
+## 🏭 行业Skills (Industry)
+
+| 行业 | Agent 1 | Agent 2 | Agent 3 |
+|------|---------|---------|---------|
+| Video Marketing | 🎬 创意导演 | 🎥 制作 | 📱 分发 |
+| AI/ML | 产品策略 | 技术实现 | 社区运营 |
+| Ecommerce | 品牌策略 | 视觉创作 | 用户增长 |
+| Healthcare | 内容策略 | 教育制作 | 患者获取 |
+
+## 🔌 Agent集成
+
+### Python
+```python
+from agent_corp import Agent
+
+agent = Agent(api_key="your-key")
+
+# 调用Skill
+result = agent.execute(
+    skill="research",
+    params={"topic": "AI trends"}
+)
+
+# 或直接
+result = await agent.skills.copywriting.write(
+    type="ad",
+    product="MyApp"
+)
+```
+
+### JavaScript
+```javascript
+const { Agent } = require('agent-corp');
+
+const agent = new Agent({ apiKey: 'your-key' });
+
+// 调用Skill
+const result = await agent.execute('research', {
+  topic: 'AI trends'
+});
+```
+
+### CLI (人类使用)
+```bash
+# 安装
+npm install -g agent-corp
+
+# 使用
+agent-corp research "AI trends"
+agent-corp copywriting --type ad --product "MyApp"
+agent-corp code-generation --language python --task "API client"
+```
+
+## 🌐 Web Dashboard
+
+访问 [Web Dashboard](https://taurusalex.github.io/agent-corp) 浏览：
+- 147个行业模板
+- 441个Agents
+- 1556+个Skills
+- 知识图谱可视化
+
+## 📁 项目结构
 
 ```
 agent-corp/
-├── web/                    # 🌐 前端知识图谱网页
-│   └── index.html         # 交互式行业/Agent/Skill浏览器
+├── skills/                    # Skills库
+│   ├── core/                # 核心Skills
+│   │   ├── research.md
+│   │   ├── copywriting.md
+│   │   ├── code-generation.md
+│   │   ├── data-analysis.md
+│   │   └── project-management.md
+│   ├── industry/            # 行业Skills
+│   └── utility/            # 工具Skills
+│       ├── api-integration.md
+│       ├── automation.md
+│       └── testing.md
 │
-├── video-marketing/        # 示例：视频营销公司
-│   ├── creative-director/ # 🎬 创意导演
-│   │   └── en/
-│   │       ├── AGENT.md   # Agent定义
-│   │       └── skills/    # 技能包
-│   │           ├── script-writing.md
-│   │           ├── content-planning.md
-│   │           └── market-research.md
-│   │
-│   ├── video-producer/   # 🎥 视频制作
-│   │   └── en/skills/
-│   │       ├── video-editing.md
-│   │       └── thumbnail-design.md
-│   │
-│   └── distribution-officer/ # 📱 运营分发
-│       └── en/skills/
-│           ├── social-publishing.md
-│           └── analytics-reporting.md
+├── industries/              # 行业模板 (147个)
+│   ├── video-marketing/
+│   ├── ai-ml/
+│   ├── ecommerce/
+│   └── ...
 │
-├── ai-ml/                 # AI & Machine Learning
-├── saas/                  # Software as a Service
-├── ecommerce/             # E-commerce
-├── healthcare/            # Healthcare
-├── fintech/               # Financial Technology
-├── gaming/                # Gaming
-└── ...                    # 更多行业 (147个)
+├── web/                     # 前端Dashboard
+│   └── index.html
+│
+├── sdk/                     # SDK开发中
+│   ├── python/
+│   └── javascript/
+│
+└── README.md
 ```
 
-## 🏢 公司架构
+## 🚀 快速开始
 
-每个行业公司采用最小可行架构：
-
-```
-┌─────────────────────────────────────────────────┐
-│              Company (公司)                      │
-├─────────────────────────────────────────────────┤
-│  🎬 Creative Director   │ 策略、内容、定位        │
-│  🎥 Video Producer     │ 制作、视觉、内容        │
-│  📱 Distribution       │ 分发、增长、分析         │
-└─────────────────────────────────────────────────┘
-         ↓           ↓           ↓
-      Skills      Skills      Skills
-    (2-6个)     (2-6个)     (2-6个)
-```
-
-## 📦 Agent结构
-
-### Creative Director (创意导演)
-负责策略和内容规划
-
-**核心技能:**
-- Market Research (市场调研)
-- Copywriting (文案撰写)
-- Brand Strategy (品牌策略)
-- Product Marketing (产品营销)
-- Content Planning (内容策划)
-
-### Producer (制作)
-负责内容创作和制作
-
-**核心技能:**
-- Video Editing (视频剪辑)
-- Thumbnail Design (封面设计)
-- Motion Graphics (动效制作)
-- Audio Editing (音频编辑)
-- Color Grading (调色)
-
-### Distribution Officer (分发运营)
-负责分发和增长
-
-**核心技能:**
-- Social Publishing (社媒发布)
-- Analytics (数据分析)
-- Community Management (社群管理)
-- Hashtag Strategy (标签策略)
-- Influencer Outreach (红人合作)
-
-## 🔍 浏览方式
-
-### 方式1: 网页预览 (推荐)
+### 人类
 ```bash
-cd web
-python3 -m http.server 8080
-# 访问 http://localhost:8080
+# 安装CLI
+npm install -g agent-corp
+
+# 使用
+agent-corp --help
+agent-corp research "AI in 2026"
 ```
 
-### 方式2: 命令行浏览
-```bash
-# 列出所有行业
-ls -d */
+### Agent
+```python
+pip install agent-corp
 
-# 查看特定行业
-ls video-marketing/*/en/
-
-# 查看Skills
-ls video-marketing/creative-director/en/skills/
+# 使用
+from agent_corp import AgentCorp
+agent = AgentCorp()
+result = agent.execute("research", topic="AI")
 ```
 
-## 🌐 支持的语言
+## 🤝 贡献
 
-- English (英文)
-- 中文 (后续添加)
+欢迎贡献Skills！
 
-## 🤝 如何贡献
-
-1. Fork本项目
-2. 创建新行业分支: `git checkout -b add-new-industry`
-3. 添加你的行业模板
-4. 提交PR
+1. Fork项目
+2. 添加新Skill到 `skills/` 目录
+3. 提交PR
 
 ## 📄 License
 
-MIT License
-
-## 👤 作者
-
-- GitHub: [@TaurusAlex](https://github.com/TaurusAlex)
+MIT
 
 ---
 
-**用AI构建AI，用自动化服务自动化** 🚀
+**Built with ❤️ for both Humans and Agents** 🌐
