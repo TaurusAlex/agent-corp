@@ -1,0 +1,3 @@
+# Eco Design
+
+Industry template.

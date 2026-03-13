@@ -1,0 +1,3 @@
+# Farm Management
+
+Industry template.

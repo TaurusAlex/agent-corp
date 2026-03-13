@@ -1,0 +1,3 @@
+# Microstock
+
+Industry template.

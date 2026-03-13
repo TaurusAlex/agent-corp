@@ -1,0 +1,3 @@
+# Biodegradable
+
+Industry template.

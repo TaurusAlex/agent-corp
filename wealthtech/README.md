@@ -1,0 +1,3 @@
+# Wealthtech
+
+Industry template.

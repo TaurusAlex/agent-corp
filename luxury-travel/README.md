@@ -1,0 +1,3 @@
+# Luxury Travel
+
+Industry template.

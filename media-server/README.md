@@ -1,0 +1,3 @@
+# Media Server
+
+Industry template.

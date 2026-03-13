@@ -1,0 +1,3 @@
+# Photographer Marketplace
+
+Industry template.

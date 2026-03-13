@@ -1,0 +1,3 @@
+# Sales Technology
+
+Industry template.

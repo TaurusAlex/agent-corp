@@ -1,0 +1,3 @@
+# Language Translation
+
+Industry template.

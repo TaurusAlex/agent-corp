@@ -1,0 +1,3 @@
+# Destination Wedding
+
+Industry template.

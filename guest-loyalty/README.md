@@ -1,0 +1,3 @@
+# Guest Loyalty
+
+Industry template.

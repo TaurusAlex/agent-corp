@@ -1,0 +1,3 @@
+# Publishing Rights
+
+Industry template.

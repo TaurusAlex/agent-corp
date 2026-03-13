@@ -1,0 +1,3 @@
+# Data Lake
+
+Industry template.

@@ -1,0 +1,3 @@
+# Health Tech
+
+Industry template.

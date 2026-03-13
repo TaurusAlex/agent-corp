@@ -1,0 +1,3 @@
+# Video Editing
+
+Industry template.

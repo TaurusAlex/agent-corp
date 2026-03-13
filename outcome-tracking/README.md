@@ -1,0 +1,3 @@
+# Outcome Tracking
+
+Industry template.

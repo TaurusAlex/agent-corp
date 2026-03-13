@@ -1,0 +1,3 @@
+# Sales Analytics
+
+Industry template.

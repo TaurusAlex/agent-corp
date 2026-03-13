@@ -1,0 +1,3 @@
+# Solar Energy
+
+Industry template.

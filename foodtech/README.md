@@ -1,0 +1,3 @@
+# Foodtech
+
+Industry template.

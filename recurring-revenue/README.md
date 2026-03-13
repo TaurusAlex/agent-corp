@@ -1,0 +1,3 @@
+# Recurring Revenue
+
+Industry template.

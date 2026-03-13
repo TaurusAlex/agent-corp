@@ -1,0 +1,3 @@
+# Esports Organization
+
+Industry template.

@@ -1,0 +1,3 @@
+# Actuarial
+
+Industry template.

@@ -1,0 +1,3 @@
+# Smart Shelves
+
+Industry template.

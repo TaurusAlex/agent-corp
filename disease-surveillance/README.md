@@ -1,0 +1,3 @@
+# Disease Surveillance
+
+Industry template.

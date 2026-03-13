@@ -1,0 +1,3 @@
+# Headless Cms
+
+Industry template.

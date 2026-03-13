@@ -1,0 +1,3 @@
+# Skincare
+
+Industry template.

@@ -1,0 +1,3 @@
+# Hotel Software
+
+Industry template.

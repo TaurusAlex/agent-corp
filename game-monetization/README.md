@@ -1,0 +1,3 @@
+# Game Monetization
+
+Industry template.

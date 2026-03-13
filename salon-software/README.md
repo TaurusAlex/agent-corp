@@ -1,0 +1,3 @@
+# Salon Software
+
+Industry template.

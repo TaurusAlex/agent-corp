@@ -1,0 +1,3 @@
+# Winery
+
+Industry template.

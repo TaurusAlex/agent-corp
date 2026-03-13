@@ -1,0 +1,3 @@
+# Epic Games
+
+Industry template.

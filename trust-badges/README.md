@@ -1,0 +1,3 @@
+# Trust Badges
+
+Industry template.

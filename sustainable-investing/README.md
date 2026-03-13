@@ -1,0 +1,3 @@
+# Sustainable Investing
+
+Industry template.

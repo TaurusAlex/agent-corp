@@ -1,0 +1,3 @@
+# Vegetarian
+
+Industry template.

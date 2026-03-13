@@ -1,0 +1,3 @@
+# Pc Gaming
+
+Industry template.

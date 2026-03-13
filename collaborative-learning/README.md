@@ -1,0 +1,3 @@
+# Collaborative Learning
+
+Industry template.

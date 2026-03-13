@@ -1,0 +1,3 @@
+# Kyc Fintech
+
+Industry template.

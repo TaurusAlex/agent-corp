@@ -1,0 +1,3 @@
+# Salon Management
+
+Industry template.

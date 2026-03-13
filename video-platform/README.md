@@ -1,0 +1,3 @@
+# Video Platform
+
+Industry template.

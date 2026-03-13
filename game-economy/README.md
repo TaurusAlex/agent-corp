@@ -1,0 +1,3 @@
+# Game Economy
+
+Industry template.

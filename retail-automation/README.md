@@ -1,0 +1,3 @@
+# Retail Automation
+
+Industry template.

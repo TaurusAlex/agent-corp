@@ -1,0 +1,3 @@
+# Solar Management
+
+Industry template.

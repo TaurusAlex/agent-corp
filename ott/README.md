@@ -1,0 +1,3 @@
+# Ott
+
+Industry template.

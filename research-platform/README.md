@@ -1,0 +1,3 @@
+# Research Platform
+
+Industry template.

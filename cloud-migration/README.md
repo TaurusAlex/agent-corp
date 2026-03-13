@@ -1,0 +1,3 @@
+# Cloud Migration
+
+Industry template.

@@ -1,0 +1,3 @@
+# Yoga
+
+Industry template.

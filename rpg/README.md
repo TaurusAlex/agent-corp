@@ -1,0 +1,3 @@
+# Rpg
+
+Industry template.

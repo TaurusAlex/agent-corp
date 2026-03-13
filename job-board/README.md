@@ -1,0 +1,3 @@
+# Job Board
+
+Industry template.

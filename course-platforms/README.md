@@ -1,0 +1,3 @@
+# Course Platforms
+
+Industry template.

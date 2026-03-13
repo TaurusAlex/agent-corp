@@ -1,0 +1,3 @@
+# Blended Learning
+
+Industry template.

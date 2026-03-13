@@ -1,0 +1,3 @@
+# Ratings
+
+Industry template.

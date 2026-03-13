@@ -1,0 +1,3 @@
+# Networking Platform
+
+Industry template.

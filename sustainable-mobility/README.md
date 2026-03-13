@@ -1,0 +1,3 @@
+# Sustainable Mobility
+
+Industry template.

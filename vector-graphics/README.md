@@ -1,0 +1,3 @@
+# Vector Graphics
+
+Industry template.

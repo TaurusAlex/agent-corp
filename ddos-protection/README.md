@@ -1,0 +1,3 @@
+# Ddos Protection
+
+Industry template.

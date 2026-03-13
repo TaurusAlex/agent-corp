@@ -1,0 +1,3 @@
+# Accounts Receivable
+
+Industry template.

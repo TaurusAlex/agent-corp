@@ -1,0 +1,3 @@
+# Photo Platform
+
+Industry template.

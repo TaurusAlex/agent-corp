@@ -1,0 +1,3 @@
+# Paid Social
+
+Industry template.

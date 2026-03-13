@@ -1,0 +1,3 @@
+# Electric Scooters
+
+Industry template.

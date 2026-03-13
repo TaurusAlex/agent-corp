@@ -1,0 +1,3 @@
+# Shooter Games
+
+Industry template.

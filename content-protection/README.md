@@ -1,0 +1,3 @@
+# Content Protection
+
+Industry template.

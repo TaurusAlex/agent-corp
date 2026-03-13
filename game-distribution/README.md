@@ -1,0 +1,3 @@
+# Game Distribution
+
+Industry template.

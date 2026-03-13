@@ -1,0 +1,3 @@
+# Climate Tech
+
+Industry template.

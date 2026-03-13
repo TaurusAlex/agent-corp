@@ -1,0 +1,3 @@
+# Skiing
+
+Industry template.

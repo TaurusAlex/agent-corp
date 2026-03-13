@@ -1,0 +1,3 @@
+# Video Hosting
+
+Industry template.

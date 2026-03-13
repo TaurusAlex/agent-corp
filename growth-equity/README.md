@@ -1,0 +1,3 @@
+# Growth Equity
+
+Industry template.

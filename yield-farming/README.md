@@ -1,0 +1,3 @@
+# Yield Farming
+
+Industry template.

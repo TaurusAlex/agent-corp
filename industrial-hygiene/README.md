@@ -1,0 +1,3 @@
+# Industrial Hygiene
+
+Industry template.

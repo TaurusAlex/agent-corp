@@ -1,0 +1,3 @@
+# Puzzle Games
+
+Industry template.

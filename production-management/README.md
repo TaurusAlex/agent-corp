@@ -1,0 +1,3 @@
+# Production Management
+
+Industry template.

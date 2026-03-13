@@ -1,0 +1,3 @@
+# Machine Vision
+
+Industry template.

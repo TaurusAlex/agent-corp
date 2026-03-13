@@ -1,0 +1,3 @@
+# Lab Management
+
+Industry template.

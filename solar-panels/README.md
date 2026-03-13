@@ -1,0 +1,3 @@
+# Solar Panels
+
+Industry template.

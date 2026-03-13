@@ -1,0 +1,3 @@
+# Circular Economy
+
+Industry template.

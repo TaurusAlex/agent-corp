@@ -1,0 +1,3 @@
+# Connected Car
+
+Industry template.

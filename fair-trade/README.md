@@ -1,0 +1,3 @@
+# Fair Trade
+
+Industry template.

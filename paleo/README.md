@@ -1,0 +1,3 @@
+# Paleo
+
+Industry template.

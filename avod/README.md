@@ -1,0 +1,3 @@
+# Avod
+
+Industry template.

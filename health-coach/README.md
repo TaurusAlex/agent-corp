@@ -1,0 +1,3 @@
+# Health Coach
+
+Industry template.

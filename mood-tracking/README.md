@@ -1,0 +1,3 @@
+# Mood Tracking
+
+Industry template.

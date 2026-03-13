@@ -1,0 +1,3 @@
+# Brewery
+
+Industry template.

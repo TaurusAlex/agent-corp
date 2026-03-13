@@ -1,0 +1,3 @@
+# Solar Installations
+
+Industry template.

@@ -1,0 +1,3 @@
+# Photography Tech
+
+Industry template.

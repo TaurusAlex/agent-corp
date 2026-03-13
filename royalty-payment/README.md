@@ -1,0 +1,3 @@
+# Royalty Payment
+
+Industry template.

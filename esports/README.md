@@ -1,0 +1,3 @@
+# Esports
+
+Industry template.

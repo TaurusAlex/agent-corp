@@ -1,0 +1,3 @@
+# Pharma Tech
+
+Industry template.

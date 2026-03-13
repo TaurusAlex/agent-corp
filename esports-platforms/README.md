@@ -1,0 +1,3 @@
+# Esports Platforms
+
+Industry template.

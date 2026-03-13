@@ -1,0 +1,3 @@
+# Social Music
+
+Industry template.

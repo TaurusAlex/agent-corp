@@ -1,0 +1,3 @@
+# Wedding Photography
+
+Industry template.

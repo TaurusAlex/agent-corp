@@ -1,0 +1,3 @@
+# Channel Manager
+
+Industry template.

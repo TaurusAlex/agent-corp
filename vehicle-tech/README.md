@@ -1,0 +1,3 @@
+# Vehicle Tech
+
+Industry template.

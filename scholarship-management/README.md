@@ -1,0 +1,3 @@
+# Scholarship Management
+
+Industry template.

@@ -1,0 +1,3 @@
+# Natural Food
+
+Industry template.

@@ -1,0 +1,3 @@
+# Healthcare Software
+
+Industry template.

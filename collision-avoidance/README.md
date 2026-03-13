@@ -1,0 +1,3 @@
+# Collision Avoidance
+
+Industry template.

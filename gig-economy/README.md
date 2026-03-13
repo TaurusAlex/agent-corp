@@ -1,0 +1,3 @@
+# Gig Economy
+
+Industry template.

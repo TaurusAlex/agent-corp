@@ -1,0 +1,3 @@
+# Horror Games
+
+Industry template.

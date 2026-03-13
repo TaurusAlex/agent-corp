@@ -1,0 +1,3 @@
+# Copyright Protection
+
+Industry template.

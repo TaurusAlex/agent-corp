@@ -1,0 +1,3 @@
+# Business License
+
+Industry template.

@@ -1,0 +1,3 @@
+# Hospitality
+
+Industry template.

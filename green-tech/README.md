@@ -1,0 +1,3 @@
+# Green Tech
+
+Industry template.

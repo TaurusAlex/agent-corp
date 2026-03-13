@@ -1,0 +1,3 @@
+# Smart City
+
+Industry template.

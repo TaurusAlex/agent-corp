@@ -1,0 +1,3 @@
+# Piracy Protection
+
+Industry template.

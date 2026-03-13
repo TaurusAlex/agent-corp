@@ -1,0 +1,3 @@
+# Notary
+
+Industry template.

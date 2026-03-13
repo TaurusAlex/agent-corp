@@ -1,0 +1,3 @@
+# Health Insurance
+
+Industry template.

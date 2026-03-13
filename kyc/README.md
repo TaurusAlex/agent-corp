@@ -1,0 +1,3 @@
+# Kyc
+
+Industry template.

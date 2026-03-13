@@ -1,0 +1,3 @@
+# Farming Robots
+
+Industry template.

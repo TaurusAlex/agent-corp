@@ -1,0 +1,3 @@
+# Help Center
+
+Industry template.

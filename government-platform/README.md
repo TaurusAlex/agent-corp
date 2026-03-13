@@ -1,0 +1,3 @@
+# Government Platform
+
+Industry template.

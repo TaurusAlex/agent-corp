@@ -1,0 +1,3 @@
+# Online Gaming
+
+Industry template.

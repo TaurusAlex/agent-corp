@@ -1,0 +1,3 @@
+# Clean Label
+
+Industry template.

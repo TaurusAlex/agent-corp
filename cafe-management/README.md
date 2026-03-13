@@ -1,0 +1,3 @@
+# Cafe Management
+
+Industry template.

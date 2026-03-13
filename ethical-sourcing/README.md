@@ -1,0 +1,3 @@
+# Ethical Sourcing
+
+Industry template.

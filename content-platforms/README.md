@@ -1,0 +1,3 @@
+# Content Platforms
+
+Industry template.

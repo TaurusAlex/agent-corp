@@ -1,0 +1,3 @@
+# Cash Management
+
+Industry template.

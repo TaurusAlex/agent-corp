@@ -1,0 +1,3 @@
+# Patient Portal
+
+Industry template.

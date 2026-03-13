@@ -1,0 +1,3 @@
+# Ai Platform
+
+Industry template.

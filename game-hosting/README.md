@@ -1,0 +1,3 @@
+# Game Hosting
+
+Industry template.

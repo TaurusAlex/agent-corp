@@ -1,0 +1,3 @@
+# Content Licensing
+
+Industry template.

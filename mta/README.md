@@ -1,0 +1,3 @@
+# Mta
+
+Industry template.

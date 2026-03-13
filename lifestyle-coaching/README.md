@@ -1,0 +1,3 @@
+# Lifestyle Coaching
+
+Industry template.

@@ -1,0 +1,3 @@
+# Industrial Property
+
+Industry template.

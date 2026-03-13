@@ -1,0 +1,3 @@
+# Agritech
+
+Industry template.

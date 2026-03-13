@@ -1,0 +1,3 @@
+# Climate Action
+
+Industry template.

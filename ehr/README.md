@@ -1,0 +1,3 @@
+# Ehr
+
+Industry template.

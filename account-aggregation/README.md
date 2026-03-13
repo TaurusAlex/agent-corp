@@ -1,0 +1,3 @@
+# Account Aggregation
+
+Industry template.

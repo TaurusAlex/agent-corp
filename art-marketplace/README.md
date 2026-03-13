@@ -1,0 +1,3 @@
+# Art Marketplace
+
+Industry template.

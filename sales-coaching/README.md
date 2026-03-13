@@ -1,0 +1,3 @@
+# Sales Coaching
+
+Industry template.

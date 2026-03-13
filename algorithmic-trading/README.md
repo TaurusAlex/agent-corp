@@ -1,0 +1,3 @@
+# Algorithmic Trading
+
+Industry template.

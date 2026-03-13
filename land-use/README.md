@@ -1,0 +1,3 @@
+# Land Use
+
+Industry template.

@@ -1,0 +1,3 @@
+# Senior Care
+
+Industry template.

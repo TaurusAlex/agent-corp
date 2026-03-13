@@ -1,0 +1,3 @@
+# Carbon Neutrality
+
+Industry template.

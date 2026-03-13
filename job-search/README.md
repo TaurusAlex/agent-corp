@@ -1,0 +1,3 @@
+# Job Search
+
+Industry template.

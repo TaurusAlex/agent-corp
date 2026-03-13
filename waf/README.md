@@ -1,0 +1,3 @@
+# Waf
+
+Industry template.

@@ -1,0 +1,3 @@
+# Payment Platform
+
+Industry template.

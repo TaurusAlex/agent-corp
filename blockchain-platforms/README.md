@@ -1,0 +1,3 @@
+# Blockchain Platforms
+
+Industry template.

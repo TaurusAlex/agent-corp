@@ -1,0 +1,3 @@
+# Log Management
+
+Industry template.

@@ -1,0 +1,3 @@
+# Hazardous Waste
+
+Industry template.

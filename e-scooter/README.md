@@ -1,0 +1,3 @@
+# E Scooter
+
+Industry template.

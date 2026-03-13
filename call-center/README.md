@@ -1,0 +1,3 @@
+# Call Center
+
+Industry template.

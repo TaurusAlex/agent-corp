@@ -1,0 +1,3 @@
+# Indoor Farming
+
+Industry template.

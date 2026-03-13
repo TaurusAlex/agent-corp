@@ -1,0 +1,3 @@
+# Sports Camps
+
+Industry template.

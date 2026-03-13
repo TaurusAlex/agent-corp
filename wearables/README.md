@@ -1,0 +1,3 @@
+# Wearables
+
+Industry template.

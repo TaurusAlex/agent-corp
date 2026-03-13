@@ -1,0 +1,3 @@
+# Business Travel
+
+Industry template.

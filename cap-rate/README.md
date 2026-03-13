@@ -1,0 +1,3 @@
+# Cap Rate
+
+Industry template.

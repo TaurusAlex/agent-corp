@@ -1,0 +1,3 @@
+# Manufacturing Erp
+
+Industry template.

@@ -1,0 +1,3 @@
+# Compensation Management
+
+Industry template.

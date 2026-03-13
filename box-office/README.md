@@ -1,0 +1,3 @@
+# Box Office
+
+Industry template.

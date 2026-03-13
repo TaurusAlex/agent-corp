@@ -1,0 +1,3 @@
+# Hydropower
+
+Industry template.

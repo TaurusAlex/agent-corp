@@ -1,0 +1,3 @@
+# Smart Grid
+
+Industry template.

@@ -1,0 +1,3 @@
+# Clinical Research
+
+Industry template.

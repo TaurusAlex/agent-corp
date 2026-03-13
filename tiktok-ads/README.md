@@ -1,0 +1,3 @@
+# Tiktok Ads
+
+Industry template.

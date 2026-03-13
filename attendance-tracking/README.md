@@ -1,0 +1,3 @@
+# Attendance Tracking
+
+Industry template.

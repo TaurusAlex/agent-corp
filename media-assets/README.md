@@ -1,0 +1,3 @@
+# Media Assets
+
+Industry template.

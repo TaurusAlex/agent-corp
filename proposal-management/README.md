@@ -1,0 +1,3 @@
+# Proposal Management
+
+Industry template.

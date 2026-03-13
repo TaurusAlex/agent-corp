@@ -1,0 +1,3 @@
+# Waste Tracking
+
+Industry template.

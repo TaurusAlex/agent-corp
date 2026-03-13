@@ -1,0 +1,3 @@
+# Ota
+
+Industry template.

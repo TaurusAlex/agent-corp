@@ -1,0 +1,3 @@
+# Home Staging
+
+Industry template.

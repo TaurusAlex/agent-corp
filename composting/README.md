@@ -1,0 +1,3 @@
+# Composting
+
+Industry template.

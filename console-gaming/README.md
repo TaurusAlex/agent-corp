@@ -1,0 +1,3 @@
+# Console Gaming
+
+Industry template.

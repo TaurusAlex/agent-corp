@@ -1,0 +1,3 @@
+# Online News
+
+Industry template.

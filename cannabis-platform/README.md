@@ -1,0 +1,3 @@
+# Cannabis Platform
+
+Industry template.

@@ -1,0 +1,3 @@
+# Warehouse Space
+
+Industry template.

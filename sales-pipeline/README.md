@@ -1,0 +1,3 @@
+# Sales Pipeline
+
+Industry template.

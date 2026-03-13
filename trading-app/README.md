@@ -1,0 +1,3 @@
+# Trading App
+
+Industry template.

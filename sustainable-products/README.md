@@ -1,0 +1,3 @@
+# Sustainable Products
+
+Industry template.

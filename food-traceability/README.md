@@ -1,0 +1,3 @@
+# Food Traceability
+
+Industry template.

@@ -1,0 +1,3 @@
+# Strategy Consulting
+
+Industry template.

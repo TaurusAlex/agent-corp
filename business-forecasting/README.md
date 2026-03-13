@@ -1,0 +1,3 @@
+# Business Forecasting
+
+Industry template.

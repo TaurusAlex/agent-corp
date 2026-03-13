@@ -1,0 +1,3 @@
+# Cryptocurrency Wallet
+
+Industry template.

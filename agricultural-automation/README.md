@@ -1,0 +1,3 @@
+# Agricultural Automation
+
+Industry template.

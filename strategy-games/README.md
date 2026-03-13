@@ -1,0 +1,3 @@
+# Strategy Games
+
+Industry template.

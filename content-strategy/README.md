@@ -1,0 +1,3 @@
+# Content Strategy
+
+Industry template.

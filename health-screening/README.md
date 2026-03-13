@@ -1,0 +1,3 @@
+# Health Screening
+
+Industry template.

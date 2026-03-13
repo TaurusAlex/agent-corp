@@ -1,0 +1,3 @@
+# Reporting
+
+Industry template.

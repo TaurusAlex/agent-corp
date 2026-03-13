@@ -1,0 +1,3 @@
+# Seo
+
+Industry template.

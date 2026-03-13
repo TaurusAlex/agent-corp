@@ -1,0 +1,3 @@
+# Rent Collection
+
+Industry template.

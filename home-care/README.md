@@ -1,0 +1,3 @@
+# Home Care
+
+Industry template.

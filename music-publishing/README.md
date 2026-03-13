@@ -1,0 +1,3 @@
+# Music Publishing
+
+Industry template.

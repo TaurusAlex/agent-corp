@@ -1,0 +1,3 @@
+# Music Promotion
+
+Industry template.

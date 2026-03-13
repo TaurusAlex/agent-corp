@@ -1,0 +1,3 @@
+# Sustainable Tourism
+
+Industry template.

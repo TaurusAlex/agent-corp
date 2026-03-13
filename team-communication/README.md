@@ -1,0 +1,3 @@
+# Team Communication
+
+Industry template.

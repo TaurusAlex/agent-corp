@@ -1,0 +1,3 @@
+# Car Insurance
+
+Industry template.

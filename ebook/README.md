@@ -1,0 +1,3 @@
+# Ebook
+
+Industry template.

@@ -1,0 +1,3 @@
+# Game Streaming
+
+Industry template.

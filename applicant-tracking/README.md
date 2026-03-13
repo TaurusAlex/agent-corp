@@ -1,0 +1,3 @@
+# Applicant Tracking
+
+Industry template.

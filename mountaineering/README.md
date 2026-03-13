@@ -1,0 +1,3 @@
+# Mountaineering
+
+Industry template.

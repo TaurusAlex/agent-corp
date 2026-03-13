@@ -1,0 +1,3 @@
+# Forex Trading
+
+Industry template.

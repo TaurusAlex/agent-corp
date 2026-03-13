@@ -1,0 +1,3 @@
+# Brand Management
+
+Industry template.

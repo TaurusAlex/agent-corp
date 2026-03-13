@@ -1,0 +1,3 @@
+# Voting Systems
+
+Industry template.

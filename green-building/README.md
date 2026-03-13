@@ -1,0 +1,3 @@
+# Green Building
+
+Industry template.

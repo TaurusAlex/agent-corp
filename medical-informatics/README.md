@@ -1,0 +1,3 @@
+# Medical Informatics
+
+Industry template.

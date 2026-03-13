@@ -1,0 +1,3 @@
+# Photo Sharing
+
+Industry template.

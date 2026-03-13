@@ -1,0 +1,3 @@
+# Architecture Photography
+
+Industry template.

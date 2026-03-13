@@ -1,0 +1,3 @@
+# Music Platform
+
+Industry template.

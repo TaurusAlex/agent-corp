@@ -1,0 +1,3 @@
+# Vehicle Warranty
+
+Industry template.

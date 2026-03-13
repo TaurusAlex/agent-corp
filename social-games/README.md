@@ -1,0 +1,3 @@
+# Social Games
+
+Industry template.

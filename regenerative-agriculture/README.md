@@ -1,0 +1,3 @@
+# Regenerative Agriculture
+
+Industry template.

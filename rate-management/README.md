@@ -1,0 +1,3 @@
+# Rate Management
+
+Industry template.

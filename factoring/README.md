@@ -1,0 +1,3 @@
+# Factoring
+
+Industry template.

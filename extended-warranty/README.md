@@ -1,0 +1,3 @@
+# Extended Warranty
+
+Industry template.

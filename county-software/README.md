@@ -1,0 +1,3 @@
+# County Software
+
+Industry template.

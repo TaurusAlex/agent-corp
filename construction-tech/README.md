@@ -1,0 +1,3 @@
+# Construction Tech
+
+Industry template.

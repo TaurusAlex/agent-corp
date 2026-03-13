@@ -1,0 +1,3 @@
+# Spa Management
+
+Industry template.

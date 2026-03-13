@@ -1,0 +1,3 @@
+# Impact Investing
+
+Industry template.

@@ -1,0 +1,3 @@
+# Renewable Energy
+
+Industry template.

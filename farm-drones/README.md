@@ -1,0 +1,3 @@
+# Farm Drones
+
+Industry template.

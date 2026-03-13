@@ -1,0 +1,3 @@
+# Ma Advisory
+
+Industry template.

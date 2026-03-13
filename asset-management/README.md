@@ -1,0 +1,3 @@
+# Asset Management
+
+Industry template.

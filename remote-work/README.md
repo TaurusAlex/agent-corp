@@ -1,0 +1,3 @@
+# Remote Work
+
+Industry template.

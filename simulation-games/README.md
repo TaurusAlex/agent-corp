@@ -1,0 +1,3 @@
+# Simulation Games
+
+Industry template.

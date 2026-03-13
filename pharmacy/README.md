@@ -1,0 +1,3 @@
+# Pharmacy
+
+Industry template.

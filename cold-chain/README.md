@@ -1,0 +1,3 @@
+# Cold Chain
+
+Industry template.

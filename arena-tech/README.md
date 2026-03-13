@@ -1,0 +1,3 @@
+# Arena Tech
+
+Industry template.

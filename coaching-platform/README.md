@@ -1,0 +1,3 @@
+# Coaching Platform
+
+Industry template.

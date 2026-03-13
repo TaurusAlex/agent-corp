@@ -1,0 +1,3 @@
+# Cleantech
+
+Industry template.

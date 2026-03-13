@@ -1,0 +1,3 @@
+# Wellness Checkup
+
+Industry template.

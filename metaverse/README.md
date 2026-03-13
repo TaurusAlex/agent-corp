@@ -1,0 +1,3 @@
+# Metaverse
+
+Industry template.

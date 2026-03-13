@@ -1,0 +1,3 @@
+# Stock Photos
+
+Industry template.

@@ -1,0 +1,3 @@
+# Adventure Tourism
+
+Industry template.

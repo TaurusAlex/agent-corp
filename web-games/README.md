@@ -1,0 +1,3 @@
+# Web Games
+
+Industry template.

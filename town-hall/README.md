@@ -1,0 +1,3 @@
+# Town Hall
+
+Industry template.

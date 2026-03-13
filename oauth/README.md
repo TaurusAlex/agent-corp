@@ -1,0 +1,3 @@
+# Oauth
+
+Industry template.

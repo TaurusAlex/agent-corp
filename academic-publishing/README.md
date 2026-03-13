@@ -1,0 +1,3 @@
+# Academic Publishing
+
+Industry template.

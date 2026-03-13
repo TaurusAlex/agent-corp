@@ -1,0 +1,3 @@
+# Lead Scoring
+
+Industry template.

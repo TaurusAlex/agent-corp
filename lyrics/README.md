@@ -1,0 +1,3 @@
+# Lyrics
+
+Industry template.

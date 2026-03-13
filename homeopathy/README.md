@@ -1,0 +1,3 @@
+# Homeopathy
+
+Industry template.

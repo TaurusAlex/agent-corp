@@ -1,0 +1,3 @@
+# Sustainable Building
+
+Industry template.

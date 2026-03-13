@@ -1,0 +1,3 @@
+# Activity Booking
+
+Industry template.

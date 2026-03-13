@@ -1,0 +1,3 @@
+# Avm
+
+Industry template.

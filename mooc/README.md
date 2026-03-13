@@ -1,0 +1,3 @@
+# Mooc
+
+Industry template.

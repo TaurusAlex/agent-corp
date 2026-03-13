@@ -1,0 +1,3 @@
+# Home Insurance
+
+Industry template.

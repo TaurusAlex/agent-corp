@@ -1,0 +1,3 @@
+# Edutainment
+
+Industry template.

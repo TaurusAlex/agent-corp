@@ -1,0 +1,3 @@
+# Workplace Safety
+
+Industry template.

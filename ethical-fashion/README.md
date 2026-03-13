@@ -1,0 +1,3 @@
+# Ethical Fashion
+
+Industry template.

@@ -1,0 +1,3 @@
+# Educational Toys
+
+Industry template.

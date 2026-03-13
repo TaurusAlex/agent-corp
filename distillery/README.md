@@ -1,0 +1,3 @@
+# Distillery
+
+Industry template.

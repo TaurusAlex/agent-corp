@@ -1,0 +1,3 @@
+# Ticket Sales
+
+Industry template.

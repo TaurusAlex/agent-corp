@@ -1,0 +1,3 @@
+# Cannabis Erp
+
+Industry template.

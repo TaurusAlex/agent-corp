@@ -1,0 +1,3 @@
+# Medical Ai
+
+Industry template.

@@ -1,0 +1,3 @@
+# Archiving
+
+Industry template.

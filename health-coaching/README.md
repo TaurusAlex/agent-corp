@@ -1,0 +1,3 @@
+# Health Coaching
+
+Industry template.

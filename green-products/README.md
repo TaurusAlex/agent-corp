@@ -1,0 +1,3 @@
+# Green Products
+
+Industry template.

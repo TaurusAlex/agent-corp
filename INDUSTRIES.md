@@ -1,6 +1,6 @@
-# TOP 100 Popular Industries
+# TOP 2100+ Popular Industries
 
-## Categories
+## 行业覆盖 (共2109个行业模板)
 
 ### Technology & Software
 1. AI & Machine Learning

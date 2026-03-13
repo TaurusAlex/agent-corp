@@ -1,0 +1,3 @@
+# Affiliate Platforms
+
+Industry template.

@@ -1,0 +1,3 @@
+# Credentialing
+
+Industry template.

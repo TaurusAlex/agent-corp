@@ -1,0 +1,3 @@
+# Fan Community
+
+Industry template.

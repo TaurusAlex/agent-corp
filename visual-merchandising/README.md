@@ -1,0 +1,3 @@
+# Visual Merchandising
+
+Industry template.

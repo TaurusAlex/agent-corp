@@ -1,0 +1,3 @@
+# Local Food
+
+Industry template.

@@ -1,0 +1,3 @@
+# Clinical Trials
+
+Industry template.

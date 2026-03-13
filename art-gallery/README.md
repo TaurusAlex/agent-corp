@@ -1,0 +1,3 @@
+# Art Gallery
+
+Industry template.

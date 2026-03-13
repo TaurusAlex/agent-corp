@@ -1,0 +1,3 @@
+# Restaurant Pos
+
+Industry template.

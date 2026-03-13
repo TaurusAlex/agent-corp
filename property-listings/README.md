@@ -1,0 +1,3 @@
+# Property Listings
+
+Industry template.

@@ -1,0 +1,3 @@
+# Climate Neutral
+
+Industry template.

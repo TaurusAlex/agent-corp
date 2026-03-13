@@ -1,0 +1,3 @@
+# Payroll
+
+Industry template.

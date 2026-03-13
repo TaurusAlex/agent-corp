@@ -1,0 +1,3 @@
+# Gamified Learning
+
+Industry template.

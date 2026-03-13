@@ -1,0 +1,3 @@
+# Quote Management
+
+Industry template.

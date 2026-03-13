@@ -1,0 +1,3 @@
+# Vehicle Data
+
+Industry template.

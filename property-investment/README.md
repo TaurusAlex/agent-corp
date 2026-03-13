@@ -1,0 +1,3 @@
+# Property Investment
+
+Industry template.

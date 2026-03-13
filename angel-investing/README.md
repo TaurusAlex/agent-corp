@@ -1,0 +1,3 @@
+# Angel Investing
+
+Industry template.

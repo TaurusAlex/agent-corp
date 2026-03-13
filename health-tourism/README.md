@@ -1,0 +1,3 @@
+# Health Tourism
+
+Industry template.

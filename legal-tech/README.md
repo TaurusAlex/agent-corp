@@ -1,0 +1,3 @@
+# Legal Tech
+
+Industry template.

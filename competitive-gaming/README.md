@@ -1,0 +1,3 @@
+# Competitive Gaming
+
+Industry template.

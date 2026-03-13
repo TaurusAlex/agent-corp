@@ -1,0 +1,3 @@
+# Photo Management
+
+Industry template.

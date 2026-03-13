@@ -1,0 +1,3 @@
+# Inventory Forecasting
+
+Industry template.

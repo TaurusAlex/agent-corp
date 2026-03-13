@@ -1,0 +1,3 @@
+# Business Continuity
+
+Industry template.

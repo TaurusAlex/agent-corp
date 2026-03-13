@@ -1,0 +1,3 @@
+# Stock Trading
+
+Industry template.

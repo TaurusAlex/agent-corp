@@ -1,0 +1,3 @@
+# Game Recording
+
+Industry template.

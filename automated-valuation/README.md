@@ -1,0 +1,3 @@
+# Automated Valuation
+
+Industry template.

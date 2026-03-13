@@ -1,0 +1,3 @@
+# Energy Assessment
+
+Industry template.

@@ -1,0 +1,3 @@
+# Monthly Giving
+
+Industry template.

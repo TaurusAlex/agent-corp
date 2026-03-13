@@ -1,0 +1,3 @@
+# Game Publishing
+
+Industry template.

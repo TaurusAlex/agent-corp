@@ -1,0 +1,3 @@
+# Alternative Medicine
+
+Industry template.

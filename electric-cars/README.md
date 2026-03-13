@@ -1,0 +1,3 @@
+# Electric Cars
+
+Industry template.

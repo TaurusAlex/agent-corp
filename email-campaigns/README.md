@@ -1,0 +1,3 @@
+# Email Campaigns
+
+Industry template.

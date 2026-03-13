@@ -1,0 +1,3 @@
+# Alcohol Beverages
+
+Industry template.

@@ -1,0 +1,3 @@
+# Beauty Tech
+
+Industry template.

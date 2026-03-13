@@ -1,0 +1,3 @@
+# Hr Consulting
+
+Industry template.

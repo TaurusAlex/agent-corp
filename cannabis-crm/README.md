@@ -1,0 +1,3 @@
+# Cannabis Crm
+
+Industry template.

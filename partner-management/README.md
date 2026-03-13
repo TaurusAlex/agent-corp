@@ -1,0 +1,3 @@
+# Partner Management
+
+Industry template.

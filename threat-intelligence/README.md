@@ -1,0 +1,3 @@
+# Threat Intelligence
+
+Industry template.

@@ -1,0 +1,3 @@
+# Ai Education
+
+Industry template.

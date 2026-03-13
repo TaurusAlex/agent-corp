@@ -1,0 +1,3 @@
+# Health Data
+
+Industry template.

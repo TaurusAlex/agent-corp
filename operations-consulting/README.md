@@ -1,0 +1,3 @@
+# Operations Consulting
+
+Industry template.

@@ -1,0 +1,3 @@
+# Wellness
+
+Industry template.

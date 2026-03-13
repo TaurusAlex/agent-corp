@@ -1,0 +1,3 @@
+# Ecotourism
+
+Industry template.

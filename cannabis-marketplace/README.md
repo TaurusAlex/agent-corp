@@ -1,0 +1,3 @@
+# Cannabis Marketplace
+
+Industry template.

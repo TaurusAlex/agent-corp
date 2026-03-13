@@ -1,0 +1,3 @@
+# Analytics
+
+Industry template.
