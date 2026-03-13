@@ -1,3 +1,0 @@
-# Water Conservation
-
-Industry template.

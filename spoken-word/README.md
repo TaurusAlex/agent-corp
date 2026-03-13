@@ -1,3 +1,0 @@
-# Spoken Word
-
-Industry template.

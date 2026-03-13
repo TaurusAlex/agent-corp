@@ -1,3 +1,0 @@
-# Commercial Inspection
-
-Industry template.

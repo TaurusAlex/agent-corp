@@ -1,3 +1,0 @@
-# Digital Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cognitive Services
-
-Industry template.

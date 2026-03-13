@@ -1,3 +1,0 @@
-# Consulting Software
-
-Industry template.

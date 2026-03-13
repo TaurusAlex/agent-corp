@@ -1,3 +1,0 @@
-# Video Conferencing
-
-Industry template.

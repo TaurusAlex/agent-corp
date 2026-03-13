@@ -1,3 +1,0 @@
-# Remittance
-
-Industry template.

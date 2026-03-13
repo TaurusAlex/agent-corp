@@ -1,3 +1,0 @@
-# Visual Effects
-
-Industry template.

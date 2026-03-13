@@ -1,3 +1,0 @@
-# Automotive Data
-
-Industry template.

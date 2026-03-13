@@ -1,3 +1,0 @@
-# Payments
-
-Industry template.

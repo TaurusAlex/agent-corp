@@ -1,3 +1,0 @@
-# Currency Exchange
-
-Industry template.

@@ -1,3 +1,0 @@
-# Functional Fitness
-
-Industry template.

@@ -1,3 +1,0 @@
-# Scrum
-
-Industry template.

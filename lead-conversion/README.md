@@ -1,3 +1,0 @@
-# Lead Conversion
-
-Industry template.

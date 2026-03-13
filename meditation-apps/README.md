@@ -1,3 +1,0 @@
-# Meditation Apps
-
-Industry template.

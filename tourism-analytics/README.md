@@ -1,3 +1,0 @@
-# Tourism Analytics
-
-Industry template.

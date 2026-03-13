@@ -1,3 +1,0 @@
-# Commercial Property
-
-Industry template.

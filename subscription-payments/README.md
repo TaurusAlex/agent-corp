@@ -1,3 +1,0 @@
-# Subscription Payments
-
-Industry template.

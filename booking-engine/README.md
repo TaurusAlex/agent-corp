@@ -1,3 +1,0 @@
-# Booking Engine
-
-Industry template.

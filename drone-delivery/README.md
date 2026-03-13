@@ -1,3 +1,0 @@
-# Drone Delivery
-
-Industry template.

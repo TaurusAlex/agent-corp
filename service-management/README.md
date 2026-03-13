@@ -1,3 +1,0 @@
-# Service Management
-
-Industry template.

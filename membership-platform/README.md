@@ -1,3 +1,0 @@
-# Membership Platform
-
-Industry template.

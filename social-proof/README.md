@@ -1,3 +1,0 @@
-# Social Proof
-
-Industry template.

@@ -1,3 +1,0 @@
-# Rfid
-
-Industry template.

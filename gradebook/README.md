@@ -1,3 +1,0 @@
-# Gradebook
-
-Industry template.

@@ -1,3 +1,0 @@
-# Graphic Design
-
-Industry template.

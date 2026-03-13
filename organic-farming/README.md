@@ -1,3 +1,0 @@
-# Organic Farming
-
-Industry template.

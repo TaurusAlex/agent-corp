@@ -1,3 +1,0 @@
-# Chatbots
-
-Industry template.

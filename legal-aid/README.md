@@ -1,3 +1,0 @@
-# Legal Aid
-
-Industry template.

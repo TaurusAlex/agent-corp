@@ -1,3 +1,0 @@
-# Music Marketing
-
-Industry template.

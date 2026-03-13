@@ -1,3 +1,0 @@
-# Community Organization
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ad Exchange
-
-Industry template.

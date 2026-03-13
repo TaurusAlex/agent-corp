@@ -1,3 +1,0 @@
-# Transportation Management
-
-Industry template.

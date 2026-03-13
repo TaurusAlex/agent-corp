@@ -1,3 +1,0 @@
-# Cdp
-
-Industry template.

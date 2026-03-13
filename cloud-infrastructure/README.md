@@ -1,3 +1,0 @@
-# Cloud Infrastructure
-
-Industry template.

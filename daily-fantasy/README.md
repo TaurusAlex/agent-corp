@@ -1,3 +1,0 @@
-# Daily Fantasy
-
-Industry template.

@@ -1,3 +1,0 @@
-# Urban Tech
-
-Industry template.

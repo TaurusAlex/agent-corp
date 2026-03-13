@@ -1,3 +1,0 @@
-# Gaming Tournament
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ebook Platforms
-
-Industry template.

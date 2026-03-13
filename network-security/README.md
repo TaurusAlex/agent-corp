@@ -1,3 +1,0 @@
-# Network Security
-
-Industry template.

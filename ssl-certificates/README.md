@@ -1,3 +1,0 @@
-# Ssl Certificates
-
-Industry template.

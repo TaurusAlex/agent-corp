@@ -1,3 +1,0 @@
-# Credit Monitoring
-
-Industry template.

@@ -1,3 +1,0 @@
-# Workplace Wellness
-
-Industry template.

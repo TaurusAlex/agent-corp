@@ -1,3 +1,0 @@
-# Digital Bank
-
-Industry template.

@@ -1,3 +1,0 @@
-# Festival Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Depression Support
-
-Industry template.

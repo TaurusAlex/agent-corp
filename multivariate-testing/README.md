@@ -1,3 +1,0 @@
-# Multivariate Testing
-
-Industry template.

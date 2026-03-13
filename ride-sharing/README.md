@@ -1,3 +1,0 @@
-# Ride Sharing
-
-Industry template.

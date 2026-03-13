@@ -1,3 +1,0 @@
-# Art Insurance
-
-Industry template.

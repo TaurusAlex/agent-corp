@@ -1,3 +1,0 @@
-# Annual Checkup
-
-Industry template.

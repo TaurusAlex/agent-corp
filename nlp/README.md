@@ -1,3 +1,0 @@
-# Nlp
-
-Industry template.

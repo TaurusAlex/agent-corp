@@ -1,3 +1,0 @@
-# Product Design
-
-Industry template.

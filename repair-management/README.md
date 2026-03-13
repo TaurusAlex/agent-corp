@@ -1,3 +1,0 @@
-# Repair Management
-
-Industry template.

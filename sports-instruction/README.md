@@ -1,3 +1,0 @@
-# Sports Instruction
-
-Industry template.

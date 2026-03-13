@@ -1,3 +1,0 @@
-# Assurance Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Arbitration Services
-
-Industry template.

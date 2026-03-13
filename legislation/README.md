@@ -1,3 +1,0 @@
-# Legislation
-
-Industry template.

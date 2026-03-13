@@ -1,3 +1,0 @@
-# Emissions Monitoring
-
-Industry template.

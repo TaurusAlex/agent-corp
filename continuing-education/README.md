@@ -1,3 +1,0 @@
-# Continuing Education
-
-Industry template.

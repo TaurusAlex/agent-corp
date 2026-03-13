@@ -1,3 +1,0 @@
-# Water Sports
-
-Industry template.

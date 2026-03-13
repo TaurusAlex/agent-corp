@@ -1,3 +1,0 @@
-# Music Discovery
-
-Industry template.

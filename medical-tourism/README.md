@@ -1,3 +1,0 @@
-# Medical Tourism
-
-Industry template.

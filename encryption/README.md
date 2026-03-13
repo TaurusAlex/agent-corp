@@ -1,3 +1,0 @@
-# Encryption
-
-Industry template.

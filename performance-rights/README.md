@@ -1,3 +1,0 @@
-# Performance Rights
-
-Industry template.

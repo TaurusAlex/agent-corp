@@ -1,3 +1,0 @@
-# Discount Brokerage
-
-Industry template.

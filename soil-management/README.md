@@ -1,3 +1,0 @@
-# Soil Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ev
-
-Industry template.

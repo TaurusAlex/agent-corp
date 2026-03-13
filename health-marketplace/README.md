@@ -1,3 +1,0 @@
-# Health Marketplace
-
-Industry template.

@@ -1,3 +1,0 @@
-# Precision Medicine
-
-Industry template.

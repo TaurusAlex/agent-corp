@@ -1,3 +1,0 @@
-# Sustainable Sourcing
-
-Industry template.

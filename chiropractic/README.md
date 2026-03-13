@@ -1,3 +1,0 @@
-# Chiropractic
-
-Industry template.

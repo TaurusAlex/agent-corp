@@ -1,3 +1,0 @@
-# Capital Markets
-
-Industry template.

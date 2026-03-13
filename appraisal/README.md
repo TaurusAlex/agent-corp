@@ -1,3 +1,0 @@
-# Appraisal
-
-Industry template.

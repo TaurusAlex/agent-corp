@@ -1,3 +1,0 @@
-# Genomics
-
-Industry template.

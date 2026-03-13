@@ -1,3 +1,0 @@
-# Ml Platform
-
-Industry template.

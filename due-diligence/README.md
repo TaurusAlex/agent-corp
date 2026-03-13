@@ -1,3 +1,0 @@
-# Due Diligence
-
-Industry template.

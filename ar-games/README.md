@@ -1,3 +1,0 @@
-# Ar Games
-
-Industry template.

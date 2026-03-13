@@ -1,3 +1,0 @@
-# Food Ordering
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cybersecurity Services
-
-Industry template.

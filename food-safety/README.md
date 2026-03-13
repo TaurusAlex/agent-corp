@@ -1,3 +1,0 @@
-# Food Safety
-
-Industry template.

@@ -1,3 +1,0 @@
-# Game Programming
-
-Industry template.

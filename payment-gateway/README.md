@@ -1,3 +1,0 @@
-# Payment Gateway
-
-Industry template.

@@ -1,3 +1,0 @@
-# Tea Tech
-
-Industry template.

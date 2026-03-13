@@ -1,3 +1,0 @@
-# E Learning
-
-Industry template.

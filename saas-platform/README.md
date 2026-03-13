@@ -1,3 +1,0 @@
-# Saas Platform
-
-Industry template.

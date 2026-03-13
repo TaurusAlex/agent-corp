@@ -1,3 +1,0 @@
-# Lead Capture
-
-Industry template.

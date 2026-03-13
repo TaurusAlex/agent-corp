@@ -1,3 +1,0 @@
-# Ux Design
-
-Industry template.

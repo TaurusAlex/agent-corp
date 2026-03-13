@@ -1,3 +1,0 @@
-# Geothermal Energy
-
-Industry template.

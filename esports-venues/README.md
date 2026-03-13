@@ -1,3 +1,0 @@
-# Esports Venues
-
-Industry template.

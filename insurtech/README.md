@@ -1,3 +1,0 @@
-# Insurtech
-
-Industry template.

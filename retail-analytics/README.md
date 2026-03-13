@@ -1,3 +1,0 @@
-# Retail Analytics
-
-Industry template.

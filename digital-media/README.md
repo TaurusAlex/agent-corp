@@ -1,3 +1,0 @@
-# Digital Media
-
-Industry template.

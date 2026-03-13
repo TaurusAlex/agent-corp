@@ -1,3 +1,0 @@
-# Carbon Accounting
-
-Industry template.

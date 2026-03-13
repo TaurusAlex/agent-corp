@@ -1,3 +1,0 @@
-# Auto Leasing
-
-Industry template.

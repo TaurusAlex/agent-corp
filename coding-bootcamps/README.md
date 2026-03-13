@@ -1,3 +1,0 @@
-# Coding Bootcamps
-
-Industry template.

@@ -1,3 +1,0 @@
-# Bid Management
-
-Industry template.

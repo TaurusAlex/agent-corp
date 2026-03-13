@@ -1,3 +1,0 @@
-# Crop Management
-
-Industry template.

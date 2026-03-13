@@ -1,3 +1,0 @@
-# Cms
-
-Industry template.

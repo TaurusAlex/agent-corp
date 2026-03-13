@@ -1,3 +1,0 @@
-# Energy Star
-
-Industry template.

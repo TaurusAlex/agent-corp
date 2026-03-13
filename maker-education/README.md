@@ -1,3 +1,0 @@
-# Maker Education
-
-Industry template.

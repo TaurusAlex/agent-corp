@@ -1,3 +1,0 @@
-# Sales Tracking
-
-Industry template.

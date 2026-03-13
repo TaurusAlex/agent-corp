@@ -1,3 +1,0 @@
-# Lease Tracking
-
-Industry template.

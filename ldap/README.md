@@ -1,3 +1,0 @@
-# Ldap
-
-Industry template.

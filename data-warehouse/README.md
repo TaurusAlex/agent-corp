@@ -1,3 +1,0 @@
-# Data Warehouse
-
-Industry template.

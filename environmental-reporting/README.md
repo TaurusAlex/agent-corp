@@ -1,3 +1,0 @@
-# Environmental Reporting
-
-Industry template.

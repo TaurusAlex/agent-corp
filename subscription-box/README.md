@@ -1,3 +1,0 @@
-# Subscription Box
-
-Industry template.

@@ -1,3 +1,0 @@
-# Debt Collection
-
-Industry template.

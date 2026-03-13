@@ -1,3 +1,0 @@
-# Mentorship Platform
-
-Industry template.

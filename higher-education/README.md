@@ -1,3 +1,0 @@
-# Higher Education
-
-Industry template.

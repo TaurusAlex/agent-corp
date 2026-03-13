@@ -1,3 +1,0 @@
-# Advisory
-
-Industry template.

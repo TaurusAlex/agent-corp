@@ -1,3 +1,0 @@
-# Farmers Market
-
-Industry template.

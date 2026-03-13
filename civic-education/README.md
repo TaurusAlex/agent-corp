@@ -1,3 +1,0 @@
-# Civic Education
-
-Industry template.

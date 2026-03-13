@@ -1,3 +1,0 @@
-# Legal Consulting
-
-Industry template.

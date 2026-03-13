@@ -1,3 +1,0 @@
-# Newsletter Marketing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Photo Selling
-
-Industry template.

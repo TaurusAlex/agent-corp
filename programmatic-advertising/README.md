@@ -1,3 +1,0 @@
-# Programmatic Advertising
-
-Industry template.

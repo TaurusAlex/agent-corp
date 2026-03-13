@@ -1,3 +1,0 @@
-# Hydroponics
-
-Industry template.

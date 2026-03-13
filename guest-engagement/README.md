@@ -1,3 +1,0 @@
-# Guest Engagement
-
-Industry template.

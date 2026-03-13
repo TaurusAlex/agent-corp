@@ -1,3 +1,0 @@
-# Quality Control
-
-Industry template.

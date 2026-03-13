@@ -1,3 +1,0 @@
-# Food Bank
-
-Industry template.

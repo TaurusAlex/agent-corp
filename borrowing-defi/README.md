@@ -1,3 +1,0 @@
-# Borrowing Defi
-
-Industry template.

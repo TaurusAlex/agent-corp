@@ -1,3 +1,0 @@
-# Cgi
-
-Industry template.

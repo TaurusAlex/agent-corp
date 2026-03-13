@@ -1,3 +1,0 @@
-# Elder Care
-
-Industry template.

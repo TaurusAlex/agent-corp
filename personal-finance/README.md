@@ -1,3 +1,0 @@
-# Personal Finance
-
-Industry template.

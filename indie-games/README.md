@@ -1,3 +1,0 @@
-# Indie Games
-
-Industry template.

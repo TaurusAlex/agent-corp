@@ -1,3 +1,0 @@
-# Apm
-
-Industry template.

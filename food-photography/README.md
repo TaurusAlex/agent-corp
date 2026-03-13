@@ -1,3 +1,0 @@
-# Food Photography
-
-Industry template.

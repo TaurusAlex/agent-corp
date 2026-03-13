@@ -1,3 +1,0 @@
-# Care Management
-
-Industry template.

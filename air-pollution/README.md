@@ -1,3 +1,0 @@
-# Air Pollution
-
-Industry template.

@@ -1,3 +1,0 @@
-# Instagram Ads
-
-Industry template.

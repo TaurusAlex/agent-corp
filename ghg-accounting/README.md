@@ -1,3 +1,0 @@
-# Ghg Accounting
-
-Industry template.

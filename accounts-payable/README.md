@@ -1,3 +1,0 @@
-# Accounts Payable
-
-Industry template.

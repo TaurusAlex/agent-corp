@@ -1,3 +1,0 @@
-# Lms
-
-Industry template.

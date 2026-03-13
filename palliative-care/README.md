@@ -1,3 +1,0 @@
-# Palliative Care
-
-Industry template.

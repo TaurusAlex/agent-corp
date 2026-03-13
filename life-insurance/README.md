@@ -1,3 +1,0 @@
-# Life Insurance
-
-Industry template.

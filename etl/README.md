@@ -1,3 +1,0 @@
-# Etl
-
-Industry template.

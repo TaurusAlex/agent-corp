@@ -1,3 +1,0 @@
-# Royalty Tracking
-
-Industry template.

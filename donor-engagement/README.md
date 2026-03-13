@@ -1,3 +1,0 @@
-# Donor Engagement
-
-Industry template.

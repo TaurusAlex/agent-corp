@@ -1,3 +1,0 @@
-# Health Food
-
-Industry template.

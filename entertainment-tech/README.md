@@ -1,3 +1,0 @@
-# Entertainment Tech
-
-Industry template.

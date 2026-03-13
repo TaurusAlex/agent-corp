@@ -1,3 +1,0 @@
-# Plm
-
-Industry template.

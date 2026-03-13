@@ -1,3 +1,0 @@
-# Telematics
-
-Industry template.

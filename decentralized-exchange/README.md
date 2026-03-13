@@ -1,3 +1,0 @@
-# Decentralized Exchange
-
-Industry template.

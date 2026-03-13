@@ -1,3 +1,0 @@
-# User Provisioning
-
-Industry template.

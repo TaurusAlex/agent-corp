@@ -1,3 +1,0 @@
-# Style Recommendation
-
-Industry template.

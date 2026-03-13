@@ -1,3 +1,0 @@
-# Personal Wealth
-
-Industry template.

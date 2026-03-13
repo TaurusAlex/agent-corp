@@ -1,3 +1,0 @@
-# Audiobook Publishing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Immersive Experiences
-
-Industry template.

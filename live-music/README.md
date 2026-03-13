@@ -1,3 +1,0 @@
-# Live Music
-
-Industry template.

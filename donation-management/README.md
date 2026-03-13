@@ -1,3 +1,0 @@
-# Donation Management
-
-Industry template.

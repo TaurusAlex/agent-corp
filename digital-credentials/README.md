@@ -1,3 +1,0 @@
-# Digital Credentials
-
-Industry template.

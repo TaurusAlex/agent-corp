@@ -1,3 +1,0 @@
-# Pro
-
-Industry template.

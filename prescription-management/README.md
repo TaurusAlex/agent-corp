@@ -1,3 +1,0 @@
-# Prescription Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Hvac Optimization
-
-Industry template.

@@ -1,3 +1,0 @@
-# Physical Therapy
-
-Industry template.

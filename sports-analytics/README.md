@@ -1,3 +1,0 @@
-# Sports Analytics
-
-Industry template.

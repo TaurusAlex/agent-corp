@@ -1,3 +1,0 @@
-# Live Ops
-
-Industry template.

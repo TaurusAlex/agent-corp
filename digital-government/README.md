@@ -1,3 +1,0 @@
-# Digital Government
-
-Industry template.

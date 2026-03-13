@@ -1,3 +1,0 @@
-# Ai Marketing
-
-Industry template.

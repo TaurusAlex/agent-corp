@@ -1,3 +1,0 @@
-# Fraud Detection
-
-Industry template.

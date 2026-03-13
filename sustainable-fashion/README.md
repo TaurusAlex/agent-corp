@@ -1,3 +1,0 @@
-# Sustainable Fashion
-
-Industry template.

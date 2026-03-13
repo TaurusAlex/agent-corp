@@ -1,3 +1,0 @@
-# Sports Facility
-
-Industry template.

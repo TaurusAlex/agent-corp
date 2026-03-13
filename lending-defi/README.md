@@ -1,3 +1,0 @@
-# Lending Defi
-
-Industry template.

@@ -1,3 +1,0 @@
-# Social Advertising
-
-Industry template.

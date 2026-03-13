@@ -1,3 +1,0 @@
-# Sports Entertainment
-
-Industry template.

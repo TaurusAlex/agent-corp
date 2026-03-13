@@ -1,3 +1,0 @@
-# Herbal Medicine
-
-Industry template.

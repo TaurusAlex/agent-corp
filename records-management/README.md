@@ -1,3 +1,0 @@
-# Records Management
-
-Industry template.

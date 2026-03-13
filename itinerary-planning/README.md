@@ -1,3 +1,0 @@
-# Itinerary Planning
-
-Industry template.

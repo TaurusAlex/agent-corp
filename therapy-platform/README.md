@@ -1,3 +1,0 @@
-# Therapy Platform
-
-Industry template.

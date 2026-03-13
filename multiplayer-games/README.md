@@ -1,3 +1,0 @@
-# Multiplayer Games
-
-Industry template.

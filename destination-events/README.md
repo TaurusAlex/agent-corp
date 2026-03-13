@@ -1,3 +1,0 @@
-# Destination Events
-
-Industry template.

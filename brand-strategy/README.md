@@ -1,3 +1,0 @@
-# Brand Strategy
-
-Industry template.

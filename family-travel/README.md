@@ -1,3 +1,0 @@
-# Family Travel
-
-Industry template.

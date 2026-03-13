@@ -1,3 +1,0 @@
-# Esports Leagues
-
-Industry template.

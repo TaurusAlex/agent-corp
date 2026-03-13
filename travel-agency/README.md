@@ -1,3 +1,0 @@
-# Travel Agency
-
-Industry template.

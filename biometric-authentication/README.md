@@ -1,3 +1,0 @@
-# Biometric Authentication
-
-Industry template.

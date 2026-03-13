@@ -1,3 +1,0 @@
-# Mobile Payments
-
-Industry template.

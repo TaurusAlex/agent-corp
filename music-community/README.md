@@ -1,3 +1,0 @@
-# Music Community
-
-Industry template.

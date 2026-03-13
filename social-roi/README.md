@@ -1,3 +1,0 @@
-# Social Roi
-
-Industry template.

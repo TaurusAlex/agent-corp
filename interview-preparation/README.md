@@ -1,3 +1,0 @@
-# Interview Preparation
-
-Industry template.

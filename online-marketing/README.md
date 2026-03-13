@@ -1,3 +1,0 @@
-# Online Marketing
-
-Industry template.

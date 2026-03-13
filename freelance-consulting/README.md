@@ -1,3 +1,0 @@
-# Freelance Consulting
-
-Industry template.

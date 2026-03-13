@@ -1,3 +1,0 @@
-# Policy Advocacy
-
-Industry template.

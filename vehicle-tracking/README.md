@@ -1,3 +1,0 @@
-# Vehicle Tracking
-
-Industry template.

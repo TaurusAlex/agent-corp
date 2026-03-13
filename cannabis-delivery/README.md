@@ -1,3 +1,0 @@
-# Cannabis Delivery
-
-Industry template.

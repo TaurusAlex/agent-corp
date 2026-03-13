@@ -1,3 +1,0 @@
-# Ev Batteries
-
-Industry template.

@@ -1,3 +1,0 @@
-# Aftermarket Parts
-
-Industry template.

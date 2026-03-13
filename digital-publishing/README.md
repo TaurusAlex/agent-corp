@@ -1,3 +1,0 @@
-# Digital Publishing
-
-Industry template.

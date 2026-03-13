@@ -1,3 +1,0 @@
-# Ecommerce Platform
-
-Industry template.

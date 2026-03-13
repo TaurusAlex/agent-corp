@@ -1,3 +1,0 @@
-# Sales Crm
-
-Industry template.

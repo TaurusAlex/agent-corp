@@ -1,3 +1,0 @@
-# Risk Scoring
-
-Industry template.

@@ -1,3 +1,0 @@
-# Car Audio
-
-Industry template.

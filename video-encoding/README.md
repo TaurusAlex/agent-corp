@@ -1,3 +1,0 @@
-# Video Encoding
-
-Industry template.

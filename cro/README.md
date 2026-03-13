@@ -1,3 +1,0 @@
-# Cro
-
-Industry template.

@@ -1,3 +1,0 @@
-# Aicloud
-
-Industry template.

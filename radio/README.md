@@ -1,3 +1,0 @@
-# Radio
-
-Industry template.

@@ -1,3 +1,0 @@
-# Sports Rehabilitation
-
-Industry template.

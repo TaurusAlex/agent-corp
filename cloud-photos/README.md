@@ -1,3 +1,0 @@
-# Cloud Photos
-
-Industry template.

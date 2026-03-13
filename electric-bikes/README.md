@@ -1,3 +1,0 @@
-# Electric Bikes
-
-Industry template.

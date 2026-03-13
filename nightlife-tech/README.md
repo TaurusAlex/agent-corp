@@ -1,3 +1,0 @@
-# Nightlife Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Media Management
-
-Industry template.

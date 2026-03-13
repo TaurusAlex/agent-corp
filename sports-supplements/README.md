@@ -1,3 +1,0 @@
-# Sports Supplements
-
-Industry template.

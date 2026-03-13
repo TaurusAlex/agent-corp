@@ -1,3 +1,0 @@
-# Drink Tech
-
-Industry template.

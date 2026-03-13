@@ -1,3 +1,0 @@
-# Computer Vision
-
-Industry template.

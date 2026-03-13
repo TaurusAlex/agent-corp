@@ -1,3 +1,0 @@
-# Mortgage Comparison
-
-Industry template.

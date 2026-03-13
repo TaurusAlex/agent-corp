@@ -1,3 +1,0 @@
-# Tax Advisory
-
-Industry template.

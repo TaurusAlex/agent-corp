@@ -1,3 +1,0 @@
-# Branding
-
-Industry template.

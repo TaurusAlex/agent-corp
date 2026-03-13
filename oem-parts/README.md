@@ -1,3 +1,0 @@
-# Oem Parts
-
-Industry template.

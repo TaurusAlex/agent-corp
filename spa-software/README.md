@@ -1,3 +1,0 @@
-# Spa Software
-
-Industry template.

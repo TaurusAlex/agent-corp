@@ -1,3 +1,0 @@
-# Urban Planning
-
-Industry template.

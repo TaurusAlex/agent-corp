@@ -1,3 +1,0 @@
-# Outdoor Recreation
-
-Industry template.

@@ -1,3 +1,0 @@
-# Wellness Retreat
-
-Industry template.

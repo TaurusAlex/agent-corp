@@ -1,3 +1,0 @@
-# Beverage Tech
-
-Industry template.

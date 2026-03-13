@@ -1,3 +1,0 @@
-# Disaster Recovery
-
-Industry template.

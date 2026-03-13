@@ -1,3 +1,0 @@
-# Unified Commerce
-
-Industry template.

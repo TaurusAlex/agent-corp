@@ -1,3 +1,0 @@
-# Trading Tools
-
-Industry template.

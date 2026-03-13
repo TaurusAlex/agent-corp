@@ -1,3 +1,0 @@
-# Sustainable Design
-
-Industry template.

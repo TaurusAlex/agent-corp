@@ -1,3 +1,0 @@
-# Zero Waste
-
-Industry template.

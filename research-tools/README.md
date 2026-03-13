@@ -1,3 +1,0 @@
-# Research Tools
-
-Industry template.

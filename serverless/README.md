@@ -1,3 +1,0 @@
-# Serverless
-
-Industry template.

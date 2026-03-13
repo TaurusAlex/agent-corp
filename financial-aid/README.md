@@ -1,3 +1,0 @@
-# Financial Aid
-
-Industry template.

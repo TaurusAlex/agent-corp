@@ -1,3 +1,0 @@
-# Mobile Games
-
-Industry template.

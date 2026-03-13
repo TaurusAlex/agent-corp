@@ -1,3 +1,0 @@
-# Art Collection
-
-Industry template.

@@ -1,3 +1,0 @@
-# Subscription Commerce
-
-Industry template.

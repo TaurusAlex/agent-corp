@@ -1,3 +1,0 @@
-# Nonprofit Software
-
-Industry template.

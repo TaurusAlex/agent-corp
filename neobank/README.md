@@ -1,3 +1,0 @@
-# Neobank
-
-Industry template.

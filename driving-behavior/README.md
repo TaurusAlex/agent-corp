@@ -1,3 +1,0 @@
-# Driving Behavior
-
-Industry template.

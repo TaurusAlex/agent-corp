@@ -1,3 +1,0 @@
-# Non Gmo
-
-Industry template.

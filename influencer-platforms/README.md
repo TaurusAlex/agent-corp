@@ -1,3 +1,0 @@
-# Influencer Platforms
-
-Industry template.

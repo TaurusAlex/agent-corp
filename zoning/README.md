@@ -1,3 +1,0 @@
-# Zoning
-
-Industry template.

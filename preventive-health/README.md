@@ -1,3 +1,0 @@
-# Preventive Health
-
-Industry template.

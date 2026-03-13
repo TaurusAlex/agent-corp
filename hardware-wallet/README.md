@@ -1,3 +1,0 @@
-# Hardware Wallet
-
-Industry template.

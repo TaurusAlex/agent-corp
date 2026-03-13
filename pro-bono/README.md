@@ -1,3 +1,0 @@
-# Pro Bono
-
-Industry template.

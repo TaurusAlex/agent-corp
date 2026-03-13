@@ -1,3 +1,0 @@
-# Event Planning
-
-Industry template.

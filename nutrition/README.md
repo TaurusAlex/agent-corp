@@ -1,3 +1,0 @@
-# Nutrition
-
-Industry template.

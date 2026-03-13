@@ -1,3 +1,0 @@
-# Photo Business
-
-Industry template.

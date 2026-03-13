@@ -1,3 +1,0 @@
-# Urban Analytics
-
-Industry template.

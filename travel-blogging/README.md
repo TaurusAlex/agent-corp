@@ -1,3 +1,0 @@
-# Travel Blogging
-
-Industry template.

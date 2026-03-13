@@ -1,3 +1,0 @@
-# Pam
-
-Industry template.

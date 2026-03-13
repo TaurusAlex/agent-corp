@@ -1,3 +1,0 @@
-# Professional Development
-
-Industry template.

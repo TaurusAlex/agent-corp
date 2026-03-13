@@ -1,3 +1,0 @@
-# Property Valuation
-
-Industry template.

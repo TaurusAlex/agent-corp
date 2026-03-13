@@ -1,3 +1,0 @@
-# Aerial Photography
-
-Industry template.

@@ -1,3 +1,0 @@
-# Accounting Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ecommerce Marketing
-
-Industry template.

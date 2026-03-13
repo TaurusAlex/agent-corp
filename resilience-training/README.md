@@ -1,3 +1,0 @@
-# Resilience Training
-
-Industry template.

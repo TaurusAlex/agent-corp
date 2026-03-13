@@ -1,3 +1,0 @@
-# City Management
-
-Industry template.

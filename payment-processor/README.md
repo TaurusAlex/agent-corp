@@ -1,3 +1,0 @@
-# Payment Processor
-
-Industry template.

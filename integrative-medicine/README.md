@@ -1,3 +1,0 @@
-# Integrative Medicine
-
-Industry template.

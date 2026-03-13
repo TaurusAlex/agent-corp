@@ -1,3 +1,0 @@
-# Estate Planning
-
-Industry template.

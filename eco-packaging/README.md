@@ -1,3 +1,0 @@
-# Eco Packaging
-
-Industry template.

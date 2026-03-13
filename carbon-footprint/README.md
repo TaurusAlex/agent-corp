@@ -1,3 +1,0 @@
-# Carbon Footprint
-
-Industry template.

@@ -1,3 +1,0 @@
-# Pos Payments
-
-Industry template.

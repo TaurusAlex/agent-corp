@@ -1,3 +1,0 @@
-# Audio Entertainment
-
-Industry template.

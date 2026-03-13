@@ -1,3 +1,0 @@
-# Ticketing Software
-
-Industry template.

@@ -1,3 +1,0 @@
-# Security Firm
-
-Industry template.

@@ -1,3 +1,0 @@
-# Crypto Trading
-
-Industry template.

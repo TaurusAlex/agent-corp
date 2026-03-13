@@ -1,3 +1,0 @@
-# Divestments
-
-Industry template.

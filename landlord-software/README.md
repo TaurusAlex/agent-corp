@@ -1,3 +1,0 @@
-# Landlord Software
-
-Industry template.

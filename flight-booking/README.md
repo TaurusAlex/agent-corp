@@ -1,3 +1,0 @@
-# Flight Booking
-
-Industry template.

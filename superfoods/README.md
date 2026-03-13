@@ -1,3 +1,0 @@
-# Superfoods
-
-Industry template.

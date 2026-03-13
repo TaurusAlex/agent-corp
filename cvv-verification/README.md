@@ -1,3 +1,0 @@
-# Cvv Verification
-
-Industry template.

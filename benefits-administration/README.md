@@ -1,3 +1,0 @@
-# Benefits Administration
-
-Industry template.

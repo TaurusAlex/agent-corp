@@ -1,3 +1,0 @@
-# Health Monitoring
-
-Industry template.

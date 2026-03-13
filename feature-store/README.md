@@ -1,3 +1,0 @@
-# Feature Store
-
-Industry template.

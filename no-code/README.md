@@ -1,3 +1,0 @@
-# No Code
-
-Industry template.

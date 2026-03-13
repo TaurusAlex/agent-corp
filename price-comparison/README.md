@@ -1,3 +1,0 @@
-# Price Comparison
-
-Industry template.

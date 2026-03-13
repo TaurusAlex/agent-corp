@@ -1,3 +1,0 @@
-# Rainwater Harvesting
-
-Industry template.

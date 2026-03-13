@@ -1,3 +1,0 @@
-# It Compliance
-
-Industry template.

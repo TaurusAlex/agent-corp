@@ -1,3 +1,0 @@
-# Verifiable Credentials
-
-Industry template.

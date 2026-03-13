@@ -1,3 +1,0 @@
-# Ecommerce Payments
-
-Industry template.

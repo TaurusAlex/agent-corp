@@ -1,3 +1,0 @@
-# Cognitive Computing
-
-Industry template.

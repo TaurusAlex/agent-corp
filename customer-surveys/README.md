@@ -1,3 +1,0 @@
-# Customer Surveys
-
-Industry template.

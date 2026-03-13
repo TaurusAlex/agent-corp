@@ -1,3 +1,0 @@
-# Email Newsletter
-
-Industry template.

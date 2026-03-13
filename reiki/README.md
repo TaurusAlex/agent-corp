@@ -1,3 +1,0 @@
-# Reiki
-
-Industry template.

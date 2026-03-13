@@ -1,3 +1,0 @@
-# Opportunity Management
-
-Industry template.

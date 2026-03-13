@@ -1,3 +1,0 @@
-# Msp
-
-Industry template.

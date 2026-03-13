@@ -1,3 +1,0 @@
-# Gaming Analytics
-
-Industry template.

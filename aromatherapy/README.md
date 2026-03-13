@@ -1,3 +1,0 @@
-# Aromatherapy
-
-Industry template.

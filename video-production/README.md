@@ -1,3 +1,0 @@
-# Video Production
-
-Industry template.

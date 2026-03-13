@@ -1,3 +1,0 @@
-# Government Software
-
-Industry template.

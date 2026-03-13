@@ -1,3 +1,0 @@
-# Music Recommendation
-
-Industry template.

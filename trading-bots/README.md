@@ -1,3 +1,0 @@
-# Trading Bots
-
-Industry template.

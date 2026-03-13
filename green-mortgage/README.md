@@ -1,3 +1,0 @@
-# Green Mortgage
-
-Industry template.

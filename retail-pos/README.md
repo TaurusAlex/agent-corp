@@ -1,3 +1,0 @@
-# Retail Pos
-
-Industry template.

@@ -1,3 +1,0 @@
-# Artist Management
-
-Industry template.

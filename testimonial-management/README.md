@@ -1,3 +1,0 @@
-# Testimonial Management
-
-Industry template.

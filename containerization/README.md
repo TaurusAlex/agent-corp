@@ -1,3 +1,0 @@
-# Containerization
-
-Industry template.

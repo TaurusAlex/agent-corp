@@ -1,3 +1,0 @@
-# Sustainability Certification
-
-Industry template.

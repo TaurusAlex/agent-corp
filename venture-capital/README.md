@@ -1,3 +1,0 @@
-# Venture Capital
-
-Industry template.

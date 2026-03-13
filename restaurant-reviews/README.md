@@ -1,3 +1,0 @@
-# Restaurant Reviews
-
-Industry template.

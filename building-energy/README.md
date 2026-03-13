@@ -1,3 +1,0 @@
-# Building Energy
-
-Industry template.

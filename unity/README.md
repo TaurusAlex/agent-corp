@@ -1,3 +1,0 @@
-# Unity
-
-Industry template.

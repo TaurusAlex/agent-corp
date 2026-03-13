@@ -1,3 +1,0 @@
-# Group Travel
-
-Industry template.

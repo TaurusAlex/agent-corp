@@ -1,3 +1,0 @@
-# Marketing Operations
-
-Industry template.

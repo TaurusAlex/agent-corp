@@ -1,3 +1,0 @@
-# Booking Software
-
-Industry template.

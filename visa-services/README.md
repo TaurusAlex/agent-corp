@@ -1,3 +1,0 @@
-# Visa Services
-
-Industry template.

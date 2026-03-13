@@ -1,3 +1,0 @@
-# Bar Management
-
-Industry template.

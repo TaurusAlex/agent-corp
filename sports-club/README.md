@@ -1,3 +1,0 @@
-# Sports Club
-
-Industry template.

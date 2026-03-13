@@ -1,3 +1,0 @@
-# Music Composition
-
-Industry template.

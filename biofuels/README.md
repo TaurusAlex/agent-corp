@@ -1,3 +1,0 @@
-# Biofuels
-
-Industry template.

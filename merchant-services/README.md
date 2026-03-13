@@ -1,3 +1,0 @@
-# Merchant Services
-
-Industry template.

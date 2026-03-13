@@ -1,3 +1,0 @@
-# Tax Filing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Appointment Scheduling
-
-Industry template.

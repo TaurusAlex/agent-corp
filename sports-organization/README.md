@@ -1,3 +1,0 @@
-# Sports Organization
-
-Industry template.

@@ -1,3 +1,0 @@
-# Beat Making
-
-Industry template.

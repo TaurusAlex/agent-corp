@@ -1,3 +1,0 @@
-# Content Distribution
-
-Industry template.

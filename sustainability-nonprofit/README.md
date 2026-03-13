@@ -1,3 +1,0 @@
-# Sustainability Nonprofit
-
-Industry template.

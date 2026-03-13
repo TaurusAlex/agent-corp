@@ -1,3 +1,0 @@
-# Biometrics
-
-Industry template.

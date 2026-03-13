@@ -1,3 +1,0 @@
-# Youth Services
-
-Industry template.

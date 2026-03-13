@@ -1,3 +1,0 @@
-# Deal Aggregation
-
-Industry template.

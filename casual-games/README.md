@@ -1,3 +1,0 @@
-# Casual Games
-
-Industry template.

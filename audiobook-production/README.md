@@ -1,3 +1,0 @@
-# Audiobook Production
-
-Industry template.

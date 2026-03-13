@@ -1,3 +1,0 @@
-# Twitter Ads
-
-Industry template.

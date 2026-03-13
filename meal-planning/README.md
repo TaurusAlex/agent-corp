@@ -1,3 +1,0 @@
-# Meal Planning
-
-Industry template.

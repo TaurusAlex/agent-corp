@@ -1,3 +1,0 @@
-# Disaster Management
-
-Industry template.

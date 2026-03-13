@@ -1,3 +1,0 @@
-# Corporate Learning
-
-Industry template.

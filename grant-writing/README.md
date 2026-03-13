@@ -1,3 +1,0 @@
-# Grant Writing
-
-Industry template.

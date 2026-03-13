@@ -1,3 +1,0 @@
-# Airline Tech
-
-Industry template.

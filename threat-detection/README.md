@@ -1,3 +1,0 @@
-# Threat Detection
-
-Industry template.

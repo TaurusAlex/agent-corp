@@ -1,3 +1,0 @@
-# Travel Tech
-
-Industry template.

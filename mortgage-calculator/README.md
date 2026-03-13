@@ -1,3 +1,0 @@
-# Mortgage Calculator
-
-Industry template.

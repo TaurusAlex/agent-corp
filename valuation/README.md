@@ -1,3 +1,0 @@
-# Valuation
-
-Industry template.

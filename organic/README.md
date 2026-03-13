@@ -1,3 +1,0 @@
-# Organic
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cannabis Testing
-
-Industry template.

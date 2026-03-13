@@ -1,3 +1,0 @@
-# Media Marketplace
-
-Industry template.

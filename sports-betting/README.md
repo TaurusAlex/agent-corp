@@ -1,3 +1,0 @@
-# Sports Betting
-
-Industry template.

@@ -1,3 +1,0 @@
-# Video Games
-
-Industry template.

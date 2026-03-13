@@ -1,3 +1,0 @@
-# Sox Compliance
-
-Industry template.

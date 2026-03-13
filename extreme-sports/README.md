@@ -1,3 +1,0 @@
-# Extreme Sports
-
-Industry template.

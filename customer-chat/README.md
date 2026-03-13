@@ -1,3 +1,0 @@
-# Customer Chat
-
-Industry template.

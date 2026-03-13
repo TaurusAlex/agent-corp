@@ -1,3 +1,0 @@
-# Audio Editing
-
-Industry template.

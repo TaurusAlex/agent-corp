@@ -1,3 +1,0 @@
-# Review Management
-
-Industry template.

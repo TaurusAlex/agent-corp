@@ -1,3 +1,0 @@
-# Health Ai
-
-Industry template.

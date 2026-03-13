@@ -1,3 +1,0 @@
-# Additive Manufacturing
-
-Industry template.

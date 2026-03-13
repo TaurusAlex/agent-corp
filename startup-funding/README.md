@@ -1,3 +1,0 @@
-# Startup Funding
-
-Industry template.

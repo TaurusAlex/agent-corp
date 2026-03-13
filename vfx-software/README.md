@@ -1,3 +1,0 @@
-# Vfx Software
-
-Industry template.

@@ -1,3 +1,0 @@
-# Medical Coding
-
-Industry template.

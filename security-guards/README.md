@@ -1,3 +1,0 @@
-# Security Guards
-
-Industry template.

@@ -1,3 +1,0 @@
-# Corporate Wellness
-
-Industry template.

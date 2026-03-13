@@ -1,3 +1,0 @@
-# Classroom Management
-
-Industry template.

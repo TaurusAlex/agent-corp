@@ -1,3 +1,0 @@
-# Sports Association
-
-Industry template.

@@ -1,3 +1,0 @@
-# Pe
-
-Industry template.

@@ -1,3 +1,0 @@
-# Native Advertising
-
-Industry template.

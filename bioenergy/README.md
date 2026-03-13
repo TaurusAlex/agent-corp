@@ -1,3 +1,0 @@
-# Bioenergy
-
-Industry template.

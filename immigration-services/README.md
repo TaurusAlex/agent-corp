@@ -1,3 +1,0 @@
-# Immigration Services
-
-Industry template.

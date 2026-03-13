@@ -1,3 +1,0 @@
-# Viral Marketing
-
-Industry template.

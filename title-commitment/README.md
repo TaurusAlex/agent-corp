@@ -1,3 +1,0 @@
-# Title Commitment
-
-Industry template.

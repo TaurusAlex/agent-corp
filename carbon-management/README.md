@@ -1,3 +1,0 @@
-# Carbon Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Mdm
-
-Industry template.

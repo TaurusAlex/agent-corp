@@ -1,3 +1,0 @@
-# Lawyer Matching
-
-Industry template.

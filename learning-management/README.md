@@ -1,3 +1,0 @@
-# Learning Management
-
-Industry template.

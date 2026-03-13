@@ -1,3 +1,0 @@
-# Phishing Protection
-
-Industry template.

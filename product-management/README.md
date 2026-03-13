@@ -1,3 +1,0 @@
-# Product Management
-
-Industry template.

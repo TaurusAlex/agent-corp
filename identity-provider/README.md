@@ -1,3 +1,0 @@
-# Identity Provider
-
-Industry template.

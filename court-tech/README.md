@@ -1,3 +1,0 @@
-# Court Tech
-
-Industry template.

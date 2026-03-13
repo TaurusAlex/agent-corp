@@ -1,3 +1,0 @@
-# Consulting Platform
-
-Industry template.

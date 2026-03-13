@@ -1,3 +1,0 @@
-# Ab Testing
-
-Industry template.

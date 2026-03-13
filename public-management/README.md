@@ -1,3 +1,0 @@
-# Public Management
-
-Industry template.

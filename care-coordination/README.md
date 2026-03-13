@@ -1,3 +1,0 @@
-# Care Coordination
-
-Industry template.

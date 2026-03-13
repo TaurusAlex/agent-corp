@@ -1,3 +1,0 @@
-# Saml
-
-Industry template.

@@ -1,3 +1,0 @@
-# Retention
-
-Industry template.

@@ -1,3 +1,0 @@
-# Sms Marketing
-
-Industry template.

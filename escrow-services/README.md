@@ -1,3 +1,0 @@
-# Escrow Services
-
-Industry template.

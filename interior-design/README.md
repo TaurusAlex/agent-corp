@@ -1,3 +1,0 @@
-# Interior Design
-
-Industry template.

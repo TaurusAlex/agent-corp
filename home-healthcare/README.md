@@ -1,3 +1,0 @@
-# Home Healthcare
-
-Industry template.

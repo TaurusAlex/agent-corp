@@ -1,3 +1,0 @@
-# Consultant Marketplace
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cad Software
-
-Industry template.

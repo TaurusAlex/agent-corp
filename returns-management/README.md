@@ -1,3 +1,0 @@
-# Returns Management
-
-Industry template.

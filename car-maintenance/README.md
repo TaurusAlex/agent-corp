@@ -1,3 +1,0 @@
-# Car Maintenance
-
-Industry template.

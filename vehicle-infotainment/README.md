@@ -1,3 +1,0 @@
-# Vehicle Infotainment
-
-Industry template.

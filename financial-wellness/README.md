@@ -1,3 +1,0 @@
-# Financial Wellness
-
-Industry template.

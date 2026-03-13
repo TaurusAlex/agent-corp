@@ -1,3 +1,0 @@
-# Stock Brokerage
-
-Industry template.

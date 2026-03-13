@@ -1,3 +1,0 @@
-# License Management
-
-Industry template.

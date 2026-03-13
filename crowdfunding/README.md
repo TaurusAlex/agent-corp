@@ -1,3 +1,0 @@
-# Crowdfunding
-
-Industry template.

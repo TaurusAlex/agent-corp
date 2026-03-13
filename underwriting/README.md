@@ -1,3 +1,0 @@
-# Underwriting
-
-Industry template.

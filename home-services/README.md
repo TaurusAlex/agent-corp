@@ -1,3 +1,0 @@
-# Home Services
-
-Industry template.

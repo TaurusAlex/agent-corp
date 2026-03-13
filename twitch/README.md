@@ -1,3 +1,0 @@
-# Twitch
-
-Industry template.

@@ -1,3 +1,0 @@
-# Apartment Search
-
-Industry template.

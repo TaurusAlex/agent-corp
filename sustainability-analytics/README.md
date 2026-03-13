@@ -1,3 +1,0 @@
-# Sustainability Analytics
-
-Industry template.

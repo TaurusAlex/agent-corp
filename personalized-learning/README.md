@@ -1,3 +1,0 @@
-# Personalized Learning
-
-Industry template.

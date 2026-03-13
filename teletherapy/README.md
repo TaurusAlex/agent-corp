@@ -1,3 +1,0 @@
-# Teletherapy
-
-Industry template.

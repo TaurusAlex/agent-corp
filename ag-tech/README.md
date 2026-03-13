@@ -1,3 +1,0 @@
-# Ag Tech
-
-Industry template.

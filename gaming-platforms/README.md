@@ -1,3 +1,0 @@
-# Gaming Platforms
-
-Industry template.

@@ -1,3 +1,0 @@
-# Financial Education
-
-Industry template.

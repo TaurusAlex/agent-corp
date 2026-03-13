@@ -1,3 +1,0 @@
-# Hotel Management
-
-Industry template.

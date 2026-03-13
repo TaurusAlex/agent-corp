@@ -1,3 +1,0 @@
-# Brand Tracking
-
-Industry template.

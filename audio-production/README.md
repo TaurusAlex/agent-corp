@@ -1,3 +1,0 @@
-# Audio Production
-
-Industry template.

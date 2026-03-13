@@ -1,3 +1,0 @@
-# Game Store
-
-Industry template.

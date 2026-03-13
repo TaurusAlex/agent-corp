@@ -1,3 +1,0 @@
-# Employee Health
-
-Industry template.

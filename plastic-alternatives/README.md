@@ -1,3 +1,0 @@
-# Plastic Alternatives
-
-Industry template.

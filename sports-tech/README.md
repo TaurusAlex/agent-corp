@@ -1,3 +1,0 @@
-# Sports Tech
-
-Industry template.

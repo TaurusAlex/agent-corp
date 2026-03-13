@@ -1,3 +1,0 @@
-# Eco Labeling
-
-Industry template.

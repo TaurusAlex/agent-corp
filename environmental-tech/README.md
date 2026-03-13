@@ -1,3 +1,0 @@
-# Environmental Tech
-
-Industry template.

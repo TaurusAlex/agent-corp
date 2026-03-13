@@ -1,3 +1,0 @@
-# Film Distribution
-
-Industry template.

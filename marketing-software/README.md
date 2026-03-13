@@ -1,3 +1,0 @@
-# Marketing Software
-
-Industry template.

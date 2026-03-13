@@ -1,3 +1,0 @@
-# Microservices
-
-Industry template.

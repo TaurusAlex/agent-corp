@@ -1,3 +1,0 @@
-# Occupational Therapy
-
-Industry template.

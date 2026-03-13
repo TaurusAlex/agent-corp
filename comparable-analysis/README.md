@@ -1,3 +1,0 @@
-# Comparable Analysis
-
-Industry template.

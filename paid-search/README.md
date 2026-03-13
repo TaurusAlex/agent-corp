@@ -1,3 +1,0 @@
-# Paid Search
-
-Industry template.

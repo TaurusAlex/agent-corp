@@ -1,3 +1,0 @@
-# Couponing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Svod
-
-Industry template.

@@ -1,3 +1,0 @@
-# Coffee Tech
-
-Industry template.

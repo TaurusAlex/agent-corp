@@ -1,3 +1,0 @@
-# Marketing Attribution
-
-Industry template.

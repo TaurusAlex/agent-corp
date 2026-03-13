@@ -1,3 +1,0 @@
-# Digital Badges
-
-Industry template.

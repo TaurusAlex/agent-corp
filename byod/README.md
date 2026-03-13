@@ -1,3 +1,0 @@
-# Byod
-
-Industry template.

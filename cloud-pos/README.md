@@ -1,3 +1,0 @@
-# Cloud Pos
-
-Industry template.

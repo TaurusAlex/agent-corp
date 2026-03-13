@@ -1,3 +1,0 @@
-# Smart Home
-
-Industry template.

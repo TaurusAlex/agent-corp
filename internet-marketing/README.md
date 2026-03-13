@@ -1,3 +1,0 @@
-# Internet Marketing
-
-Industry template.

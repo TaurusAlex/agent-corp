@@ -1,3 +1,0 @@
-# Education Tech
-
-Industry template.

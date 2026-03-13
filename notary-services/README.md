@@ -1,3 +1,0 @@
-# Notary Services
-
-Industry template.

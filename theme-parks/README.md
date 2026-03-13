@@ -1,3 +1,0 @@
-# Theme Parks
-
-Industry template.

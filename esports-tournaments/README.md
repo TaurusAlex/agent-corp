@@ -1,3 +1,0 @@
-# Esports Tournaments
-
-Industry template.

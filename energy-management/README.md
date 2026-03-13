@@ -1,3 +1,0 @@
-# Energy Management
-
-Industry template.

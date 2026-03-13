@@ -1,3 +1,0 @@
-# University Operations
-
-Industry template.

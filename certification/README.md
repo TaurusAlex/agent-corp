@@ -1,3 +1,0 @@
-# Certification
-
-Industry template.

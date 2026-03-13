@@ -1,3 +1,0 @@
-# Therapy Apps
-
-Industry template.

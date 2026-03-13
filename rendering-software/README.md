@@ -1,3 +1,0 @@
-# Rendering Software
-
-Industry template.

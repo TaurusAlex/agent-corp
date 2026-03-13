@@ -1,3 +1,0 @@
-# Table Reservation
-
-Industry template.

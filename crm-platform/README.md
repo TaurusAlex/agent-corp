@@ -1,3 +1,0 @@
-# Crm Platform
-
-Industry template.

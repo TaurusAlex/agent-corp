@@ -1,3 +1,0 @@
-# Music Distribution
-
-Industry template.

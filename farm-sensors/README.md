@@ -1,3 +1,0 @@
-# Farm Sensors
-
-Industry template.

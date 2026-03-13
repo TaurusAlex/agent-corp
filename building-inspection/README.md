@@ -1,3 +1,0 @@
-# Building Inspection
-
-Industry template.

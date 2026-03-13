@@ -1,3 +1,0 @@
-# Alternative Protein
-
-Industry template.

@@ -1,3 +1,0 @@
-# Campus Management
-
-Industry template.

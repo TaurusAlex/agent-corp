@@ -1,3 +1,0 @@
-# Retirement Planning
-
-Industry template.

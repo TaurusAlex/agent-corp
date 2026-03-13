@@ -1,3 +1,0 @@
-# Building Permit
-
-Industry template.

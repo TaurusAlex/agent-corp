@@ -1,3 +1,0 @@
-# Programming Education
-
-Industry template.

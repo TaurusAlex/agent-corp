@@ -1,3 +1,0 @@
-# Spa
-
-Industry template.

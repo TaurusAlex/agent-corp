@@ -1,3 +1,0 @@
-# Public Records
-
-Industry template.

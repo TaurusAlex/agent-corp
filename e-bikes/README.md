@@ -1,3 +1,0 @@
-# E Bikes
-
-Industry template.

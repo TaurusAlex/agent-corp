@@ -1,3 +1,0 @@
-# Pos Software
-
-Industry template.

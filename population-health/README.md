@@ -1,3 +1,0 @@
-# Population Health
-
-Industry template.

@@ -1,3 +1,0 @@
-# Marathon Training
-
-Industry template.

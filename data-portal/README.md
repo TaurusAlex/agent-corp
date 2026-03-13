@@ -1,3 +1,0 @@
-# Data Portal
-
-Industry template.

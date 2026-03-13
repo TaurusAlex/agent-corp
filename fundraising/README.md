@@ -1,3 +1,0 @@
-# Fundraising
-
-Industry template.

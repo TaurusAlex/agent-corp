@@ -1,3 +1,0 @@
-# Smart Tv
-
-Industry template.

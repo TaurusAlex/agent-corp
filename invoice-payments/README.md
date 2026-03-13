@@ -1,3 +1,0 @@
-# Invoice Payments
-
-Industry template.

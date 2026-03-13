@@ -1,3 +1,0 @@
-# Discount Management
-
-Industry template.

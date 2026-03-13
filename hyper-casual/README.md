@@ -1,3 +1,0 @@
-# Hyper Casual
-
-Industry template.

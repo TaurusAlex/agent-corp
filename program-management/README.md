@@ -1,3 +1,0 @@
-# Program Management
-
-Industry template.

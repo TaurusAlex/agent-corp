@@ -1,3 +1,0 @@
-# Aml
-
-Industry template.

@@ -1,3 +1,0 @@
-# Social Investing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Music Licensing
-
-Industry template.

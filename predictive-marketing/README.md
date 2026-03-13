@@ -1,3 +1,0 @@
-# Predictive Marketing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ppc
-
-Industry template.

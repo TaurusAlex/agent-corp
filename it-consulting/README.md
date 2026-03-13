@@ -1,3 +1,0 @@
-# It Consulting
-
-Industry template.

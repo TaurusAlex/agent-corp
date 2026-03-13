@@ -1,3 +1,0 @@
-# City Operations
-
-Industry template.

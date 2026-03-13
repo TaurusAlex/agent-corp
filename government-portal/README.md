@@ -1,3 +1,0 @@
-# Government Portal
-
-Industry template.

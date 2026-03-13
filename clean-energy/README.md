@@ -1,3 +1,0 @@
-# Clean Energy
-
-Industry template.

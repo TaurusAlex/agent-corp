@@ -1,3 +1,0 @@
-# Tokenization
-
-Industry template.

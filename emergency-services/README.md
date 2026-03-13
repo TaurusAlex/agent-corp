@@ -1,3 +1,0 @@
-# Emergency Services
-
-Industry template.

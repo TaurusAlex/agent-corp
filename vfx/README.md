@@ -1,3 +1,0 @@
-# Vfx
-
-Industry template.

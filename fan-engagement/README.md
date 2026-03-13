@@ -1,3 +1,0 @@
-# Fan Engagement
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cellular Agriculture
-
-Industry template.

@@ -1,3 +1,0 @@
-# Underbanked
-
-Industry template.

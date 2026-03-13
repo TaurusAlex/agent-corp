@@ -1,3 +1,0 @@
-# Irrigation Management
-
-Industry template.

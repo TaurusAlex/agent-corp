@@ -1,3 +1,0 @@
-# Property Tech
-
-Industry template.

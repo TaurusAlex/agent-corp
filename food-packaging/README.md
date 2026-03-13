@@ -1,3 +1,0 @@
-# Food Packaging
-
-Industry template.

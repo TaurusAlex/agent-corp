@@ -1,3 +1,0 @@
-# Api Management
-
-Industry template.

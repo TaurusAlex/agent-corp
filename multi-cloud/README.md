@@ -1,3 +1,0 @@
-# Multi Cloud
-
-Industry template.

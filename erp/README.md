@@ -1,3 +1,0 @@
-# Erp
-
-Industry template.

@@ -1,3 +1,0 @@
-# Airline Software
-
-Industry template.

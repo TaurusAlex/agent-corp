@@ -1,3 +1,0 @@
-# Aquaponics
-
-Industry template.

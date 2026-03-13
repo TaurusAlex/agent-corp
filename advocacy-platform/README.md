@@ -1,3 +1,0 @@
-# Advocacy Platform
-
-Industry template.

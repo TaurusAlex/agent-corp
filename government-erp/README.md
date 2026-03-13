@@ -1,3 +1,0 @@
-# Government Erp
-
-Industry template.

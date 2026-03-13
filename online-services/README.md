@@ -1,3 +1,0 @@
-# Online Services
-
-Industry template.

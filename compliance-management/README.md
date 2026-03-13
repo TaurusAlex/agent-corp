@@ -1,3 +1,0 @@
-# Compliance Management
-
-Industry template.

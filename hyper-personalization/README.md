@@ -1,3 +1,0 @@
-# Hyper Personalization
-
-Industry template.

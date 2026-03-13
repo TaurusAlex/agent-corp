@@ -1,3 +1,0 @@
-# Property Accounting
-
-Industry template.

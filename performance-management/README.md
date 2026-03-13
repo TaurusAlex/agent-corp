@@ -1,3 +1,0 @@
-# Performance Management
-
-Industry template.

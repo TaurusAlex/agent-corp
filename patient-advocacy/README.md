@@ -1,3 +1,0 @@
-# Patient Advocacy
-
-Industry template.

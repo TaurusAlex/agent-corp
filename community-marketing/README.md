@@ -1,3 +1,0 @@
-# Community Marketing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Matchmaking Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Audiobook Platform
-
-Industry template.

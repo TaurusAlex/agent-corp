@@ -1,3 +1,0 @@
-# Judicial Tech
-
-Industry template.

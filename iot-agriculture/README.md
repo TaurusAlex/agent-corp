@@ -1,3 +1,0 @@
-# Iot Agriculture
-
-Industry template.

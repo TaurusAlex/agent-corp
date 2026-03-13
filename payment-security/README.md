@@ -1,3 +1,0 @@
-# Payment Security
-
-Industry template.

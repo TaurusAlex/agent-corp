@@ -1,3 +1,0 @@
-# Creator Economy
-
-Industry template.

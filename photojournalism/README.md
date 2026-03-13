@@ -1,3 +1,0 @@
-# Photojournalism
-
-Industry template.

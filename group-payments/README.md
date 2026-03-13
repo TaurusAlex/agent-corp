@@ -1,3 +1,0 @@
-# Group Payments
-
-Industry template.

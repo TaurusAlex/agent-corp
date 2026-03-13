@@ -1,3 +1,0 @@
-# Sustainable Transport
-
-Industry template.

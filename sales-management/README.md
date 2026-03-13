@@ -1,3 +1,0 @@
-# Sales Management
-
-Industry template.

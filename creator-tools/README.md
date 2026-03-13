@@ -1,3 +1,0 @@
-# Creator Tools
-
-Industry template.

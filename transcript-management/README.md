@@ -1,3 +1,0 @@
-# Transcript Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Bug Tracking
-
-Industry template.

@@ -1,3 +1,0 @@
-# Travel Rewards
-
-Industry template.

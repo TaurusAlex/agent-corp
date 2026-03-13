@@ -1,3 +1,0 @@
-# Virtual Labs
-
-Industry template.

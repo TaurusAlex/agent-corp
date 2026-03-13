@@ -1,3 +1,0 @@
-# Iaas
-
-Industry template.

@@ -1,3 +1,0 @@
-# Podcast Software
-
-Industry template.

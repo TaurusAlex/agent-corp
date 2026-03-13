@@ -1,3 +1,0 @@
-# Parkour
-
-Industry template.

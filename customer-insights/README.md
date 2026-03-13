@@ -1,3 +1,0 @@
-# Customer Insights
-
-Industry template.

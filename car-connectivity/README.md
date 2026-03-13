@@ -1,3 +1,0 @@
-# Car Connectivity
-
-Industry template.

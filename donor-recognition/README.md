@@ -1,3 +1,0 @@
-# Donor Recognition
-
-Industry template.

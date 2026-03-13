@@ -1,3 +1,0 @@
-# Idp
-
-Industry template.

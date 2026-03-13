@@ -1,3 +1,0 @@
-# Cannabis Tech
-
-Industry template.

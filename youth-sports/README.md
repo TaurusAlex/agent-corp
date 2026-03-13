@@ -1,3 +1,0 @@
-# Youth Sports
-
-Industry template.

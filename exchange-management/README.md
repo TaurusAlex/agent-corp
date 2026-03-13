@@ -1,3 +1,0 @@
-# Exchange Management
-
-Industry template.

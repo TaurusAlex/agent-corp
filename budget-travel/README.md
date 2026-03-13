@@ -1,3 +1,0 @@
-# Budget Travel
-
-Industry template.

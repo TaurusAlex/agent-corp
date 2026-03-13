@@ -1,3 +1,0 @@
-# Data Sharing
-
-Industry template.

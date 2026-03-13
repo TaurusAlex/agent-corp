@@ -1,3 +1,0 @@
-# Ecommerce Analytics
-
-Industry template.

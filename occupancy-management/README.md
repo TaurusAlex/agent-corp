@@ -1,3 +1,0 @@
-# Occupancy Management
-
-Industry template.

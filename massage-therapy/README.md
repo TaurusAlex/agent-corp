@@ -1,3 +1,0 @@
-# Massage Therapy
-
-Industry template.

@@ -1,3 +1,0 @@
-# Data Mining
-
-Industry template.

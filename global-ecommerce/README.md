@@ -1,3 +1,0 @@
-# Global Ecommerce
-
-Industry template.

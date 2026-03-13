@@ -1,3 +1,0 @@
-# Gaming Video
-
-Industry template.

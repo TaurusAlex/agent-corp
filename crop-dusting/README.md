@@ -1,3 +1,0 @@
-# Crop Dusting
-
-Industry template.

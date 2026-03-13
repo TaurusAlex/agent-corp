@@ -1,3 +1,0 @@
-# Mechanical Rights
-
-Industry template.

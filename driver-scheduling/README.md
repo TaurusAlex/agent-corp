@@ -1,3 +1,0 @@
-# Driver Scheduling
-
-Industry template.

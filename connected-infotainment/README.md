@@ -1,3 +1,0 @@
-# Connected Infotainment
-
-Industry template.

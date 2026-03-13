@@ -1,3 +1,0 @@
-# Embedded Finance
-
-Industry template.

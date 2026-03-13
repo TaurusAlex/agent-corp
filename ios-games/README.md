@@ -1,3 +1,0 @@
-# Ios Games
-
-Industry template.

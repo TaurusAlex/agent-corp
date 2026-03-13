@@ -1,3 +1,0 @@
-# Leed Certification
-
-Industry template.

@@ -1,3 +1,0 @@
-# Urban Farming
-
-Industry template.

@@ -1,3 +1,0 @@
-# Directory Services
-
-Industry template.

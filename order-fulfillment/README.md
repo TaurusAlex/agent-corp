@@ -1,3 +1,0 @@
-# Order Fulfillment
-
-Industry template.

@@ -1,3 +1,0 @@
-# Investment Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Conversational Ai
-
-Industry template.

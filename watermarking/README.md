@@ -1,3 +1,0 @@
-# Watermarking
-
-Industry template.

@@ -1,3 +1,0 @@
-# Promotion Engine
-
-Industry template.

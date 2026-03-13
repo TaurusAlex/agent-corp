@@ -1,3 +1,0 @@
-# Conversion Optimization
-
-Industry template.

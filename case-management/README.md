@@ -1,3 +1,0 @@
-# Case Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Soc
-
-Industry template.

@@ -1,3 +1,0 @@
-# Gdpr Compliance
-
-Industry template.

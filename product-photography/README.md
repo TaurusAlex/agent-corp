@@ -1,3 +1,0 @@
-# Product Photography
-
-Industry template.

@@ -1,3 +1,0 @@
-# Digital Health
-
-Industry template.

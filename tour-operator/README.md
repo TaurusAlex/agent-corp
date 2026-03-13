@@ -1,3 +1,0 @@
-# Tour Operator
-
-Industry template.

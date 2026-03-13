@@ -1,3 +1,0 @@
-# Federal Software
-
-Industry template.

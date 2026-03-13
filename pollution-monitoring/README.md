@@ -1,3 +1,0 @@
-# Pollution Monitoring
-
-Industry template.

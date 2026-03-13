@@ -1,3 +1,0 @@
-# Avod
-
-Industry template.

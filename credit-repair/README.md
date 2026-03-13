@@ -1,3 +1,0 @@
-# Credit Repair
-
-Industry template.

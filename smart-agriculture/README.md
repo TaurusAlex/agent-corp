@@ -1,3 +1,0 @@
-# Smart Agriculture
-
-Industry template.

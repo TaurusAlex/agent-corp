@@ -1,3 +1,0 @@
-# Adventure Fitness
-
-Industry template.

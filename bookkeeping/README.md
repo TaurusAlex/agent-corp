@@ -1,3 +1,0 @@
-# Bookkeeping
-
-Industry template.

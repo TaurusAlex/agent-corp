@@ -1,3 +1,0 @@
-# Social Listening
-
-Industry template.

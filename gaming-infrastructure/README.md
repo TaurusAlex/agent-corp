@@ -1,3 +1,0 @@
-# Gaming Infrastructure
-
-Industry template.

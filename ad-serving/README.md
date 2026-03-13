@@ -1,3 +1,0 @@
-# Ad Serving
-
-Industry template.

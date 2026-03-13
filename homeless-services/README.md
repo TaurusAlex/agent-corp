@@ -1,3 +1,0 @@
-# Homeless Services
-
-Industry template.

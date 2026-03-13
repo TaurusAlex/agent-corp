@@ -1,3 +1,0 @@
-# E Signature
-
-Industry template.

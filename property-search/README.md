@@ -1,3 +1,0 @@
-# Property Search
-
-Industry template.

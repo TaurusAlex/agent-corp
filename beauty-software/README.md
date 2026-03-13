@@ -1,3 +1,0 @@
-# Beauty Software
-
-Industry template.

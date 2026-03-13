@@ -1,3 +1,0 @@
-# Sam
-
-Industry template.

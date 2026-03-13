@@ -1,3 +1,0 @@
-# Game Telemetry
-
-Industry template.

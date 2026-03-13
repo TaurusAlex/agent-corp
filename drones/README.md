@@ -1,3 +1,0 @@
-# Drones
-
-Industry template.

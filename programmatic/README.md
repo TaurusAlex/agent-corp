@@ -1,3 +1,0 @@
-# Programmatic
-
-Industry template.

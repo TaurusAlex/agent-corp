@@ -1,3 +1,0 @@
-# Intelligent Automation
-
-Industry template.

@@ -1,3 +1,0 @@
-# Lead Nurturing
-
-Industry template.

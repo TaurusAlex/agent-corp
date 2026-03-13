@@ -1,3 +1,0 @@
-# Senior Services
-
-Industry template.

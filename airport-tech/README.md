@@ -1,3 +1,0 @@
-# Airport Tech
-
-Industry template.

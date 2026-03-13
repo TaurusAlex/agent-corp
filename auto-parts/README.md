@@ -1,3 +1,0 @@
-# Auto Parts
-
-Industry template.

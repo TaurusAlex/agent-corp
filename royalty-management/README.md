@@ -1,3 +1,0 @@
-# Royalty Management
-
-Industry template.

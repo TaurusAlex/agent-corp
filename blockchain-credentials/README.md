@@ -1,3 +1,0 @@
-# Blockchain Credentials
-
-Industry template.

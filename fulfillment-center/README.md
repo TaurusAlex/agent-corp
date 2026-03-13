@@ -1,3 +1,0 @@
-# Fulfillment Center
-
-Industry template.

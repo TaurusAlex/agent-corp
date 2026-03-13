@@ -1,3 +1,0 @@
-# Bike Sharing
-
-Industry template.

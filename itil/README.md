@@ -1,3 +1,0 @@
-# Itil
-
-Industry template.

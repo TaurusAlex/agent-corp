@@ -1,3 +1,0 @@
-# Internet Radio
-
-Industry template.

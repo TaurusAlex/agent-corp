@@ -1,3 +1,0 @@
-# Ar Entertainment
-
-Industry template.

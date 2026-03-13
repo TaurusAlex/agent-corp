@@ -1,3 +1,0 @@
-# Hybrid Cloud
-
-Industry template.

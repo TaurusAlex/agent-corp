@@ -1,3 +1,0 @@
-# Health Outcomes
-
-Industry template.

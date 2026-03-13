@@ -1,3 +1,0 @@
-# Nutrition Marketplace
-
-Industry template.

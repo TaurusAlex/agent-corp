@@ -1,3 +1,0 @@
-# Audiobooks
-
-Industry template.

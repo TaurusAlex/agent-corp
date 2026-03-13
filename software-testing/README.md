@@ -1,3 +1,0 @@
-# Software Testing
-
-Industry template.

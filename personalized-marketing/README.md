@@ -1,3 +1,0 @@
-# Personalized Marketing
-
-Industry template.

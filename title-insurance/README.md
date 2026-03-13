@@ -1,3 +1,0 @@
-# Title Insurance
-
-Industry template.

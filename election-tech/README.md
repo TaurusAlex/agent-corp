@@ -1,3 +1,0 @@
-# Election Tech
-
-Industry template.

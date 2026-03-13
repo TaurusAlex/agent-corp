@@ -1,3 +1,0 @@
-# Split Payments
-
-Industry template.

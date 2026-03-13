@@ -1,3 +1,0 @@
-# Ar Education
-
-Industry template.

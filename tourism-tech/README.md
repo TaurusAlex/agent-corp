@@ -1,3 +1,0 @@
-# Tourism Tech
-
-Industry template.

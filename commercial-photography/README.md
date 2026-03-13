@@ -1,3 +1,0 @@
-# Commercial Photography
-
-Industry template.

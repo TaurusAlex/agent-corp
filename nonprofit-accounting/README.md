@@ -1,3 +1,0 @@
-# Nonprofit Accounting
-
-Industry template.

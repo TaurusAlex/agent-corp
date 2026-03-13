@@ -1,3 +1,0 @@
-# Pci Compliance
-
-Industry template.

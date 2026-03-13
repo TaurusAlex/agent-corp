@@ -1,3 +1,0 @@
-# Viral Referrals
-
-Industry template.

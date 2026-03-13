@@ -1,3 +1,0 @@
-# Solo Practitioner
-
-Industry template.

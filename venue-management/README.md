@@ -1,3 +1,0 @@
-# Venue Management
-
-Industry template.

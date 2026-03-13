@@ -1,3 +1,0 @@
-# Transit Tech
-
-Industry template.

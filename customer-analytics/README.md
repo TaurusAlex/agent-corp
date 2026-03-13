@@ -1,3 +1,0 @@
-# Customer Analytics
-
-Industry template.

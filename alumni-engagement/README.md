@@ -1,3 +1,0 @@
-# Alumni Engagement
-
-Industry template.

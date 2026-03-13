@@ -1,3 +1,0 @@
-# Calisthenics
-
-Industry template.

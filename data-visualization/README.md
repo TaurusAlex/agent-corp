@@ -1,3 +1,0 @@
-# Data Visualization
-
-Industry template.

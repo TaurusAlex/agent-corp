@@ -1,3 +1,0 @@
-# Airbnb Management
-
-Industry template.

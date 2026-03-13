@@ -1,3 +1,0 @@
-# Career Services
-
-Industry template.

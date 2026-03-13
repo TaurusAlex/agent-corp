@@ -1,3 +1,0 @@
-# Energy Storage
-
-Industry template.

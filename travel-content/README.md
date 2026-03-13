@@ -1,3 +1,0 @@
-# Travel Content
-
-Industry template.

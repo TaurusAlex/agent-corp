@@ -1,3 +1,0 @@
-# Rewards Programs
-
-Industry template.

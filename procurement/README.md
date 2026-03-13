@@ -1,3 +1,0 @@
-# Procurement
-
-Industry template.

@@ -1,3 +1,0 @@
-# Microlearning
-
-Industry template.

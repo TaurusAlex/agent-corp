@@ -1,3 +1,0 @@
-# Green Logistics
-
-Industry template.

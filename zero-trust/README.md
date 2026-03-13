@@ -1,3 +1,0 @@
-# Zero Trust
-
-Industry template.

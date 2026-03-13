@@ -1,3 +1,0 @@
-# Healthcare Analytics
-
-Industry template.

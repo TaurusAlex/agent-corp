@@ -1,3 +1,0 @@
-# Upcycling
-
-Industry template.

@@ -1,3 +1,0 @@
-# Agricultural Drones
-
-Industry template.

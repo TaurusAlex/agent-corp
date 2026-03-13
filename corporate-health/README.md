@@ -1,3 +1,0 @@
-# Corporate Health
-
-Industry template.

@@ -1,3 +1,0 @@
-# Self Driving
-
-Industry template.

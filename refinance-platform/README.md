@@ -1,3 +1,0 @@
-# Refinance Platform
-
-Industry template.

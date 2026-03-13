@@ -1,3 +1,0 @@
-# Diet Tracking
-
-Industry template.

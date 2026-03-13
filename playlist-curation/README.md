@@ -1,3 +1,0 @@
-# Playlist Curation
-
-Industry template.

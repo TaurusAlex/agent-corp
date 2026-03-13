@@ -1,3 +1,0 @@
-# Regtech
-
-Industry template.

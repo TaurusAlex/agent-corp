@@ -1,3 +1,0 @@
-# Education Analytics
-
-Industry template.

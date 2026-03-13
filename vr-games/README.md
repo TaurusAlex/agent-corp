@@ -1,3 +1,0 @@
-# Vr Games
-
-Industry template.

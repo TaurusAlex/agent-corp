@@ -1,3 +1,0 @@
-# Civic Engagement
-
-Industry template.

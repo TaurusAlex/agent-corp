@@ -1,3 +1,0 @@
-# Food Marketplace
-
-Industry template.

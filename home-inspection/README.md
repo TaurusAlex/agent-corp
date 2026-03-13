@@ -1,3 +1,0 @@
-# Home Inspection
-
-Industry template.

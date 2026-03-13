@@ -1,3 +1,0 @@
-# Hd Maps
-
-Industry template.

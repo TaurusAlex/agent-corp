@@ -1,3 +1,0 @@
-# Supplement Marketplace
-
-Industry template.

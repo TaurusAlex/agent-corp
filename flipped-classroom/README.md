@@ -1,3 +1,0 @@
-# Flipped Classroom
-
-Industry template.

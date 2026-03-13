@@ -1,3 +1,0 @@
-# Banking Tech
-
-Industry template.

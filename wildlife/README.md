@@ -1,3 +1,0 @@
-# Wildlife
-
-Industry template.

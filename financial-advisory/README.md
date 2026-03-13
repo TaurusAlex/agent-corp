@@ -1,3 +1,0 @@
-# Financial Advisory
-
-Industry template.

@@ -1,3 +1,0 @@
-# Retargeting
-
-Industry template.

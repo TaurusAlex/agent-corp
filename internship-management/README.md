@@ -1,3 +1,0 @@
-# Internship Management
-
-Industry template.

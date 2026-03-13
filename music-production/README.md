@@ -1,3 +1,0 @@
-# Music Production
-
-Industry template.

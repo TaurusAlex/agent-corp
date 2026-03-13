@@ -1,3 +1,0 @@
-# Vacation Planning
-
-Industry template.

@@ -1,3 +1,0 @@
-# Anxiety Support
-
-Industry template.

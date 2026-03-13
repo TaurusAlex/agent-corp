@@ -1,3 +1,0 @@
-# Refugee Services
-
-Industry template.

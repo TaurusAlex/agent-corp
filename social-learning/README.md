@@ -1,3 +1,0 @@
-# Social Learning
-
-Industry template.

@@ -1,3 +1,0 @@
-# User Research
-
-Industry template.

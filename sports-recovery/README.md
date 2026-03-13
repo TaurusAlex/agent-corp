@@ -1,3 +1,0 @@
-# Sports Recovery
-
-Industry template.

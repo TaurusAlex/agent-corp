@@ -1,3 +1,0 @@
-# Model Management
-
-Industry template.

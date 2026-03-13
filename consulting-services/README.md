@@ -1,3 +1,0 @@
-# Consulting Services
-
-Industry template.

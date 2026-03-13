@@ -1,3 +1,0 @@
-# Lane Keeping
-
-Industry template.

@@ -1,3 +1,0 @@
-# Game Development
-
-Industry template.

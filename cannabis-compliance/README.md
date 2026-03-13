@@ -1,3 +1,0 @@
-# Cannabis Compliance
-
-Industry template.

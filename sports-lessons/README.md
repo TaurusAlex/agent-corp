@@ -1,3 +1,0 @@
-# Sports Lessons
-
-Industry template.

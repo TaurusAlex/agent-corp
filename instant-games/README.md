@@ -1,3 +1,0 @@
-# Instant Games
-
-Industry template.

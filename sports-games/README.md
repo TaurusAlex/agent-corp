@@ -1,3 +1,0 @@
-# Sports Games
-
-Industry template.

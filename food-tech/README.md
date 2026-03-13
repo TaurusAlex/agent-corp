@@ -1,3 +1,0 @@
-# Food Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Discount Travel
-
-Industry template.

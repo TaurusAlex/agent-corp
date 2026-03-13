@@ -1,3 +1,0 @@
-# Public Transport
-
-Industry template.

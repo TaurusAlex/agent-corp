@@ -1,3 +1,0 @@
-# Low Code
-
-Industry template.

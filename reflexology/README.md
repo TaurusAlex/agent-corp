@@ -1,3 +1,0 @@
-# Reflexology
-
-Industry template.

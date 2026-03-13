@@ -1,3 +1,0 @@
-# Continuous Deployment
-
-Industry template.

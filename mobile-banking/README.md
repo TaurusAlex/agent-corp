@@ -1,3 +1,0 @@
-# Mobile Banking
-
-Industry template.

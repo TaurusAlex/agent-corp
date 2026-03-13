@@ -1,3 +1,0 @@
-# Sales Enablement
-
-Industry template.

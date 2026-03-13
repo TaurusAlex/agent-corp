@@ -1,3 +1,0 @@
-# Bioprocessing
-
-Industry template.

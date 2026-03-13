@@ -1,3 +1,0 @@
-# Defi Protocol
-
-Industry template.

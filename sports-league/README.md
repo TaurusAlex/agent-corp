@@ -1,3 +1,0 @@
-# Sports League
-
-Industry template.

@@ -1,3 +1,0 @@
-# Funnel Optimization
-
-Industry template.

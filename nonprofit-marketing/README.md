@@ -1,3 +1,0 @@
-# Nonprofit Marketing
-
-Industry template.

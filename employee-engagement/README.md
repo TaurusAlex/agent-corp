@@ -1,3 +1,0 @@
-# Employee Engagement
-
-Industry template.

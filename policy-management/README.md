@@ -1,3 +1,0 @@
-# Policy Management
-
-Industry template.

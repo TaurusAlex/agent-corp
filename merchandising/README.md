@@ -1,3 +1,0 @@
-# Merchandising
-
-Industry template.

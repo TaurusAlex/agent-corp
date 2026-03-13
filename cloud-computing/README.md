@@ -1,3 +1,0 @@
-# Cloud Computing
-
-Industry template.

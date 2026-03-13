@@ -1,3 +1,0 @@
-# Telerehabilitation
-
-Industry template.

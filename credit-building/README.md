@@ -1,3 +1,0 @@
-# Credit Building
-
-Industry template.

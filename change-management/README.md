@@ -1,3 +1,0 @@
-# Change Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Training Analytics
-
-Industry template.

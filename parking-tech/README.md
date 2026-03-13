@@ -1,3 +1,0 @@
-# Parking Tech
-
-Industry template.

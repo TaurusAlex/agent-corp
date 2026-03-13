@@ -1,3 +1,0 @@
-# Donor Portal
-
-Industry template.

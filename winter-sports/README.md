@@ -1,3 +1,0 @@
-# Winter Sports
-
-Industry template.

@@ -1,3 +1,0 @@
-# Sem
-
-Industry template.

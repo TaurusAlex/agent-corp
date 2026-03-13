@@ -1,3 +1,0 @@
-# Cad
-
-Industry template.

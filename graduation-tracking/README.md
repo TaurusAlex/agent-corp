@@ -1,3 +1,0 @@
-# Graduation Tracking
-
-Industry template.

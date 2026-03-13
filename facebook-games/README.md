@@ -1,3 +1,0 @@
-# Facebook Games
-
-Industry template.

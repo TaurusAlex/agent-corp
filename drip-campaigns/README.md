@@ -1,3 +1,0 @@
-# Drip Campaigns
-
-Industry template.

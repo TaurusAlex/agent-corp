@@ -1,3 +1,0 @@
-# Game Engine
-
-Industry template.

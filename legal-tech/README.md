@@ -1,3 +1,0 @@
-# Legal Tech
-
-Industry template.

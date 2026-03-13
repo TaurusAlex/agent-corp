@@ -1,3 +1,0 @@
-# Auction Platform
-
-Industry template.

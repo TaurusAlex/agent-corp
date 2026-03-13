@@ -1,3 +1,0 @@
-# Deed Management
-
-Industry template.

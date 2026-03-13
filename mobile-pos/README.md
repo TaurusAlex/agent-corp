@@ -1,3 +1,0 @@
-# Mobile Pos
-
-Industry template.

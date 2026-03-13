@@ -1,3 +1,0 @@
-# Professional Sports
-
-Industry template.

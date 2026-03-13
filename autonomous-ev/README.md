@@ -1,3 +1,0 @@
-# Autonomous Ev
-
-Industry template.

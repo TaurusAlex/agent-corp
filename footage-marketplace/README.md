@@ -1,3 +1,0 @@
-# Footage Marketplace
-
-Industry template.

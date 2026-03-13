@@ -1,3 +1,0 @@
-# Land Investment
-
-Industry template.

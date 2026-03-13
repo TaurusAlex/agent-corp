@@ -1,3 +1,0 @@
-# Travel Social
-
-Industry template.

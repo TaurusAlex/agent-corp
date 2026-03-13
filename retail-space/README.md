@@ -1,3 +1,0 @@
-# Retail Space
-
-Industry template.

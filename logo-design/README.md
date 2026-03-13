@@ -1,3 +1,0 @@
-# Logo Design
-
-Industry template.

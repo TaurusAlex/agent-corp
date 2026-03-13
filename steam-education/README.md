@@ -1,3 +1,0 @@
-# Steam Education
-
-Industry template.

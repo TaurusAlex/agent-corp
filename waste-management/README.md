@@ -1,3 +1,0 @@
-# Waste Management
-
-Industry template.

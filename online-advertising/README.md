@@ -1,3 +1,0 @@
-# Online Advertising
-
-Industry template.

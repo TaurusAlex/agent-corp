@@ -1,3 +1,0 @@
-# Tax Services
-
-Industry template.

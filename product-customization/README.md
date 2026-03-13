@@ -1,3 +1,0 @@
-# Product Customization
-
-Industry template.

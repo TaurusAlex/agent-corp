@@ -1,3 +1,0 @@
-# Digital Transformation
-
-Industry template.

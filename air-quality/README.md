@@ -1,3 +1,0 @@
-# Air Quality
-
-Industry template.

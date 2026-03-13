@@ -1,3 +1,0 @@
-# Cloud Gaming
-
-Industry template.

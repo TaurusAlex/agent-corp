@@ -1,3 +1,0 @@
-# Mobile Commerce
-
-Industry template.

@@ -1,3 +1,0 @@
-# Web Design
-
-Industry template.

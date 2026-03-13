@@ -1,3 +1,0 @@
-# Agile Tools
-
-Industry template.

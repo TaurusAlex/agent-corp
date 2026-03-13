@@ -1,3 +1,0 @@
-# Contact Management
-
-Industry template.

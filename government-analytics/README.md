@@ -1,3 +1,0 @@
-# Government Analytics
-
-Industry template.

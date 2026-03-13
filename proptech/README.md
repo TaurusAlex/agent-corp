@@ -1,3 +1,0 @@
-# Proptech
-
-Industry template.

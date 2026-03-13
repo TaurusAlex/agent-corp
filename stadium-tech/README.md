@@ -1,3 +1,0 @@
-# Stadium Tech
-
-Industry template.

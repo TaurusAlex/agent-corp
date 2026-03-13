@@ -1,3 +1,0 @@
-# Defi Platform
-
-Industry template.

@@ -1,3 +1,0 @@
-# Temporary Staffing
-
-Industry template.

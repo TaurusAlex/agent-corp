@@ -1,3 +1,0 @@
-# Last Mile
-
-Industry template.

@@ -1,3 +1,0 @@
-# Digital Consulting
-
-Industry template.

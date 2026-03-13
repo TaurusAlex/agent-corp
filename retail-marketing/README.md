@@ -1,3 +1,0 @@
-# Retail Marketing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Pet Tech
-
-Industry template.

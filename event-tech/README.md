@@ -1,3 +1,0 @@
-# Event Tech
-
-Industry template.

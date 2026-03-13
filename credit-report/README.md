@@ -1,3 +1,0 @@
-# Credit Report
-
-Industry template.

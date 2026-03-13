@@ -1,3 +1,0 @@
-# Voice Over
-
-Industry template.

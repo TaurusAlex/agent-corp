@@ -1,3 +1,0 @@
-# Customer Journey
-
-Industry template.

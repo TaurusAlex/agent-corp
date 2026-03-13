@@ -1,3 +1,0 @@
-# Fundraising Platform
-
-Industry template.

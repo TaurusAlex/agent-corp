@@ -1,3 +1,0 @@
-# Fraud Prevention
-
-Industry template.

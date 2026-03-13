@@ -1,3 +1,0 @@
-# Digital Archiving
-
-Industry template.

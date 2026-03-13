@@ -1,3 +1,0 @@
-# Adas
-
-Industry template.

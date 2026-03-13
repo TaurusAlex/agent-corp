@@ -1,3 +1,0 @@
-# Martech
-
-Industry template.

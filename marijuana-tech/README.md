@@ -1,3 +1,0 @@
-# Marijuana Tech
-
-Industry template.

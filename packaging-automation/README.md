@@ -1,3 +1,0 @@
-# Packaging Automation
-
-Industry template.

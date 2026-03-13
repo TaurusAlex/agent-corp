@@ -1,3 +1,0 @@
-# Bill Payment
-
-Industry template.

@@ -1,3 +1,0 @@
-# Voice Acting
-
-Industry template.

@@ -1,3 +1,0 @@
-# Vitamin Marketplace
-
-Industry template.

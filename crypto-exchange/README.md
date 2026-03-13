@@ -1,3 +1,0 @@
-# Crypto Exchange
-
-Industry template.

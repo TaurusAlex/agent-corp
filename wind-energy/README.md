@@ -1,3 +1,0 @@
-# Wind Energy
-
-Industry template.

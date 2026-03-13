@@ -1,3 +1,0 @@
-# Gaming Communities
-
-Industry template.

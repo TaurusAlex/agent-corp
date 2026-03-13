@@ -1,3 +1,0 @@
-# Drone Photography
-
-Industry template.

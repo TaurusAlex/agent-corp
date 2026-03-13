@@ -1,3 +1,0 @@
-# State Software
-
-Industry template.

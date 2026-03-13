@@ -1,3 +1,0 @@
-# Gaming Influence
-
-Industry template.

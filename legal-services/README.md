@@ -1,3 +1,0 @@
-# Legal Services
-
-Industry template.

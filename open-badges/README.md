@@ -1,3 +1,0 @@
-# Open Badges
-
-Industry template.

@@ -1,3 +1,0 @@
-# Ridehailing
-
-Industry template.

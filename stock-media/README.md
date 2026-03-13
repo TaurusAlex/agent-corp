@@ -1,3 +1,0 @@
-# Stock Media
-
-Industry template.

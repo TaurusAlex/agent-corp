@@ -1,3 +1,0 @@
-# Defi
-
-Industry template.

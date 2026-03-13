@@ -1,3 +1,0 @@
-# Micro Finance
-
-Industry template.

@@ -1,3 +1,0 @@
-# Immersive Gaming
-
-Industry template.

@@ -1,3 +1,0 @@
-# Dialogue Systems
-
-Industry template.

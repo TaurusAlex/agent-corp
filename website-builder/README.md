@@ -1,3 +1,0 @@
-# Website Builder
-
-Industry template.

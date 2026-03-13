@@ -1,3 +1,0 @@
-# Sports Booking
-
-Industry template.

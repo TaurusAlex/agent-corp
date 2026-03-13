@@ -1,3 +1,0 @@
-# Reference Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Irr
-
-Industry template.

@@ -1,3 +1,0 @@
-# Player Behavior
-
-Industry template.

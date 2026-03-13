@@ -1,3 +1,0 @@
-# Debt Consolidation
-
-Industry template.

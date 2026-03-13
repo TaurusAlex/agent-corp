@@ -1,3 +1,0 @@
-# Security Consulting
-
-Industry template.

@@ -1,3 +1,0 @@
-# Mood Disorder
-
-Industry template.

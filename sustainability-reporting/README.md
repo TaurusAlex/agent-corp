@@ -1,3 +1,0 @@
-# Sustainability Reporting
-
-Industry template.

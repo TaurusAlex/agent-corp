@@ -1,3 +1,0 @@
-# Concert Tech
-
-Industry template.

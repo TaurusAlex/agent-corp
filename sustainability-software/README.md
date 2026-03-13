@@ -1,3 +1,0 @@
-# Sustainability Software
-
-Industry template.

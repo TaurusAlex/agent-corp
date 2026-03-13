@@ -1,3 +1,0 @@
-# Sales Performance
-
-Industry template.

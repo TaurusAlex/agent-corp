@@ -1,3 +1,0 @@
-# Music Technology
-
-Industry template.

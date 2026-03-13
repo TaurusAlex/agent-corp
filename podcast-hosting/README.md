@@ -1,3 +1,0 @@
-# Podcast Hosting
-
-Industry template.

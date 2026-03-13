@@ -1,3 +1,0 @@
-# Travel Analytics
-
-Industry template.

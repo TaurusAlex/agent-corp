@@ -1,3 +1,0 @@
-# Lesson Planning
-
-Industry template.

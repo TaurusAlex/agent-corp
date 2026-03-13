@@ -1,3 +1,0 @@
-# Quality Assurance
-
-Industry template.

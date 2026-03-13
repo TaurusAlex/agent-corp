@@ -1,3 +1,0 @@
-# Livestream Shopping
-
-Industry template.

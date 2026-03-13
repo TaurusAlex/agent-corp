@@ -1,3 +1,0 @@
-# Running
-
-Industry template.

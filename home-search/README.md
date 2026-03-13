@@ -1,3 +1,0 @@
-# Home Search
-
-Industry template.

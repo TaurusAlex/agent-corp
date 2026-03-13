@@ -1,3 +1,0 @@
-# City Planning
-
-Industry template.

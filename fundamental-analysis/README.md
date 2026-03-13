@@ -1,3 +1,0 @@
-# Fundamental Analysis
-
-Industry template.

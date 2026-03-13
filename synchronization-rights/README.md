@@ -1,3 +1,0 @@
-# Synchronization Rights
-
-Industry template.

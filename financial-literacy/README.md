@@ -1,3 +1,0 @@
-# Financial Literacy
-
-Industry template.

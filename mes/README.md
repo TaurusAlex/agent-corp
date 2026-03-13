@@ -1,3 +1,0 @@
-# Mes
-
-Industry template.

@@ -1,3 +1,0 @@
-# Autonomous Cars
-
-Industry template.

@@ -1,3 +1,0 @@
-# Stock Management
-
-Industry template.

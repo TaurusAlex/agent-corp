@@ -1,3 +1,0 @@
-# Audio Learning
-
-Industry template.

@@ -1,3 +1,0 @@
-# Adaptive Learning
-
-Industry template.

@@ -1,3 +1,0 @@
-# Wearable Sports
-
-Industry template.

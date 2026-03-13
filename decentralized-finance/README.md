@@ -1,3 +1,0 @@
-# Decentralized Finance
-
-Industry template.

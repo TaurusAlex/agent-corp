@@ -1,3 +1,0 @@
-# Food Testing
-
-Industry template.

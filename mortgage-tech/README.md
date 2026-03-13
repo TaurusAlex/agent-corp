@@ -1,3 +1,0 @@
-# Mortgage Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Veteran Services
-
-Industry template.

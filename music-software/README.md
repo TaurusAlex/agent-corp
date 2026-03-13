@@ -1,3 +1,0 @@
-# Music Software
-
-Industry template.

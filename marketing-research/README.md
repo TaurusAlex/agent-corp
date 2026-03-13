@@ -1,3 +1,0 @@
-# Marketing Research
-
-Industry template.

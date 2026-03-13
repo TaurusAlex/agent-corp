@@ -1,3 +1,0 @@
-# Learning Analytics
-
-Industry template.

@@ -1,3 +1,0 @@
-# Property Insurance
-
-Industry template.

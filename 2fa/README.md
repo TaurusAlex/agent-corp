@@ -1,3 +1,0 @@
-# 2Fa
-
-Industry template.

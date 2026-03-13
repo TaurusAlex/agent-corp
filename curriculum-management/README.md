@@ -1,3 +1,0 @@
-# Curriculum Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Driver Management
-
-Industry template.

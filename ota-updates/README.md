@@ -1,3 +1,0 @@
-# Ota Updates
-
-Industry template.

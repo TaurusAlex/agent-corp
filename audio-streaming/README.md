@@ -1,3 +1,0 @@
-# Audio Streaming
-
-Industry template.

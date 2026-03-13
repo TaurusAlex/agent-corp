@@ -1,3 +1,0 @@
-# Unreal Engine
-
-Industry template.

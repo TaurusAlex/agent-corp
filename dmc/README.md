@@ -1,3 +1,0 @@
-# Dmc
-
-Industry template.

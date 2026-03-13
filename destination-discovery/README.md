@@ -1,3 +1,0 @@
-# Destination Discovery
-
-Industry template.

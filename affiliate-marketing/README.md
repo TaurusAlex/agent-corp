@@ -1,3 +1,0 @@
-# Affiliate Marketing
-
-Industry template.

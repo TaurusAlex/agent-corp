@@ -1,3 +1,0 @@
-# Sports Science
-
-Industry template.

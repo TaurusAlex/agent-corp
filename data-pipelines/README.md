@@ -1,3 +1,0 @@
-# Data Pipelines
-
-Industry template.

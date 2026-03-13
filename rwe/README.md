@@ -1,3 +1,0 @@
-# Rwe
-
-Industry template.

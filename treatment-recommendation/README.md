@@ -1,3 +1,0 @@
-# Treatment Recommendation
-
-Industry template.

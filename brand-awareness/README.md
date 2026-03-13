@@ -1,3 +1,0 @@
-# Brand Awareness
-
-Industry template.

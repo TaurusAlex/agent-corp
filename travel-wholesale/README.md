@@ -1,3 +1,0 @@
-# Travel Wholesale
-
-Industry template.

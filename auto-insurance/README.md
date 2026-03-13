@@ -1,3 +1,0 @@
-# Auto Insurance
-
-Industry template.

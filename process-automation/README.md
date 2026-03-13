@@ -1,3 +1,0 @@
-# Process Automation
-
-Industry template.

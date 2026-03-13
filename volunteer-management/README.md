@@ -1,3 +1,0 @@
-# Volunteer Management
-
-Industry template.

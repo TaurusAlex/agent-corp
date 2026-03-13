@@ -1,3 +1,0 @@
-# Property Listings
-
-Industry template.

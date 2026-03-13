@@ -1,3 +1,0 @@
-# Hiking
-
-Industry template.

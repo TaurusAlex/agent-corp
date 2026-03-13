@@ -1,3 +1,0 @@
-# Corporate Booking
-
-Industry template.

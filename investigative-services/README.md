@@ -1,3 +1,0 @@
-# Investigative Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Satellite Radio
-
-Industry template.

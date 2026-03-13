@@ -1,3 +1,0 @@
-# Food Waste
-
-Industry template.

@@ -1,3 +1,0 @@
-# Car Os
-
-Industry template.

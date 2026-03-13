@@ -1,3 +1,0 @@
-# Permit Management
-
-Industry template.

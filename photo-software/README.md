@@ -1,3 +1,0 @@
-# Photo Software
-
-Industry template.

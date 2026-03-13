@@ -1,3 +1,0 @@
-# Fullstack Development
-
-Industry template.

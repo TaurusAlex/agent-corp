@@ -1,3 +1,0 @@
-# Career Counseling
-
-Industry template.

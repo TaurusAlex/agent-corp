@@ -1,3 +1,0 @@
-# Gaming Content
-
-Industry template.

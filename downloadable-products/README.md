@@ -1,3 +1,0 @@
-# Downloadable Products
-
-Industry template.

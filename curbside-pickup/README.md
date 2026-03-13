@@ -1,3 +1,0 @@
-# Curbside Pickup
-
-Industry template.

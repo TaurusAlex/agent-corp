@@ -1,3 +1,0 @@
-# Android Games
-
-Industry template.

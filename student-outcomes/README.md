@@ -1,3 +1,0 @@
-# Student Outcomes
-
-Industry template.

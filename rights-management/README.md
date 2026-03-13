@@ -1,3 +1,0 @@
-# Rights Management
-
-Industry template.

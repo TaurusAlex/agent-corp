@@ -1,3 +1,0 @@
-# Cdn
-
-Industry template.

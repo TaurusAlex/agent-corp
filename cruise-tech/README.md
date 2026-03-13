@@ -1,3 +1,0 @@
-# Cruise Tech
-
-Industry template.

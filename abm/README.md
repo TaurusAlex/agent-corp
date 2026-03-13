@@ -1,3 +1,0 @@
-# Abm
-
-Industry template.

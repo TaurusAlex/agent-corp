@@ -1,3 +1,0 @@
-# Drm
-
-Industry template.

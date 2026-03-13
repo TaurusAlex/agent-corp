@@ -1,3 +1,0 @@
-# Pnl Lending
-
-Industry template.

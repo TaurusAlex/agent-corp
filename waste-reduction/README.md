@@ -1,3 +1,0 @@
-# Waste Reduction
-
-Industry template.

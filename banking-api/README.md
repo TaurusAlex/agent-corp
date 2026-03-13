@@ -1,3 +1,0 @@
-# Banking Api
-
-Industry template.

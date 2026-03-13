@@ -1,3 +1,0 @@
-# Realestate Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Workflow Automation
-
-Industry template.

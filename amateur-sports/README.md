@@ -1,3 +1,0 @@
-# Amateur Sports
-
-Industry template.

@@ -1,3 +1,0 @@
-# Iot Retail
-
-Industry template.

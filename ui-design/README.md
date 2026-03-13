@@ -1,3 +1,0 @@
-# Ui Design
-
-Industry template.

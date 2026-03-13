@@ -1,3 +1,0 @@
-# Appointment Software
-
-Industry template.

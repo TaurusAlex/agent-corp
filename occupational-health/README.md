@@ -1,3 +1,0 @@
-# Occupational Health
-
-Industry template.

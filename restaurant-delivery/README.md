@@ -1,3 +1,0 @@
-# Restaurant Delivery
-
-Industry template.

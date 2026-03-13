@@ -1,3 +1,0 @@
-# Emergency Management
-
-Industry template.

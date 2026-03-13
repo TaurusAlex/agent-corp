@@ -1,3 +1,0 @@
-# Game Events
-
-Industry template.

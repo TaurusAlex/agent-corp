@@ -1,3 +1,0 @@
-# Development Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# It Governance
-
-Industry template.

@@ -1,3 +1,0 @@
-# Solo Travel
-
-Industry template.

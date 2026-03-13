@@ -1,3 +1,0 @@
-# Online Banking
-
-Industry template.

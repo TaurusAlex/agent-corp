@@ -1,3 +1,0 @@
-# Recurring Donations
-
-Industry template.

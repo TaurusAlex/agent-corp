@@ -1,3 +1,0 @@
-# Esg Investing
-
-Industry template.

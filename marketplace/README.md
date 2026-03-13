@@ -1,3 +1,0 @@
-# Marketplace
-
-Industry template.

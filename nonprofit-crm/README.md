@@ -1,3 +1,0 @@
-# Nonprofit Crm
-
-Industry template.

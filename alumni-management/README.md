@@ -1,3 +1,0 @@
-# Alumni Management
-
-Industry template.

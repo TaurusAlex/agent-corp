@@ -1,3 +1,0 @@
-# Travel Insurance
-
-Industry template.

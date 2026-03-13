@@ -1,3 +1,0 @@
-# Waitlist Management
-
-Industry template.

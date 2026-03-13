@@ -1,3 +1,0 @@
-# Energy Audit
-
-Industry template.

@@ -1,3 +1,0 @@
-# Security Services
-
-Industry template.

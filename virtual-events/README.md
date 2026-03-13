@@ -1,3 +1,0 @@
-# Virtual Events
-
-Industry template.

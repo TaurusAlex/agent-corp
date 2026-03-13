@@ -1,3 +1,0 @@
-# Liquidity
-
-Industry template.

@@ -1,3 +1,0 @@
-# Salestech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Omnichannel
-
-Industry template.

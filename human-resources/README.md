@@ -1,3 +1,0 @@
-# Human Resources
-
-Industry template.

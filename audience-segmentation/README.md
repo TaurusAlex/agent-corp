@@ -1,3 +1,0 @@
-# Audience Segmentation
-
-Industry template.

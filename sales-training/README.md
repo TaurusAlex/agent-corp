@@ -1,3 +1,0 @@
-# Sales Training
-
-Industry template.

@@ -1,3 +1,0 @@
-# Risk Consulting
-
-Industry template.

@@ -1,3 +1,0 @@
-# Dj Software
-
-Industry template.

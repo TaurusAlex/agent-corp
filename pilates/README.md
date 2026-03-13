@@ -1,3 +1,0 @@
-# Pilates
-
-Industry template.

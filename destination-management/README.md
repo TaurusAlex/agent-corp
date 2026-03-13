@@ -1,3 +1,0 @@
-# Destination Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Wellness Programs
-
-Industry template.

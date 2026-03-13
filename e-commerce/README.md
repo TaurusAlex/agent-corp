@@ -1,3 +1,0 @@
-# E Commerce
-
-Industry template.

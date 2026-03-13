@@ -1,3 +1,0 @@
-# Game Server
-
-Industry template.

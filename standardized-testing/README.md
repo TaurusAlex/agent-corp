@@ -1,3 +1,0 @@
-# Standardized Testing
-
-Industry template.

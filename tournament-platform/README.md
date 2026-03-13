@@ -1,3 +1,0 @@
-# Tournament Platform
-
-Industry template.

@@ -1,3 +1,0 @@
-# Budgeting
-
-Industry template.

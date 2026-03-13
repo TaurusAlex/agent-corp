@@ -1,3 +1,0 @@
-# Theater Tech
-
-Industry template.

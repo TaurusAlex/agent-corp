@@ -1,3 +1,0 @@
-# Penetration Testing
-
-Industry template.

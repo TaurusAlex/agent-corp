@@ -1,3 +1,0 @@
-# Godot
-
-Industry template.

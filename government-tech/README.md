@@ -1,3 +1,0 @@
-# Government Tech
-
-Industry template.

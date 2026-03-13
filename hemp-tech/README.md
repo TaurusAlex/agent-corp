@@ -1,3 +1,0 @@
-# Hemp Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Guest Experience
-
-Industry template.

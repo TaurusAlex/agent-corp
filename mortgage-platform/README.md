@@ -1,3 +1,0 @@
-# Mortgage Platform
-
-Industry template.

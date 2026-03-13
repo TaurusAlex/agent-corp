@@ -1,3 +1,0 @@
-# Makeup
-
-Industry template.

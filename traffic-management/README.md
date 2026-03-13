@@ -1,3 +1,0 @@
-# Traffic Management
-
-Industry template.

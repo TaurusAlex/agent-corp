@@ -1,3 +1,0 @@
-# Racing Games
-
-Industry template.

@@ -1,3 +1,0 @@
-# Carbon Tracking
-
-Industry template.

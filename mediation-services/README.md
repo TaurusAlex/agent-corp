@@ -1,3 +1,0 @@
-# Mediation Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Student Information
-
-Industry template.

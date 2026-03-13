@@ -1,3 +1,0 @@
-# Nft
-
-Industry template.

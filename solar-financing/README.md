@@ -1,3 +1,0 @@
-# Solar Financing
-
-Industry template.

@@ -1,3 +1,0 @@
-# Cinema Tech
-
-Industry template.

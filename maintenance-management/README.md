@@ -1,3 +1,0 @@
-# Maintenance Management
-
-Industry template.

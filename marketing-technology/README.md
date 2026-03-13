@@ -1,3 +1,0 @@
-# Marketing Technology
-
-Industry template.

@@ -1,3 +1,0 @@
-# Carbon Credits
-
-Industry template.

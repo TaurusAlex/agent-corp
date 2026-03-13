@@ -1,3 +1,0 @@
-# Micro Credentials
-
-Industry template.

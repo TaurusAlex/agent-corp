@@ -1,3 +1,0 @@
-# Radio Tech
-
-Industry template.

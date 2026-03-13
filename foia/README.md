@@ -1,3 +1,0 @@
-# Foia
-
-Industry template.

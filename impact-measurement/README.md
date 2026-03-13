@@ -1,3 +1,0 @@
-# Impact Measurement
-
-Industry template.

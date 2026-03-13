@@ -1,3 +1,0 @@
-# Emergency Alerts
-
-Industry template.

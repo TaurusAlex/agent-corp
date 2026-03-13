@@ -1,3 +1,0 @@
-# Emr
-
-Industry template.

@@ -1,3 +1,0 @@
-# Exit Strategy
-
-Industry template.

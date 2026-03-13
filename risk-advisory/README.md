@@ -1,3 +1,0 @@
-# Risk Advisory
-
-Industry template.

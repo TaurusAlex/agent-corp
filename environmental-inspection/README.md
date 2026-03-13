@@ -1,3 +1,0 @@
-# Environmental Inspection
-
-Industry template.

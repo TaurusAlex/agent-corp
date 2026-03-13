@@ -1,3 +1,0 @@
-# Cloud Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Environmental Nonprofit
-
-Industry template.

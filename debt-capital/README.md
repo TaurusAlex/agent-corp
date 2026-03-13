@@ -1,3 +1,0 @@
-# Debt Capital
-
-Industry template.

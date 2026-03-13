@@ -1,3 +1,0 @@
-# Sports Nutrition
-
-Industry template.

@@ -1,3 +1,0 @@
-# Manufacturing
-
-Industry template.

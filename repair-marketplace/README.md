@@ -1,3 +1,0 @@
-# Repair Marketplace
-
-Industry template.

@@ -1,3 +1,0 @@
-# Civic Participation
-
-Industry template.

@@ -1,3 +1,0 @@
-# Stock Video
-
-Industry template.

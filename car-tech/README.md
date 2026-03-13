@@ -1,3 +1,0 @@
-# Car Tech
-
-Industry template.

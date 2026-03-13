@@ -1,3 +1,0 @@
-# Degree Audit
-
-Industry template.

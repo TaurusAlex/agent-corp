@@ -1,3 +1,0 @@
-# Fermentation Tech
-
-Industry template.

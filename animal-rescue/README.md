@@ -1,3 +1,0 @@
-# Animal Rescue
-
-Industry template.

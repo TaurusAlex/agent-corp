@@ -1,3 +1,0 @@
-# Dockless Sharing
-
-Industry template.

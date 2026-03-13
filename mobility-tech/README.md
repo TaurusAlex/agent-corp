@@ -1,3 +1,0 @@
-# Mobility Tech
-
-Industry template.

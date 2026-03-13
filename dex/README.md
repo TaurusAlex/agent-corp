@@ -1,3 +1,0 @@
-# Dex
-
-Industry template.

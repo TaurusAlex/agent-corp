@@ -1,3 +1,0 @@
-# Staking
-
-Industry template.

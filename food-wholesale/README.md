@@ -1,3 +1,0 @@
-# Food Wholesale
-
-Industry template.

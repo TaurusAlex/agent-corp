@@ -1,3 +1,0 @@
-# Event Security
-
-Industry template.

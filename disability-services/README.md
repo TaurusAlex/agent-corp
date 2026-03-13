@@ -1,3 +1,0 @@
-# Disability Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Money Transfer
-
-Industry template.

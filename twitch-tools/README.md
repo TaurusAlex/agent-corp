@@ -1,3 +1,0 @@
-# Twitch Tools
-
-Industry template.

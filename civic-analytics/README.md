@@ -1,3 +1,0 @@
-# Civic Analytics
-
-Industry template.

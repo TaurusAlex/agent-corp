@@ -1,3 +1,0 @@
-# Art Management
-
-Industry template.

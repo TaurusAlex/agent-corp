@@ -1,3 +1,0 @@
-# Ems Tech
-
-Industry template.

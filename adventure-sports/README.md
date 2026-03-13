@@ -1,3 +1,0 @@
-# Adventure Sports
-
-Industry template.

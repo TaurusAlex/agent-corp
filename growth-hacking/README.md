@@ -1,3 +1,0 @@
-# Growth Hacking
-
-Industry template.

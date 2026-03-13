@@ -1,3 +1,0 @@
-# Human Services
-
-Industry template.

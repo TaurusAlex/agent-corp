@@ -1,3 +1,0 @@
-# Stress Management
-
-Industry template.

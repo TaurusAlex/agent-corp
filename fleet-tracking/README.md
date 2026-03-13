@@ -1,3 +1,0 @@
-# Fleet Tracking
-
-Industry template.

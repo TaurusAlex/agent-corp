@@ -1,3 +1,0 @@
-# Naturopathy
-
-Industry template.

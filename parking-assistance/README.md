@@ -1,3 +1,0 @@
-# Parking Assistance
-
-Industry template.

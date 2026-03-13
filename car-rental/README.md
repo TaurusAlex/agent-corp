@@ -1,3 +1,0 @@
-# Car Rental
-
-Industry template.

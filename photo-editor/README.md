@@ -1,3 +1,0 @@
-# Photo Editor
-
-Industry template.

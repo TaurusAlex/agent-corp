@@ -1,3 +1,0 @@
-# Diagnostic Ai
-
-Industry template.

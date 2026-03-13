@@ -1,3 +1,0 @@
-# Volunteer Coordination
-
-Industry template.

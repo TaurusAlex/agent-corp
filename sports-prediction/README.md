@@ -1,3 +1,0 @@
-# Sports Prediction
-
-Industry template.

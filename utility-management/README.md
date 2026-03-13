@@ -1,3 +1,0 @@
-# Utility Management
-
-Industry template.

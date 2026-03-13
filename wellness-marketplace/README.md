@@ -1,3 +1,0 @@
-# Wellness Marketplace
-
-Industry template.

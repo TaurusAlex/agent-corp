@@ -1,3 +1,0 @@
-# Online Pharmacy
-
-Industry template.

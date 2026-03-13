@@ -1,3 +1,0 @@
-# Aml Fintech
-
-Industry template.

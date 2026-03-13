@@ -1,3 +1,0 @@
-# Desalination
-
-Industry template.

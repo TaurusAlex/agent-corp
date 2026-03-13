@@ -1,3 +1,0 @@
-# Address Verification
-
-Industry template.

@@ -1,3 +1,0 @@
-# Holistic Health
-
-Industry template.

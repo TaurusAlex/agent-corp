@@ -1,3 +1,0 @@
-# Cloud Native
-
-Industry template.

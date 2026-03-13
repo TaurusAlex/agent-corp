@@ -1,3 +1,0 @@
-# Reputation Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Bioinformatics
-
-Industry template.

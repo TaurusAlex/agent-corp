@@ -1,3 +1,0 @@
-# Experience Booking
-
-Industry template.

@@ -1,3 +1,0 @@
-# Skills Matching
-
-Industry template.

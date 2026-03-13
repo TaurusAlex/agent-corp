@@ -1,3 +1,0 @@
-# Career Pathways
-
-Industry template.

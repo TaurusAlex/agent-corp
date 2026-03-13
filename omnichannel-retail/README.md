@@ -1,3 +1,0 @@
-# Omnichannel Retail
-
-Industry template.

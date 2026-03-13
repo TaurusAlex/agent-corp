@@ -1,3 +1,0 @@
-# Nonprofit Tech
-
-Industry template.

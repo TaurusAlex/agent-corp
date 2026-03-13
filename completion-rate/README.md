@@ -1,3 +1,0 @@
-# Completion Rate
-
-Industry template.

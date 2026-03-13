@@ -1,3 +1,0 @@
-# Law Firms
-
-Industry template.

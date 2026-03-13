@@ -1,3 +1,0 @@
-# Tablet Pos
-
-Industry template.

@@ -1,3 +1,0 @@
-# Route Optimization
-
-Industry template.

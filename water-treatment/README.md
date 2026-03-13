@@ -1,3 +1,0 @@
-# Water Treatment
-
-Industry template.

@@ -1,3 +1,0 @@
-# Web Development
-
-Industry template.

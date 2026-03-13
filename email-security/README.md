@@ -1,3 +1,0 @@
-# Email Security
-
-Industry template.

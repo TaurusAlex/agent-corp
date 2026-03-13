@@ -1,3 +1,0 @@
-# Dynamic Pricing
-
-Industry template.

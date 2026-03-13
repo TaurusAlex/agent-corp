@@ -1,3 +1,0 @@
-# Social Monitoring
-
-Industry template.

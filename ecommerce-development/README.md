@@ -1,3 +1,0 @@
-# Ecommerce Development
-
-Industry template.

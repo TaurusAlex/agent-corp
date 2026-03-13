@@ -1,3 +1,0 @@
-# Sound Engineering
-
-Industry template.

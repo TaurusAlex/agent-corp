@@ -1,3 +1,0 @@
-# Contactless Payment
-
-Industry template.

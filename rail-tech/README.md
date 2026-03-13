@@ -1,3 +1,0 @@
-# Rail Tech
-
-Industry template.

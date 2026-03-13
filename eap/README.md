@@ -1,3 +1,0 @@
-# Eap
-
-Industry template.

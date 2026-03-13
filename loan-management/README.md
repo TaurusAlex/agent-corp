@@ -1,3 +1,0 @@
-# Loan Management
-
-Industry template.

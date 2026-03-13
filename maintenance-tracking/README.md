@@ -1,3 +1,0 @@
-# Maintenance Tracking
-
-Industry template.

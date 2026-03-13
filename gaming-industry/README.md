@@ -1,3 +1,0 @@
-# Gaming Industry
-
-Industry template.

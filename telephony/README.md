@@ -1,3 +1,0 @@
-# Telephony
-
-Industry template.

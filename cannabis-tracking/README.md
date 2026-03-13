@@ -1,3 +1,0 @@
-# Cannabis Tracking
-
-Industry template.

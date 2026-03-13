@@ -1,3 +1,0 @@
-# Net Zero
-
-Industry template.

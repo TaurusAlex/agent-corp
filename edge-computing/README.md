@@ -1,3 +1,0 @@
-# Edge Computing
-
-Industry template.

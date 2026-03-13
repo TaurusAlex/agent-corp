@@ -1,3 +1,0 @@
-# Grant Management
-
-Industry template.

@@ -1,3 +1,0 @@
-# Meal Services
-
-Industry template.

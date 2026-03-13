@@ -1,3 +1,0 @@
-# Order Management
-
-Industry template.

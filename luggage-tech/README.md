@@ -1,3 +1,0 @@
-# Luggage Tech
-
-Industry template.

@@ -1,3 +1,0 @@
-# Siem
-
-Industry template.

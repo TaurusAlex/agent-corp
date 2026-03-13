@@ -1,3 +1,0 @@
-# Customer Satisfaction
-
-Industry template.

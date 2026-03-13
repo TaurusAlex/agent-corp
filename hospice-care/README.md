@@ -1,3 +1,0 @@
-# Hospice Care
-
-Industry template.

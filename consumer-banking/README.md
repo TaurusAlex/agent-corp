@@ -1,3 +1,0 @@
-# Consumer Banking
-
-Industry template.

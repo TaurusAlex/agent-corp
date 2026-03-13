@@ -1,3 +1,0 @@
-# Nonprofit Finance
-
-Industry template.

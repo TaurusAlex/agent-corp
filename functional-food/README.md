@@ -1,3 +1,0 @@
-# Functional Food
-
-Industry template.

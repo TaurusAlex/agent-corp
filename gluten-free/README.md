@@ -1,3 +1,0 @@
-# Gluten Free
-
-Industry template.

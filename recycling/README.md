@@ -1,3 +1,0 @@
-# Recycling
-
-Industry template.

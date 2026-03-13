@@ -1,3 +1,0 @@
-# Jogging
-
-Industry template.

@@ -1,3 +1,0 @@
-# Mergers Acquisitions
-
-Industry template.

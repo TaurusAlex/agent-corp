@@ -1,3 +1,0 @@
-# Checkout Optimization
-
-Industry template.

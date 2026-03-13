@@ -1,3 +1,0 @@
-# Patient Engagement
-
-Industry template.

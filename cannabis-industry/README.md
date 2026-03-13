@@ -1,3 +1,0 @@
-# Cannabis Industry
-
-Industry template.

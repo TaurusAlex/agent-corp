@@ -1,3 +1,0 @@
-# Competitive Intelligence
-
-Industry template.

@@ -1,3 +1,0 @@
-# Micromobility
-
-Industry template.

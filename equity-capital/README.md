@@ -1,3 +1,0 @@
-# Equity Capital
-
-Industry template.

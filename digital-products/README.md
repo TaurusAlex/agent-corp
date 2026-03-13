@@ -1,3 +1,0 @@
-# Digital Products
-
-Industry template.

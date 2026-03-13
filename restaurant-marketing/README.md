@@ -1,3 +1,0 @@
-# Restaurant Marketing
-
-Industry template.

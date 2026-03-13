@@ -1,3 +1,0 @@
-# Predictive Analytics
-
-Industry template.

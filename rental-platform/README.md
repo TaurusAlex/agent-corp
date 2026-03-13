@@ -1,3 +1,0 @@
-# Rental Platform
-
-Industry template.

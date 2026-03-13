@@ -1,3 +1,0 @@
-# Govtech
-
-Industry template.

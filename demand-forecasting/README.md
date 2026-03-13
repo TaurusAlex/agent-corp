@@ -1,3 +1,0 @@
-# Demand Forecasting
-
-Industry template.

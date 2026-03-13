@@ -1,3 +1,0 @@
-# Enterprise Software
-
-Industry template.

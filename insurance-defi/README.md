@@ -1,3 +1,0 @@
-# Insurance Defi
-
-Industry template.

@@ -1,3 +1,0 @@
-# Volunteer Tracking
-
-Industry template.

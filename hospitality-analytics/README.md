@@ -1,3 +1,0 @@
-# Hospitality Analytics
-
-Industry template.

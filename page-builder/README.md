@@ -1,3 +1,0 @@
-# Page Builder
-
-Industry template.

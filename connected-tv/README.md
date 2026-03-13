@@ -1,3 +1,0 @@
-# Connected Tv
-
-Industry template.

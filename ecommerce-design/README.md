@@ -1,3 +1,0 @@
-# Ecommerce Design
-
-Industry template.

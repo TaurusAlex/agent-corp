@@ -1,3 +1,0 @@
-# Municipal Software
-
-Industry template.

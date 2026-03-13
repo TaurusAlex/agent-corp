@@ -1,3 +1,0 @@
-# Commercial Banking
-
-Industry template.

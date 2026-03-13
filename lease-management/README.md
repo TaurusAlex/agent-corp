@@ -1,3 +1,0 @@
-# Lease Management
-
-Industry template.

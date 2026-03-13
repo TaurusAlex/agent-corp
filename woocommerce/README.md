@@ -1,3 +1,0 @@
-# Woocommerce
-
-Industry template.

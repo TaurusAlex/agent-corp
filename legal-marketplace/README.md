@@ -1,3 +1,0 @@
-# Legal Marketplace
-
-Industry template.

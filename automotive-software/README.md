@@ -1,3 +1,0 @@
-# Automotive Software
-
-Industry template.

@@ -1,3 +1,0 @@
-# Auto Accessories
-
-Industry template.

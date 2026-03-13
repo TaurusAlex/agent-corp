@@ -1,3 +1,0 @@
-# Crossfit
-
-Industry template.

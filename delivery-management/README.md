@@ -1,3 +1,0 @@
-# Delivery Management
-
-Industry template.

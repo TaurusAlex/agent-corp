@@ -1,3 +1,0 @@
-# Professional Services
-
-Industry template.

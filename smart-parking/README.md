@@ -1,3 +1,0 @@
-# Smart Parking
-
-Industry template.

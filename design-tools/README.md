@@ -1,3 +1,0 @@
-# Design Tools
-
-Industry template.

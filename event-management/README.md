@@ -1,3 +1,0 @@
-# Event Management
-
-Industry template.

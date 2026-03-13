@@ -1,3 +1,0 @@
-# Songwriting
-
-Industry template.

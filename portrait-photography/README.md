@@ -1,3 +1,0 @@
-# Portrait Photography
-
-Industry template.

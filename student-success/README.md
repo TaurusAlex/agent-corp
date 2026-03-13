@@ -1,3 +1,0 @@
-# Student Success
-
-Industry template.

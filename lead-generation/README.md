@@ -1,3 +1,0 @@
-# Lead Generation
-
-Industry template.

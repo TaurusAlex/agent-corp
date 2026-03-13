@@ -1,3 +1,0 @@
-# Membership
-
-Industry template.

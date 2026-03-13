@@ -1,3 +1,0 @@
-# Energy Efficiency
-
-Industry template.

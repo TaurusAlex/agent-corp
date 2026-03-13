@@ -1,3 +1,0 @@
-# Impact Analytics
-
-Industry template.

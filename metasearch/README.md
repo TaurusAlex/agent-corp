@@ -1,3 +1,0 @@
-# Metasearch
-
-Industry template.

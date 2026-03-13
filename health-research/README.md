@@ -1,3 +1,0 @@
-# Health Research
-
-Industry template.

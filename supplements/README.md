@@ -1,3 +1,0 @@
-# Supplements
-
-Industry template.

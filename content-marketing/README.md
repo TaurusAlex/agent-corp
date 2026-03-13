@@ -1,3 +1,0 @@
-# Content Marketing
-
-Industry template.

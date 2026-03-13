@@ -1,3 +1,0 @@
-# Private Equity
-
-Industry template.

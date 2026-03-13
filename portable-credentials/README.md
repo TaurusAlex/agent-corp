@@ -1,3 +1,0 @@
-# Portable Credentials
-
-Industry template.

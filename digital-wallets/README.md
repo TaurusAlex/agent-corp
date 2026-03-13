@@ -1,3 +1,0 @@
-# Digital Wallets
-
-Industry template.

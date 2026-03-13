@@ -1,3 +1,0 @@
-# Conservation
-
-Industry template.

@@ -1,3 +1,0 @@
-# Travel Accessories
-
-Industry template.

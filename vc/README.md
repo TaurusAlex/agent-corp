@@ -1,3 +1,0 @@
-# Vc
-
-Industry template.

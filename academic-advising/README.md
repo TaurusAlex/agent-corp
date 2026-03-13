@@ -1,3 +1,0 @@
-# Academic Advising
-
-Industry template.

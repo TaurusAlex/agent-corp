@@ -1,3 +1,0 @@
-# Hybrid Events
-
-Industry template.

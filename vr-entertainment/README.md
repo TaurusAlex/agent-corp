@@ -1,3 +1,0 @@
-# Vr Entertainment
-
-Industry template.

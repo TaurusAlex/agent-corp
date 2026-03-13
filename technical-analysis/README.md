@@ -1,3 +1,0 @@
-# Technical Analysis
-
-Industry template.

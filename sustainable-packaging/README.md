@@ -1,3 +1,0 @@
-# Sustainable Packaging
-
-Industry template.

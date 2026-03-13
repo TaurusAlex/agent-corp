@@ -1,3 +1,0 @@
-# Sports Coaching
-
-Industry template.

@@ -1,3 +1,0 @@
-# Keto
-
-Industry template.

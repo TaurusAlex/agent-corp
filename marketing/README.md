@@ -1,3 +1,0 @@
-# Marketing
-
-Industry template.

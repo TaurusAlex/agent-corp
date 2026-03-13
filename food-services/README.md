@@ -1,3 +1,0 @@
-# Food Services
-
-Industry template.

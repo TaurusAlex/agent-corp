@@ -1,3 +1,0 @@
-# Alternative Lending
-
-Industry template.

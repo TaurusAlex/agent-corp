@@ -1,3 +1,0 @@
-# Content Creation
-
-Industry template.

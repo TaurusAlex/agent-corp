@@ -1,3 +1,0 @@
-# Smart Watches
-
-Industry template.

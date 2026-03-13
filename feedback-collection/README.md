@@ -1,3 +1,0 @@
-# Feedback Collection
-
-Industry template.

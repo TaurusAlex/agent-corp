@@ -1,3 +1,0 @@
-# Nps
-
-Industry template.

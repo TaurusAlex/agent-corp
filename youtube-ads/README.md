@@ -1,3 +1,0 @@
-# Youtube Ads
-
-Industry template.

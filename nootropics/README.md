@@ -1,3 +1,0 @@
-# Nootropics
-
-Industry template.

@@ -1,3 +1,0 @@
-# Robotics Education
-
-Industry template.

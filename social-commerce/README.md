@@ -1,3 +1,0 @@
-# Social Commerce
-
-Industry template.

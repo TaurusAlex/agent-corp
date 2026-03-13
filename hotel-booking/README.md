@@ -1,3 +1,0 @@
-# Hotel Booking
-
-Industry template.

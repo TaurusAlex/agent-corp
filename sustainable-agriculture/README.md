@@ -1,3 +1,0 @@
-# Sustainable Agriculture
-
-Industry template.

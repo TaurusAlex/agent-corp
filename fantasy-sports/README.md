@@ -1,3 +1,0 @@
-# Fantasy Sports
-
-Industry template.

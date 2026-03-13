@@ -1,3 +1,0 @@
-# Video Streaming
-
-Industry template.

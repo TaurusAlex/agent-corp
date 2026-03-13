@@ -1,3 +1,0 @@
-# Volunteer Portal
-
-Industry template.

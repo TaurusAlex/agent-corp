@@ -1,3 +1,0 @@
-# Staffing
-
-Industry template.

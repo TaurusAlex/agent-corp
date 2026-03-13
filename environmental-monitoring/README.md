@@ -1,3 +1,0 @@
-# Environmental Monitoring
-
-Industry template.

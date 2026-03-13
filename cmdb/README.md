@@ -1,3 +1,0 @@
-# Cmdb
-
-Industry template.

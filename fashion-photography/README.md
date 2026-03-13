@@ -1,3 +1,0 @@
-# Fashion Photography
-
-Industry template.

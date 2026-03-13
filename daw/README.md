@@ -1,3 +1,0 @@
-# Daw
-
-Industry template.

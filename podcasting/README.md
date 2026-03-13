@@ -1,3 +1,0 @@
-# Podcasting
-
-Industry template.

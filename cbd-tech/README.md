@@ -1,3 +1,0 @@
-# Cbd Tech
-
-Industry template.

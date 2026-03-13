@@ -1,3 +1,0 @@
-# Tax Planning
-
-Industry template.

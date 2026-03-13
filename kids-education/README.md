@@ -1,3 +1,0 @@
-# Kids Education
-
-Industry template.

@@ -1,3 +1,0 @@
-# Game Art
-
-Industry template.

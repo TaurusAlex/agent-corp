@@ -1,3 +1,0 @@
-# Shipping Logistics
-
-Industry template.

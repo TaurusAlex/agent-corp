@@ -1,3 +1,0 @@
-# Linkedin Ads
-
-Industry template.

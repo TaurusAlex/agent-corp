@@ -1,3 +1,0 @@
-# Hipaa Compliance
-
-Industry template.

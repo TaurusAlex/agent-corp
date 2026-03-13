@@ -1,3 +1,0 @@
-# Stock Photography
-
-Industry template.

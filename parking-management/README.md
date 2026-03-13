@@ -1,3 +1,0 @@
-# Parking Management
-
-Industry template.

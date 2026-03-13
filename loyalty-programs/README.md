@@ -1,3 +1,0 @@
-# Loyalty Programs
-
-Industry template.

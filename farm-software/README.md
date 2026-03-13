@@ -1,3 +1,0 @@
-# Farm Software
-
-Industry template.

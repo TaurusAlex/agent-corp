@@ -1,3 +1,0 @@
-# Nft Art
-
-Industry template.

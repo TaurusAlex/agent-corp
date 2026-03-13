@@ -1,3 +1,0 @@
-# Forensics
-
-Industry template.

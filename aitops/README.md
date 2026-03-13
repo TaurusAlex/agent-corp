@@ -1,3 +1,0 @@
-# Aitops
-
-Industry template.

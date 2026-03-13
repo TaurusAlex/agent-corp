@@ -1,3 +1,0 @@
-# Financial Aggregation
-
-Industry template.

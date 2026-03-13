@@ -1,3 +1,0 @@
-# Social Services
-
-Industry template.

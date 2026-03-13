@@ -1,3 +1,0 @@
-# Game Animation
-
-Industry template.

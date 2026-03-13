@@ -1,3 +1,0 @@
-# Consulting Firms
-
-Industry template.

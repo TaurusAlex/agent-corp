@@ -1,3 +1,0 @@
-# Action Games
-
-Industry template.

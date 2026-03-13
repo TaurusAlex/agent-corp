@@ -1,3 +1,0 @@
-# Trading Platforms
-
-Industry template.

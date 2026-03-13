@@ -1,3 +1,0 @@
-# Tax Software
-
-Industry template.

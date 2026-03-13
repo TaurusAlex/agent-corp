@@ -1,3 +1,0 @@
-# Public Cloud
-
-Industry template.

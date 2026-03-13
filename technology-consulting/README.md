@@ -1,3 +1,0 @@
-# Technology Consulting
-
-Industry template.

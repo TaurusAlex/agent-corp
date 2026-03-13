@@ -1,3 +1,0 @@
-# Grassroots
-
-Industry template.

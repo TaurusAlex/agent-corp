@@ -1,3 +1,0 @@
-# Security Auditing
-
-Industry template.

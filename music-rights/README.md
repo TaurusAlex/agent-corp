@@ -1,3 +1,0 @@
-# Music Rights
-
-Industry template.

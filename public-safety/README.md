@@ -1,3 +1,0 @@
-# Public Safety
-
-Industry template.

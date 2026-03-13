@@ -1,3 +1,0 @@
-# Sync Licensing
-
-Industry template.

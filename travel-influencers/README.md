@@ -1,3 +1,0 @@
-# Travel Influencers
-
-Industry template.

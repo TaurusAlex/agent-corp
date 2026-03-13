@@ -1,3 +1,0 @@
-# Travel Finance
-
-Industry template.

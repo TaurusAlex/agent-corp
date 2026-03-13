@@ -1,3 +1,0 @@
-# Endpoint Security
-
-Industry template.

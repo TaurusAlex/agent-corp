@@ -1,3 +1,0 @@
-# Online Shopping
-
-Industry template.

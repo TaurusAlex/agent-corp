@@ -1,3 +1,0 @@
-# Auto Repair
-
-Industry template.

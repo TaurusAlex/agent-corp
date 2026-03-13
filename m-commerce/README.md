@@ -1,3 +1,0 @@
-# M Commerce
-
-Industry template.

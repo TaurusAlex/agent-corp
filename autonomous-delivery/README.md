@@ -1,3 +1,0 @@
-# Autonomous Delivery
-
-Industry template.

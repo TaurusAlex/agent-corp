@@ -1,3 +1,0 @@
-# Police Tech
-
-Industry template.

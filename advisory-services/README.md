@@ -1,3 +1,0 @@
-# Advisory Services
-
-Industry template.

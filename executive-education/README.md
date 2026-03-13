@@ -1,3 +1,0 @@
-# Executive Education
-
-Industry template.

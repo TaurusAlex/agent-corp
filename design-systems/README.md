@@ -1,3 +1,0 @@
-# Design Systems
-
-Industry template.

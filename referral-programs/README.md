@@ -1,3 +1,0 @@
-# Referral Programs
-
-Industry template.

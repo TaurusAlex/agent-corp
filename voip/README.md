@@ -1,3 +1,0 @@
-# Voip
-
-Industry template.

@@ -1,3 +1,0 @@
-# Video Learning
-
-Industry template.

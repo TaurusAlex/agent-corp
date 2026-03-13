@@ -1,3 +1,0 @@
-# Escrow Payments
-
-Industry template.

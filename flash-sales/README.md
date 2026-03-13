@@ -1,3 +1,0 @@
-# Flash Sales
-
-Industry template.

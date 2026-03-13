@@ -1,3 +1,0 @@
-# Fundraising Education
-
-Industry template.

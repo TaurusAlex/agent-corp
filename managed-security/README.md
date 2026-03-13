@@ -1,3 +1,0 @@
-# Managed Security
-
-Industry template.

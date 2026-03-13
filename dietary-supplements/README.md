@@ -1,3 +1,0 @@
-# Dietary Supplements
-
-Industry template.

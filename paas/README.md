@@ -1,3 +1,0 @@
-# Paas
-
-Industry template.

@@ -1,3 +1,0 @@
-# Water Quality
-
-Industry template.

@@ -1,3 +1,0 @@
-# Xr Games
-
-Industry template.

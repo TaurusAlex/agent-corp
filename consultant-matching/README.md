@@ -1,3 +1,0 @@
-# Consultant Matching
-
-Industry template.

@@ -1,3 +1,0 @@
-# Image Recognition
-
-Industry template.

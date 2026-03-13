@@ -1,3 +1,0 @@
-# Citizen Portal
-
-Industry template.

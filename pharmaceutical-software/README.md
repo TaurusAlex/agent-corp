@@ -1,3 +1,0 @@
-# Pharmaceutical Software
-
-Industry template.

@@ -1,3 +1,0 @@
-# Vertical Farming
-
-Industry template.

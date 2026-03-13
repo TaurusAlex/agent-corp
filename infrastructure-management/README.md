@@ -1,3 +1,0 @@
-# Infrastructure Management
-
-Industry template.

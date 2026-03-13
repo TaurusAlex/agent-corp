@@ -1,3 +1,0 @@
-# Deal Management
-
-Industry template.

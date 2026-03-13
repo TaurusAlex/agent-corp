@@ -1,3 +1,0 @@
-# Passport Services
-
-Industry template.

@@ -1,3 +1,0 @@
-# Financial Consulting
-
-Industry template.

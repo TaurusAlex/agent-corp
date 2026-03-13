@@ -1,3 +1,0 @@
-# Photo Storage
-
-Industry template.

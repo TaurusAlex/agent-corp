@@ -1,3 +1,0 @@
-# Adventure Games
-
-Industry template.

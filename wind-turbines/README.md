@@ -1,3 +1,0 @@
-# Wind Turbines
-
-Industry template.

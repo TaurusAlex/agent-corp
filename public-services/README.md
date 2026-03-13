@@ -1,3 +1,0 @@
-# Public Services
-
-Industry template.

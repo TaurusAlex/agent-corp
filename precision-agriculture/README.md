@@ -1,3 +1,0 @@
-# Precision Agriculture
-
-Industry template.

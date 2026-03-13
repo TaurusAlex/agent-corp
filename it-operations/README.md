@@ -1,3 +1,0 @@
-# It Operations
-
-Industry template.

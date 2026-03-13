@@ -1,3 +1,0 @@
-# Cloud Security
-
-Industry template.

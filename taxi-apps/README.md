@@ -1,3 +1,0 @@
-# Taxi Apps
-
-Industry template.

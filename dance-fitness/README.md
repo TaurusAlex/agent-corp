@@ -1,3 +1,0 @@
-# Dance Fitness
-
-Industry template.

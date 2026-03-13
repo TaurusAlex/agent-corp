@@ -1,3 +1,0 @@
-# Credit Scoring
-
-Industry template.

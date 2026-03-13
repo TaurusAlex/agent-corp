@@ -1,3 +1,0 @@
-# Sports Gaming
-
-Industry template.

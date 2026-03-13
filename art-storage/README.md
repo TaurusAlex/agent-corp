@@ -1,3 +1,0 @@
-# Art Storage
-
-Industry template.

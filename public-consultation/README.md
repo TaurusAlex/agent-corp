@@ -1,3 +1,0 @@
-# Public Consultation
-
-Industry template.

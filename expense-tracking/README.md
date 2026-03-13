@@ -1,3 +1,0 @@
-# Expense Tracking
-
-Industry template.

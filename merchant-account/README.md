@@ -1,3 +1,0 @@
-# Merchant Account
-
-Industry template.

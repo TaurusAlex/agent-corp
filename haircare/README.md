@@ -1,3 +1,0 @@
-# Haircare
-
-Industry template.

@@ -1,3 +1,0 @@
-# Payment Services
-
-Industry template.

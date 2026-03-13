@@ -1,3 +1,0 @@
-# Leadership Development
-
-Industry template.

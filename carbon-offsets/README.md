@@ -1,3 +1,0 @@
-# Carbon Offsets
-
-Industry template.

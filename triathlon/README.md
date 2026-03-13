@@ -1,3 +1,0 @@
-# Triathlon
-
-Industry template.

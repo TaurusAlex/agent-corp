@@ -1,3 +1,0 @@
-# Sso
-
-Industry template.

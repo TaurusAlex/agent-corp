@@ -1,3 +1,0 @@
-# Design Software
-
-Industry template.

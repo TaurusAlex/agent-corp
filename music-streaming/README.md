@@ -1,3 +1,0 @@
-# Music Streaming
-
-Industry template.

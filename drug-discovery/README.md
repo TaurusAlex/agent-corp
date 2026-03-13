@@ -1,3 +1,0 @@
-# Drug Discovery
-
-Industry template.

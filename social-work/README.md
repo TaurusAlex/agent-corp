@@ -1,3 +1,0 @@
-# Social Work
-
-Industry template.

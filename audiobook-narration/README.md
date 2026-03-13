@@ -1,3 +1,0 @@
-# Audiobook Narration
-
-Industry template.

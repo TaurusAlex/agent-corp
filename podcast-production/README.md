@@ -1,3 +1,0 @@
-# Podcast Production
-
-Industry template.

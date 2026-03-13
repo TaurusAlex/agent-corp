@@ -1,3 +1,0 @@
-# Payment Terminal
-
-Industry template.

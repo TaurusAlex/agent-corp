@@ -1,3 +1,0 @@
-# Environmental Impact
-
-Industry template.

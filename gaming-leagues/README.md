@@ -1,3 +1,0 @@
-# Gaming Leagues
-
-Industry template.

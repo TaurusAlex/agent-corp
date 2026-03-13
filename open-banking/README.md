@@ -1,3 +1,0 @@
-# Open Banking
-
-Industry template.

@@ -1,3 +1,0 @@
-# Influencer Marketing
-
-Industry template.

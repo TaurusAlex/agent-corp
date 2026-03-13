@@ -1,3 +1,0 @@
-# Green Investing
-
-Industry template.

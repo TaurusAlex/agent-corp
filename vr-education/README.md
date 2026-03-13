@@ -1,3 +1,0 @@
-# Vr Education
-
-Industry template.

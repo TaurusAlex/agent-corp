@@ -1,3 +1,0 @@
-# Infrastructure Monitoring
-
-Industry template.

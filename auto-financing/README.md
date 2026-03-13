@@ -1,3 +1,0 @@
-# Auto Financing
-
-Industry template.

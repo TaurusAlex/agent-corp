@@ -1,3 +1,0 @@
-# Recs
-
-Industry template.

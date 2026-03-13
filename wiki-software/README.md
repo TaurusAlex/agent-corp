@@ -1,3 +1,0 @@
-# Wiki Software
-
-Industry template.

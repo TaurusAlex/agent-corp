@@ -1,3 +1,0 @@
-# Corporate Travel
-
-Industry template.

@@ -1,3 +1,0 @@
-# Smart Contracts
-
-Industry template.

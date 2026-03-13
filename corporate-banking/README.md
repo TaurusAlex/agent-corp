@@ -1,3 +1,0 @@
-# Corporate Banking
-
-Industry template.

@@ -1,3 +1,0 @@
-# Camping
-
-Industry template.

@@ -1,3 +1,0 @@
-# Recommendation Engine
-
-Industry template.

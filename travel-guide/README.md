@@ -1,3 +1,0 @@
-# Travel Guide
-
-Industry template.

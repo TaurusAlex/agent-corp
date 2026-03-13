@@ -1,3 +1,0 @@
-# Marketing Cloud
-
-Industry template.

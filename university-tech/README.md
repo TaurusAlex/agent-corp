@@ -1,3 +1,0 @@
-# University Tech
-
-Industry template.

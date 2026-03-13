@@ -1,3 +1,0 @@
-# Endowment Management
-
-Industry template.

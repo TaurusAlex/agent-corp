@@ -1,3 +1,0 @@
-# Care Navigation
-
-Industry template.

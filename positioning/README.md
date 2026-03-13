@@ -1,3 +1,0 @@
-# Positioning
-
-Industry template.

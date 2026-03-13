@@ -1,3 +1,0 @@
-# Retail Banking
-
-Industry template.
