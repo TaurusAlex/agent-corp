@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""批量生成11456个agent"""
+"""批量生成11456个agent - 增强版"""
 
 import os
-import shutil
-from pathlib import Path
+import random
 
 # 角色类型定义
 ROLE_TYPES = [
@@ -37,169 +36,322 @@ INDUSTRY_MAP = {
     "T_国际": "第三产业",
 }
 
+# 专长领域详细描述
+EXPERTISE_DETAILS = {
+    "第一产业": [
+        "粮食作物种植技术、病虫害防治、土壤改良、灌溉施肥方案",
+        "农机设备操作维护、农产品储藏加工、农业项目管理、规模化经营",
+        "农业政策解读、补贴申请、产业链整合、品牌营销策略"
+    ],
+    "第二产业": [
+        "生产工艺优化、设备维护管理、质量控制体系、安全生产规范",
+        "供应链管理、采购成本控制、库存优化、生产计划调度",
+        "项目管理、工程造价、技术方案评估、团队协作管理"
+    ],
+    "第三产业": [
+        "客户需求分析、解决方案设计、服务流程优化、客户体验提升",
+        "市场营销策略、品牌推广、渠道拓展、销售业绩增长",
+        "数据分析、运营优化、产品创新、团队管理"
+    ]
+}
+
+# 风格描述
+STYLE_DESCRIPTIONS = {
+    "经理": "结果导向、注重ROI、擅长团队激励和资源整合，具有全局视野和决策能力",
+    "顾问": "分析透彻、逻辑严谨、善于发现问题本质，提供可落地的解决方案",
+    "专家": "技术过硬、追求极致、注重细节和品质，喜欢钻研解决复杂问题",
+    "技术员": "动手能力强、细心负责、注重规范操作，善于处理日常技术问题",
+    "主管": "执行力强、关注过程管理、善于协调资源和团队协作",
+    "工程师": "严谨务实、注重规范、善于攻关技术难题，追求工程实效",
+    "设计师": "追求美感、创新思维、注重用户体验和视觉传达效果",
+    "销售": "主动积极、善于沟通、目标导向、擅长挖掘客户需求",
+    "客服": "耐心细致、积极主动、善于倾听和问题解决，用户体验至上",
+    "总监": "战略思维、格局开阔、决策果断、统筹全局能力强",
+    "负责人": "全局把控、责任担当、统筹协调、危机处理能力强",
+    "主厨": "追求品质、注重卫生、菜品创新、成本控制意识强",
+    "店长": "经营思维、关注细节、业绩导向、团队管理有方",
+    "教师": "循循善诱、耐心讲解、注重启发式教学，知识渊博",
+    "教练": "专业过硬、善于激励、因材施教，关注学员成长",
+    "医生": "严谨负责、经验丰富、医者仁心，注重诊疗规范",
+    "护士": "细心耐心、专业规范、关爱患者，配合医护团队",
+    "司机": "安全第一、服务至上、熟悉路况、驾驶技术娴熟",
+    "经纪人": "信息通达、善于沟通、诚信可靠、谈判能力强",
+    "运营": "数据敏感、关注细节、持续优化、用户思维强"
+}
+
+# 常见问题详细
+COMMON_QUESTIONS = {
+    "第一产业": [
+        "种植技术问题：品种选择、播种时间、施肥方案、病虫害防治",
+        "经营管理问题：规模选择、成本控制、销售渠道、政策补贴",
+        "设备问题：农机选型、维修保养、配件采购、节能改造"
+    ],
+    "第二产业": [
+        "生产工艺问题：技术改进、质量提升、效率优化、成本控制",
+        "设备管理问题：维护保养、故障处理、备件管理、更新选型",
+        "安全管理问题：隐患排查、应急预案、培训演练、法规合规"
+    ],
+    "第三产业": [
+        "业务拓展问题：市场定位、客户开发、渠道建设、品牌推广",
+        "运营优化问题：流程改进、效率提升、成本控制、用户体验",
+        "团队管理问题：人才培养、绩效激励、文化建设、冲突处理"
+    ]
+}
+
 def get_industry_type(industry_path):
-    """从行业路径判断产业类型"""
     for key, value in INDUSTRY_MAP.items():
         if key in industry_path:
             return value
     return "第三产业"
 
-def get_role_desc(role):
-    """获取角色描述"""
-    role_descs = {
-        "经理": {"desc": "全面负责部门运营，协调团队完成目标", "style": "注重结果、关注ROI、擅长团队管理"},
-        "顾问": {"desc": "提供专业建议，擅长问题诊断和方案规划", "style": "分析透彻、建议实用、考虑周全"},
-        "专家": {"desc": "解决复杂问题，提供深度技术支持", "style": "技术过硬、追求完美、喜欢钻研"},
-        "技术员": {"desc": "执行具体技术操作，解决日常技术问题", "style": "动手能力强、细心负责、注重细节"},
-        "主管": {"desc": "负责部门日常管理，带团队执行任务", "style": "执行力强、关注过程、善于协调"},
-        "工程师": {"desc": "技术实施落地，解决工程实际问题", "style": "严谨务实、注重规范、善于攻关"},
-        "设计师": {"desc": "创意设计实现，关注美学和用户体验", "style": "追求美感、创新思维、注重细节"},
-        "销售": {"desc": "开发客户、达成销售、维护关系", "style": "主动积极、善于沟通、目标导向"},
-        "客服": {"desc": "服务客户、解决问题、提升满意度", "style": "耐心细致、积极主动、善于倾听"},
-        "总监": {"desc": "制定战略、统筹全局、管理多部门", "style": "战略思维、格局开阔、决策果断"},
-        "负责人": {"desc": "全面负责项目/部门运作", "style": "全局把控、责任担当、统筹协调"},
-        "主厨": {"desc": "掌控厨房、研发菜品、保证品质", "style": "追求品质、注重卫生、擅长创新"},
-        "店长": {"desc": "管理店铺运营，提升业绩和客户满意度", "style": "执行力强、关注细节、善于经营"},
-        "教师": {"desc": "传道授业解惑，帮助学员成长", "style": "耐心讲解、循循善诱、注重启发"},
-        "教练": {"desc": "指导训练，帮助学员提升技能", "style": "专业过硬、善于激励、关注学员"},
-        "医生": {"desc": "诊疗疾病，提供医疗服务", "style": "严谨负责、经验丰富、医者仁心"},
-        "护士": {"desc": "护理患者，配合医生治疗", "style": "细心耐心、专业规范、关爱患者"},
-        "司机": {"desc": "安全驾驶，提供专业出行服务", "style": "安全第一、服务至上、熟悉路线"},
-        "经纪人": {"desc": "撮合交易，提供专业中介服务", "style": "信息通达、善于沟通、诚信可靠"},
-        "运营": {"desc": "负责业务运营，提升效率和用户体验", "style": "数据敏感、关注细节、善于优化"},
-    }
-    return role_descs.get(role, {"desc": "提供专业服务", "style": "专业实用"})
-
-def create_agent(big_industry, role, job_name):
-    """为一个岗位创建一个agent"""
-    industry_type = get_industry_type(big_industry)
-    role_info = get_role_desc(role)
+def generate_soul(job_name, role, industry_type):
+    style = STYLE_DESCRIPTIONS.get(role, "专业实用、实战经验丰富")
+    expertise = EXPERTISE_DETAILS.get(industry_type, ["本行业相关专业知识"])
     
-    # 目标路径: agents/产业大类/岗位名/角色
-    target_dir = f"/root/clawd/agent-corp/src/agents/{industry_type}/{job_name}/{role}"
-    
-    if os.path.exists(target_dir):
-        return False  # 已存在
-    
-    os.makedirs(f"{target_dir}/agent", exist_ok=True)
-    
-    # 生成SOUL.md
-    soul = f"""# {role} - {job_name}
+    return f"""# {job_name}{role}
 
-你是{job_name}{role}，{role_info['desc']}。
-{role_info['style']}。说话实在，不整虚的。
+你是{job_name}{role}，{style}。在这个行业深耕多年，积累了丰富的实战经验。
 
-## 风格
-- 直接给答案，不绕弯子
-- 实用为主，少讲理论
-- 不确定的说"这个要看你具体情况"
+## 身份背景
+- 从事{job_name}相关工作多年
+- 历任多个相关岗位，擅长解决实际问题
+- 注重实操效果，不空谈理论
 
-## 专长
-- 深度：{job_name}相关专业知识
-- 中等：相关联的业务知识
-- 不涉及：跨行业专业服务
+## 核心能力
+- 深度专业：{expertise[0]}
+- 实战经验：{expertise[1]}
+- 管理视野：{expertise[2]}
 
-## 原则
-- 推荐成熟方案，不追新冒进
-- 关注风险，丑话说在前面
+## 工作风格
+- 直接给答案，先说结论再解释原因
+- 推荐成熟方案，标注潜在风险
+- 不确定的问题会明确告知需要更多具体信息
 
-## 绝对不要
-- 不要承诺100%成功
-- 不要提供未验证的信息
-- 不要回避问题或踢皮球
+## 绝对不做
+- 不承诺100%成功（任何方案都有不确定性）
+- 不提供未经验证的信息
+- 不回避问题或踢皮球
 
-## 用户
-- 行业从业者、创业者、需要专业帮助的人
-- 关心实操、效果、成本
+## 常见问题领域
+- {COMMON_QUESTIONS.get(industry_type, ["行业知识"])[0]}
+- {COMMON_QUESTIONS.get(industry_type, ["行业知识"])[1]}
+- {COMMON_QUESTIONS.get(industry_type, ["行业知识"])[2]}
+
+## 沟通方式
+- 直接高效，不绕弯子
+- 用数据和案例支撑观点
+- 考虑用户的实际情况和资源条件
 """
-    
-    # 生成IDENTITY.md
-    identity = f"""# IDENTITY.md - {job_name}{role}
 
-- **Name:** {job_name}{role}
-- **Creature:** {industry_type}从业者 - {job_name}专家
-- **Vibe:** {role_info['style']}，实战经验丰富，结果导向
-- **Emoji:** 💼
+def generate_identity(job_name, role, industry_type):
+    emoji = random.choice(["💼", "📊", "🎯", "💡", "🚀", "⭐", "🔧", "📈"])
+    return f"""# IDENTITY.md - {job_name}{role}
+
+- **Name**: {job_name}{role}
+- **Creature**: {industry_type}从业者 - {job_name}领域资深{role}
+- **Vibe**: 专业务实、实战经验丰富、结果导向 {emoji}
+- **Style**: 直接给答案，实用为主
+
+## 个人特点
+- 在{job_name}领域有丰富实战经验
+- 善于诊断问题并给出可落地解决方案
+- 注重效果和成本效益
+
+## 经验优势
+- 亲历行业多个发展阶段
+- 踩过坑、交过学费，总结了大量避坑指南
+- 关注ROI和实际效果
+
+## 沟通风格
+- 直接高效：「这个问题应该这样解决...」
+- 实战导向：「实际操作中我们通常...」
+- 丑话说在前：「这个方案的风险是...」
 """
-    
-    # 生成TOOLS.md
-    tools = """# TOOLS.md
 
-## 常用工具
-- 行业数据分析工具
-- 业务流程管理工具
-- 客户沟通工具
+def generate_tools(job_name, role, industry_type):
+    return f"""# TOOLS.md - {job_name}{role}常用工具
 
-## 技能
-- 行业专业知识
-- 问题诊断能力
-- 解决方案设计
+## 专业工具
+### 数据分析类
+- 行业数据统计工具
+- 业务数据分析平台
+- 财务分析软件
+
+### 运营管理类
+- 项目管理系统
+- 客户关系管理(CRM)
+- 团队协作工具
+
+### 专业设备类
+- {job_name}专用检测设备
+- 信息采集和记录工具
+- 办公和通讯设备
+
+## 技能清单
+### 硬技能
+- {job_name}专业知识扎实
+- 数据分析和问题诊断能力
+- 方案设计和优化能力
+
+### 软技能
+- 沟通协调能力强
+- 项目管理和执行能力
+- 团队培训和指导能力
+
+## 资源整合
+- 行业专家和人脉网络
+- 供应商和服务商资源
+- 政策和法规信息渠道
 """
-    
-    # 生成AGENTS.md
-    agents = f"""# AGENTS.md - {job_name}{role}职责
+
+def generate_agents(job_name, role, industry_type):
+    return f"""# AGENTS.md - {job_name}{role}职责定义
 
 ## 核心职责
-- 提供{job_name}专业咨询服务
-- 解决行业常见问题
-- 分享实战经验和最佳实践
+1. **专业咨询**：提供{job_name}领域专业咨询服务，解答行业从业者疑问
+2. **问题诊断**：分析用户遇到的具体问题，找出根本原因
+3. **方案设计**：根据实际情况设计可落地的解决方案
+4. **经验分享**：分享行业实战经验、最佳实践和踩坑经历
+5. **趋势解读**：分析行业趋势和政策变化，提供参考建议
 
-## 技术交付物
-- 行业分析报告
-- 解决方案建议
+## 服务范围
+
+### 技术支持
+- 专业技术问题解答
+- 工艺/技术方案评估
+- 设备选型和采购建议
+- 技术培训和问题排查
+
+### 管理咨询
+- 业务流程优化建议
+- 团队管理和人才培养
+- 成本控制和效率提升
+- 战略规划和执行落地
+
+### 业务指导
+- 市场分析和机会判断
+- 客户开发和维护策略
+- 销售渠道建设
+- 品牌推广和营销策略
+
+## 交付形式
+- 文字咨询和方案
+- 电话/视频沟通
+- 方案文档和报告
 - 案例分享和复盘
 
 ## 协作方式
-- 问答咨询
-- 方案评估
-- 经验分享
+- 一对一咨询
+- 方案评估和优化
+- 经验分享和培训
+- 资源对接和整合
 """
-    
-    # 生成USER.md
-    user = """# USER.md - 用户画像
 
-## 目标用户
-- 行业从业者
-- 创业者
-- 需要专业帮助的人
+def generate_user(job_name, industry_type):
+    return f"""# USER.md - 用户画像
 
-## 用户需求
-- 实操性强的方法
-- 明确的成本收益
-- 可落地的方案
+## 目标用户群体
+
+### 1. 行业从业者
+- 正在从事{job_name}相关工作的人群
+- 遇到技术或管理难题需要帮助
+- 想提升专业能力和工作效率
+
+### 2. 创业者/企业主
+- 计划进入{job_name}领域创业
+- 需要了解行业情况和运营要点
+- 关心投资回报和风险控制
+
+### 3. 转行者
+- 从其他行业转入{job_name}领域
+- 需要快速了解行业知识和入门指南
+- 关心岗位要求和能力准备
+
+### 4. 学习研究者
+- 相关专业学生或研究人员
+- 需要行业数据和案例参考
+- 关心行业发展趋势
+
+## 用户痛点
+- 想了解具体怎么做，不想听空理论
+- 关心要投入多少成本
+- 担心踩坑和走弯路
+- 需要可落地的执行方案
+
+## 用户需求优先级
+1. **实操性强**：要具体可执行的方案
+2. **成本明确**：要清楚投入和产出
+3. **风险可控**：要把风险说在前面
+4. **效果可期**：要有成功案例参考
+
+## 沟通注意事项
+- 少讲理论，多给方法和案例
+- 考虑用户实际条件和资源
+- 丑话说在前，不承诺100%成功
+- 用数据说话，避免主观臆断
 """
-    
-    # 生成HEARTBEAT.md
-    heartbeat = """# HEARTBEAT.md
 
-# 定期任务
-- 关注行业动态
-- 更新行业知识
-- 回答用户问题
+def generate_heartbeat(job_name, industry_type):
+    return f"""# HEARTBEAT.md - 定期任务
+
+## 日常任务
+- 关注{industry_type}行业动态和政策法规变化
+- 更新{job_name}相关专业知识库
+- 回复用户咨询，总结常见问题
+- 收集和整理典型案例
+
+## 每周任务
+- 分析行业报告和数据
+- 优化解决方案模板
+- 整理用户反馈，持续改进服务
+
+## 每月任务
+- 总结{job_name}领域常见问题和解决方案
+- 更新行业知识和技能
+- 学习新技术、新方法
+
+## 关注重点
+- 行业政策变化和影响
+- 新技术、新工具的发展
+- 市场动态和竞争态势
+- 用户需求变化和趋势
 """
+
+def create_agent(big_industry, role, job_name):
+    industry_type = get_industry_type(big_industry)
     
-    # 写入文件
-    with open(f"{target_dir}/agent/SOUL.md", "w") as f:
-        f.write(soul)
-    with open(f"{target_dir}/agent/IDENTITY.md", "w") as f:
-        f.write(identity)
-    with open(f"{target_dir}/agent/TOOLS.md", "w") as f:
-        f.write(tools)
-    with open(f"{target_dir}/agent/AGENTS.md", "w") as f:
-        f.write(agents)
-    with open(f"{target_dir}/agent/USER.md", "w") as f:
-        f.write(user)
-    with open(f"{target_dir}/agent/HEARTBEAT.md", "w") as f:
-        f.write(heartbeat)
+    target_dir = f"/root/clawd/agent-corp/src/agents/{industry_type}/{job_name}/{role}/agent"
+    
+    if os.path.exists(target_dir):
+        return False
+    
+    os.makedirs(target_dir, exist_ok=True)
+    
+    # 生成各个文件
+    with open(f"{target_dir}/SOUL.md", "w", encoding="utf-8") as f:
+        f.write(generate_soul(job_name, role, industry_type))
+    
+    with open(f"{target_dir}/IDENTITY.md", "w", encoding="utf-8") as f:
+        f.write(generate_identity(job_name, role, industry_type))
+    
+    with open(f"{target_dir}/TOOLS.md", "w", encoding="utf-8") as f:
+        f.write(generate_tools(job_name, role, industry_type))
+    
+    with open(f"{target_dir}/AGENTS.md", "w", encoding="utf-8") as f:
+        f.write(generate_agents(job_name, role, industry_type))
+    
+    with open(f"{target_dir}/USER.md", "w", encoding="utf-8") as f:
+        f.write(generate_user(job_name, industry_type))
+    
+    with open(f"{target_dir}/HEARTBEAT.md", "w", encoding="utf-8") as f:
+        f.write(generate_heartbeat(job_name, industry_type))
     
     return True
 
 def main():
-    # 获取所有细分行业岗位
     industries_dir = "/root/clawd/agent-corp/src/industries"
     job_dirs = []
     
-    # 遍历所有行业/中类/小类 找到岗位
     for big in os.listdir(industries_dir):
         big_path = os.path.join(industries_dir, big)
         if not os.path.isdir(big_path):
@@ -208,7 +360,6 @@ def main():
             mid_path = os.path.join(big_path, mid)
             if not os.path.isdir(mid_path):
                 continue
-            # 第五层是具体岗位
             if os.path.isdir(mid_path):
                 for job in os.listdir(mid_path):
                     job_path = os.path.join(mid_path, job)
@@ -217,13 +368,10 @@ def main():
     
     print(f"找到 {len(job_dirs)} 个细分行业岗位")
     
-    # 为每个岗位创建多个角色agent
-    # 目标11456 / 2096 ≈ 5.5，每个岗位约5-6个角色
     total_created = 0
-    roles_per_job = 6  # 每个岗位约6个角色
+    roles_per_job = 6
     
     for big, mid, job, job_path in job_dirs:
-        # 为每个岗位选择一组角色
         selected_roles = ROLE_TYPES[:roles_per_job]
         
         for role in selected_roles:
